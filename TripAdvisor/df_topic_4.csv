@@ -1,0 +1,288 @@
+Review,Topics,Positive,Neutral,Negative,Token Predictions Corrected
+"Comida excelente, bebidas variadas, ambiente bem decorado com ótimo atendimento. Preço salgado. Muito divertido.",4,0.9819380044937134,0.01187528669834137,0.006186653394252062,[]
+"Excelentes drinks, facilidade com o cardápio digital, decoração divertida e amigos animadíssimos. NOITE PERFEITA👏🏼👏🏼👏🏼",4,0.9260671734809875,0.04129438474774361,0.03263843059539795,[]
+"Ambiente super legal, comida gostosa (e com preço em conta) e bebidas deliciosas(apesar do preço não ser tão em conta assim)!",4,0.7164831757545471,0.08318129181861877,0.2003355324268341,[]
+"muito booom, comida muito boa, atendimento top, os drinks estavam muito bons tmb, os guri atenderam mt bem, valeu ai MC otimo trabalho",4,0.9295980334281921,0.019068518653512,0.05133344605565071,[]
+"Adoramos tudo!!! A decoração, a gastronomia, a bebida, o atendimento e o astral do restaurante!!! Recomendamos",4,0.9604118466377258,0.01475592702627182,0.024832164868712425,[]
+"Mto bom, vale a pena! Ótimo atendimento e ambiente, recomendo a visita para tomar uma cerveja gelada!",4,0.8674513101577759,0.01563948765397072,0.1169092208147049,[]
+Muito bom. Adoramos a experiência. Atendimento nota 10. Ambiente muito bom. Comida deliciosa. Drinks top,4,0.8258478045463562,0.04782269150018692,0.1263294816017151,[]
+Excelente e muito bom o atendimento! Lugar com clima ótimo... bebidas ótimas... comidas ótimas e bebidas,4,0.9170882701873779,0.01988595351576805,0.06302580237388611,[]
+"Atendimento excelente, comida maravilhosa, bebida deliciosa, ambiente lindo e aconchegante. Super recomendo.",4,0.9910647869110107,0.00676621962338686,0.0021690453868359327,[]
+"Lugar top, muito divertido, ótimo atendimento, comida e bebida boa!  Com certeza voltaremos e recomendaremos.",4,0.9886583685874939,0.006836594548076391,0.00450512021780014,[]
+"adorei!!! muit bom atendimento, excelente espaço e ambiente! aniversário super legal e cerveja gelada",4,0.9532752633094788,0.012111244723200798,0.03461354970932007,[]
+Excelente lugar para jantar! Opção happy hour com os preços de drinks mais conta. Tudo de muita qualidade. Atendimento impecável. Valeu muito a pena. Voltarei.,4,0.9520655870437622,0.026710381731390953,0.021224072203040123,[]
+"excelente atendimento, comida gostosa, lugar bonito, bebida gostosa, só a entrega que demorou um pouco",4,0.9745044112205505,0.018493905663490295,0.00700166542083025,[]
+"Petiscos perfeitos drinks maravilhosos, atendimento incrível garçons super prestativos, ótimo local para estar com amigos",4,0.861477792263031,0.033860836178064346,0.10466136783361435,[]
+"Excelente local para vir em família,  amigos e casal.
+
+Comida muito boa e belas bebidas.
+
+Local alto astral...",4,0.966965913772583,0.022378934547305107,0.010655244812369347,[]
+"Ótimo lugar, aconchegante, local bonito, com ótimas comidas e bebidas. Atendimento rápido e eficiente.",4,0.9753201007843018,0.01727711595594883,0.007402873132377863,[]
+"Shows , muito bacana, Sensacional funcionários super simpáticos,muitas bebidas diferentes ótimo para encontro com amigos",4,0.40964236855506897,0.044768061488866806,0.5455895066261292,[]
+O Guaca é meu lugar favorito pra aproveitar com a família e os amigos. A comida está sempre saborosa e os drinks são maravilhosos. O atendimento na unidade Barra é especial!,4,0.9762805700302124,0.015756933018565178,0.0079624829813838,"[('Guaca', 'I-ORG'), ('Barra', 'I-LOC')]"
+"Comida ótima, bons drinks e um atendimento excepcional. Kaylane e Matheus nos atenderam com muito carinho e dedicação, super recomendado!!!",4,0.9746072292327881,0.012549825012683868,0.012842976488173008,"[('Kaylane', 'I-PER'), ('Matheus', 'I-PER')]"
+"Quem me atendeu foi o garçom Mateus, que foi muito atencioso e educado! Nos ajudou nos indicando pratos e bebidas",4,0.9289231300354004,0.02396225742995739,0.047114647924900055,"[('Mateus', 'I-PER')]"
+"Incrível, ambiente e pessoal maravilhosos! Parabéns. Comida gostosa, bebidas geladas e atendimento impecável!",4,0.9778106212615967,0.009397604502737522,0.01279176864773035,[]
+"Ambiente muito agradável, comida boa e bebidas com valores acessíveis! Super recomendo!! Voltaria com certeza",4,0.9745451807975769,0.011634293012320995,0.013820505701005459,[]
+"Atendimento perfeito,tudo ótimo. Comida boa,lugar agradável. Bebidas boas, atendentes perfeitos ♥️♥️♥️✨",4,0.8713461756706238,0.041994575411081314,0.08665936440229416,[]
+"Rodízio excelente, bastante opções e excelente atendimento. A opção de bebida também estava muito saborosa.",4,0.984527587890625,0.011134999804198742,0.0043374462984502316,[]
+"Atendentes perfeitos, comidas e bebidas ótimas, tudo de bom para uma noite em floripa. Você ficará muito satisfeito com tudo que oferecem aqui",4,0.6791317462921143,0.051468100398778915,0.26940014958381653,"[('floripa', 'I-LOC')]"
+"Lugar muito legal, comida, ambiente, bebidas, atendimento, tudo muito bom! Vale a pena vim conhecer esse lugar!",4,0.9559820890426636,0.01388158742338419,0.03013628162443638,[]
+"Lugar maravilhoso, ambiente incrível, comida muito boa, bebida excelente, e sem falar no atendimento, atendimento sensacional, atendentes alegres, simpáticos, a atendente Evelayne é muito simpática o atendimento dela é o melhor.",4,0.9662797451019287,0.0249725803732872,0.008747618645429611,"[('Evelayne', 'I-PER')]"
+"Boa comida, divertido (ambiente), o entretenimento é maravilhoso, fomos  super bem atendidos. Ótima noite.",4,0.971761167049408,0.015069789253175259,0.013168984092772007,[]
+"Simplesmente sensacional... ambiente agradável... atendimento do Andre nota 1000.
+Comida e bebida boa.",4,0.8951383233070374,0.04498092085123062,0.059880759567022324,"[('Andre', 'I-PER')]"
+"Um lugar com a comida muito gostosa, drinks excelentes, o ambiente é muito bom, com um atendimento muito bom!",4,0.9864242672920227,0.007620587479323149,0.0059551941230893135,[]
+"O lugar é super animado,diversão na certa e a comida é boa e com preço justo
+
+e a bebida nem se fala,tudo de bom",4,0.881630539894104,0.061187922954559326,0.05718150734901428,[]
+"O ambiente, juntamente com as bebidas e comidas são muito agradáveis e de ótima qualidade! apesar de um pouco caro",4,0.8099807500839233,0.038644544780254364,0.1513747274875641,[]
+"Experiência fora do normal! Ambiente super aconchegante, comida e bebida muito boa ! voltarei com certeza!",4,0.9526552557945251,0.03487074002623558,0.012474006041884422,[]
+"Ótimo atendimento, muito rápidos e atenciosos. Comida deliciosa e os drinques excelentes!!! Parabéns!!!",4,0.9667167067527771,0.012347796000540257,0.020935526117682457,[]
+"Excelente atendimento e uma otima alimentaçao, bebidas de otima qualidade, voltarei sempre que possivel",4,0.9720280766487122,0.018282275646924973,0.0096896355971694,[]
+"Maravilhoso  minha primeira vez com a minha família espero volta mais vezes, drinks sofisticados e geladíssima.",4,0.9305158853530884,0.028947757557034492,0.04053635522723198,[]
+"Ambiente especial, bem característico. Bebidas, drinks, comida e atendimento de 1°. Excelente! 2° vez na casa!!!!",4,0.9818978905677795,0.013254053890705109,0.004848034121096134,[]
+"Comidas deliciosas,drinks muito bons, ambiente bonito e agradável! Na última vez que eu fui, eu e minhas minhas amigas achamos o atendimento um pouco demorado...",4,0.9843462705612183,0.008145957253873348,0.007507689762860537,[]
+"Lugar bem aconchegante, interativo, alegre. Bons drinks e adorei o cardápio virtual. Voltaremos com certeza.",4,0.9630593657493591,0.02330167032778263,0.013638981617987156,[]
+"que lugar maravilhosooooo, atendimento excelente!!!!
+talvez eu tenha exagerado um pouco na margarita, mas não tem problema. só gente bonitaaa, adorei",4,0.9467772245407104,0.049697395414114,0.003525453619658947,[]
+"Mano, surpreendentemente bom. Pedi uma recomendação e ganhei uma festa! Graças a Deus, saindo bem alimentado e bem entretido.",4,0.9563896059989929,0.01406648475676775,0.029543878510594368,"[('Mano', 'I-PER'), ('Deus', 'I-PER')]"
+"Excelente comida, muito aconchegante, festa aninada. Boas opções de pratos e bebidas. Ótima opção para noite",4,0.970931351184845,0.01483030617237091,0.014238391071557999,[]
+Muito bom o serviço! Recomendo. Atendimento rápido e prestativo. Comida muito boa e cerveja gelada! Recomendo!,4,0.9700857400894165,0.011178775690495968,0.018735479563474655,[]
+"Atendimento impecável, equipe super simpatica e atenciosa, comida maravilhosa sem falar nas bebidas!!!
+Voltarei com certeza",4,0.9415660500526428,0.027561523020267487,0.030872410163283348,[]
+"eu e meus amigos frequentamos uma noite ótima com um cardápio de bebidas maravilhoso, somado de um atendimento e comidas sensacionais!",4,0.9221890568733215,0.02205488085746765,0.055756062269210815,[]
+"Excelente atrndimento, quesaasilha muito saborosa. Cerveja gelada e música de qualidade. Recomendo muito, venha!! Abraços.",4,0.9861605167388916,0.007490567397326231,0.0063489521853625774,[]
+"Sensacional muuuuito bom realmente incrível, tomamos uns shots aqui vamo beber depois , recomendo muito",4,0.6974390149116516,0.05889086797833443,0.24367012083530426,[]
+"Noite maravilhosa.. uma experiência incrível. Minha segunda vez no restaurante , o melhor do Rio!!
+
+Hoje trouxe as meninas do Ceará pra conhecer , elas amaram.",4,0.9453667402267456,0.018853414803743362,0.03577981889247894,"[('Rio', 'I-LOC'), ('Ceará', 'I-LOC')]"
+"Noite maravilhosa, comida deliciosa, bebidas ótimas e profissionais de alta qualidade com interação com o público.",4,0.9767573475837708,0.011628376320004463,0.011614328250288963,[]
+"Ambiente agradável e comida muito saborosa ,presenciei os Mariati onde a noite ficou bem descontraída .",4,0.9108414053916931,0.031978439539670944,0.057180147618055344,"[('Mariati', 'I-MISC')]"
+"Restaurente de boa aparencia, muito bonito. Vale a pena vizida pelo menos uma vez. Um dos pouco que respeita o protocolo da covid 19,com álcool 70 por todas as partes do restaure e distribuição de máscara para cliente.",4,0.9591796398162842,0.026325199753046036,0.014495158568024635,[]
+Atendimento excelente principalmente do atendente  Arnaldo e da Fátima. Comida deliciosa e cerveja bem gelada.,4,0.9703198075294495,0.020049525424838066,0.009630648419260979,"[('Arnaldo', 'I-PER'), ('Fátima', 'I-PER')]"
+"Otimo clima, comidas e drinks. Recomendo muito para comemorações ou jantares mais animados. 
+Voltarei com certeza!",4,0.8890430331230164,0.040131472051143646,0.07082556933164597,[]
+"Otimo local,bem temático, serviço otimo.
+Super recomendo tanto para familia quanto para amigos. Bebidas maravilhosas.",4,0.9708809852600098,0.014374815858900547,0.014744242653250694,[]
+"Excelente atendimento, comida muito boa, cerveja gelada e um preço justo, decoração diferenciada, garçons muito atenciosos.",4,0.9815537929534912,0.013579600490629673,0.004866523668169975,[]
+"Esse é um ambiente para todos 
+Bons drinks 
+Dj 
+Garçons animados 
+Um ambiente confortável 
+É muito animado",4,0.9614277482032776,0.02632041834294796,0.012251798994839191,[]
+local muito agradável e acessível a todas as idades com uma grande variedade de comidas e bebidas. super indico,4,0.866895854473114,0.03135215863585472,0.10175203531980515,[]
+"Espaço muito bom com som animado, atendimento bom, comida gostosa e bebidas muito bem feitas. 😀😁😆😃",4,0.9719892144203186,0.012139776721596718,0.015870995819568634,[]
+"Espaço excelente, comida boa, energia positiva, drinks sensacionais, um lugar que vale a pena se visitar na barra da tijuca.",4,0.9942836165428162,0.003855059389024973,0.0018612927524372935,[]
+Lugar agradável e divertido. Funcionários simpáticos e comida muito saborosa além da minha cerveja gelada,4,0.957891047000885,0.023907842114567757,0.01820116676390171,[]
+"Ótimo local, com bastante mesa e movimento, drinks muito bons e ótimas entradas para dividir com os amigos e aproveitar a noite.",4,0.964607298374176,0.019133472815155983,0.01625927723944187,[]
+"Primeira vez visitando o local. Ambiente incrível para fotos, comida muito saborosa e preço justo. Amei os drinks também! Com certeza voltarei, estão de parabéns.",4,0.9131989479064941,0.04700115695595741,0.039799854159355164,[]
+Otimo lugar. Nunca fui tao bem atendida em um.local. otima variedade de comidas e drinks. Muito show.,4,0.5754566192626953,0.24615950882434845,0.17838391661643982,[]
+"Atendimento ímpar. Comida excelente,  cerveja geladíssima e preço justo. O ambiente é um show à parte! A Maria tornou tudo mais acolhedor.  Parabéns!",4,0.9537808895111084,0.026642832905054092,0.019576184451580048,"[('Maria', 'I-PER')]"
+"Cerveja gelada e nacho mto bom !!!! Experiência incrível, ambiente agradável e atendimento excelente.. recomendo muito",4,0.9348271489143372,0.022502293810248375,0.042670492082834244,[]
+"Super indico! Excelentr atendimento, comidas e bebidas! Bom para tirar fotos com sombreiro e sem! Muito animado!",4,0.9755023121833801,0.011168084107339382,0.013329669833183289,[]
+"Rodízio ótimo. Atendimento muito eficaz. Empatia dos funcionários, cerveja gelada, custo beneficio execelente",4,0.9028472304344177,0.03538619354367256,0.06176663935184479,[]
+"Mto bom, energia mto boa!!! Comida boa, bebida boa, bom atendimento, divertido e engraçado.
+Recomendo",4,0.947200357913971,0.012647543102502823,0.04015219956636429,[]
+"Ótimo ambiente, com um clima muito agradável, cardápio amplo, bebidas variadas e funcionários muito atenciosos.",4,0.7194278836250305,0.039394229650497437,0.24117787182331085,[]
+"Lugar agradável, bebida bacana e bom atendimento. Recomendo para noites com amigos, happy hour ou até mesmo sozinho",4,0.9406499266624451,0.024680038914084435,0.03466995060443878,[]
+"Ótima casa, muito divertido com os Mariachis, ótimos drinks. Recomendo... Local incrível, parabéns! Vocês são demais!!!",4,0.9061523079872131,0.022836392745375633,0.07101134210824966,"[('Maria', 'I-MISC')]"
+"Sistema interativo ótimo, atendente Gabriel nota 10, ambiente alegre e acolchegante, comidas e drinks muito saborosas.m",4,0.8937219381332397,0.04680509492754936,0.05947300046682358,"[('Gabriel', 'I-PER')]"
+"Comida excelente, o atendimento é muito bom e animado, a galera gosta do trabalho, bebida de qualidade, el jimador, cerveja gelada, vale antena sair de casa",4,0.9892545938491821,0.004730645101517439,0.006014660932123661,[]
+"A Decoração é apaixonante, os pratos e drinks são maravilhosos.
+
+Voltei e sempre que estivermos no Rio, iremos lá.
+
+Super Recomendo!!!",4,0.9774197340011597,0.009203079156577587,0.013377196155488491,"[('Rio', 'I-LOC')]"
+"Ótimo atendimento, cerveja gelada, lugar super agradável, gente bonitas,perfeito para confraternização com amigos...",4,0.9437515139579773,0.022110506892204285,0.03413798287510872,[]
+"Ambiente Aconchegante e divertido.
+Boa comida, bebida e bom atendimento.
+Ótima ideia para qualquer eventualidade.",4,0.9326874613761902,0.03196755796670914,0.03534494340419769,[]
+"Lugar sensacional,  muito bem decorado e animado. Ótimos drinks e atendimento excelente... primeira vez que fui e voltarei com certa",4,0.9782134890556335,0.012058542110025883,0.009728027507662773,[]
+A comida e o atendimento são bons. Os valores dos drinks estavam bem acessiveis no happy hour. E o diferencial eh o ambiente temático.,4,0.9583149552345276,0.02714543230831623,0.014539633877575397,[]
+"Foi demais!
+Drinks maravilhosos e a comida dispensa comentários, a casa trabalha com várias promoções espetaculares, ja estou contando os dias pra voltar.",4,0.9406976103782654,0.019125962629914284,0.04017644748091698,[]
+"Ambiente muito animado, com ótimas bebidas e bom atendimento.
+Com ótima comida e graçons muito antenciosos",4,0.9078651070594788,0.025296324864029884,0.06683859974145889,[]
+"Sem comparação.
+Atenção dos atendentes, praticidade da recepção, barman excelente.
+Satisfação total.",4,0.9466634392738342,0.03265616297721863,0.020680461078882217,[]
+"Pessoal muito receptivo! Comida excelente, cerveja gelada!
+Melhor do que o de Porto Alegre :)
+Super recomendo!",4,0.978627622127533,0.013847807422280312,0.007524579763412476,"[('Porto', 'I-LOC'), ('Alegre', 'I-LOC')]"
+"Tudo ótimo maravilhoso!! Recomendamos muito!!! Comida, bebida tudo maravilhoso, voltaremos com certeza",4,0.9919599890708923,0.004252387210726738,0.0037875836715102196,[]
+"Muito bom para beber com os amigos e animado... cerveja bem gelada e comida deliciosa...
+Os animadores são os melhores",4,0.9574629664421082,0.022003501653671265,0.02053356170654297,[]
+"Muito bom o atendimento!!!!  A bebida estava ótima, o ambiente super agradável. Recomendaria para mais pessoas.",4,0.653057873249054,0.019137192517518997,0.32780489325523376,[]
+"Muito bom o atendimento, clima muito bom, intérpretes e garçons animados. Bebidas lindas e gostosas.",4,0.7141088247299194,0.032655805349349976,0.2532353699207306,[]
+Indico p todos irem ... ligar especial c animação garantida ..comidas e bebidas é um show a parte ..  vale a pena a ida pelo menos uma bez por semana .. pedir p ser atendida pela Eveline e Allan..,4,0.41544675827026367,0.09432077407836914,0.49023252725601196,"[('Eveline', 'I-PER'), ('Allan', 'I-PER')]"
+Recomendo. Excelente gastronomia. Preço justo. Drinks maravilhosos . O garçom Matheus uma simpatia. E cantores ótimos,4,0.9726427793502808,0.01520058698952198,0.012156740762293339,"[('Matheus', 'I-PER')]"
+"Ambiente muito agradável e animado. Atendimento rapido, cerveja gelada, e muita gente animada. Voltarei.",4,0.9581707715988159,0.01959870383143425,0.022230498492717743,[]
+"Excelente ambiente, atrações agradabilíssimas, comida saborosa com preço justo , bebidas variadas e atendimento ágil.",4,0.9819678664207458,0.012753932736814022,0.0052781966514885426,[]
+"Muito bom amigo Matheus muito gente boa e muito educado, bebidas ótimas e chopp bem gelado incrível aqui",4,0.9030188322067261,0.022826753556728363,0.07415442913770676,"[('Matheus', 'I-PER')]"
+"Ótimo ambiente, alegre, divertido, comida e bebidas maravilhosas, o atendimento fez toda diferença, Alisson, Eveline e Daniele são excelentes, o requisito e muito alegre e ótimo.. recomendo",4,0.9865380525588989,0.007873359136283398,0.005588608793914318,"[('Alisson', 'I-PER'), ('Eveline', 'I-PER'), ('Daniele', 'I-PER')]"
+"Boa comida !!!!
+Boa bebida !!!!
+Serviço Agil !!!
+Chiara atendente super simpática !!
+Super indico !!!",4,0.9862977266311646,0.007171311415731907,0.006531042512506247,"[('Chiara', 'I-PER')]"
+"Atendimento bom, comida gostosa, os drinks valeram a pena. Passei uma boa noite com minha namorada os atendentes eram muito simpáticos",4,0.9162847399711609,0.021608415991067886,0.06210675090551376,[]
+"Amei tudo ambiente encantador ...
+O atendimento foi único me sentir mas que especial !!!!
+Da recepção a cozinha a simpatia o carisma de todos ...
+A comida com o sabor único as bebidas encanTa os olhos ....
+Agradeço por fazerem minha noite mas que...Mais",4,0.8766224384307861,0.050925228744745255,0.07245230674743652,[]
+"Perfeito para uma noite em amigos, pessoal super gente boa e ambiente incrivelmente animado! Comidas e drinks deliciosos ainda por cima",4,0.979451596736908,0.012949521653354168,0.007598977070301771,[]
+"Lugar incrível e funcionários animados e prestativos, comida boa, cerveja extremamente gelada e drinks maravilhosos.",4,0.885242760181427,0.03984538093209267,0.07491189986467361,[]
+"Atendimento atencioso, comida deliciosa. Bebidas diferenciadas. Ótimo ambiente e atendimento especializado.",4,0.8832049369812012,0.06015060842037201,0.056644465774297714,[]
+"Ótimo ambiente, super decorado, temático.  Comida deliciosa, bebidas diversificadas com inúmeras tequileira, atendimento nota 10!",4,0.8537246584892273,0.028651172295212746,0.11762426048517227,[]
+"Ótimo atendimento, cerveja gelada, atendente eficiente e animado (el trapo). Recomendo. Decoração fantástica.",4,0.8657955527305603,0.036041200160980225,0.09816328436136246,[]
+Eu Diogo me sinto no México estando em tal estabelecimento! Acho as comidas os drinks muito gostosos,4,0.5182363390922546,0.15088070929050446,0.33088287711143494,"[('Diogo', 'I-PER'), ('México', 'I-LOC')]"
+Ótima opção de diversão e entretenimento. Bebida gelada e comida boa. Atendimento perfeito. Diversão garantida.,4,0.8191856145858765,0.06475799530744553,0.11605638265609741,[]
+"Ótima comida ! Ambiente alegre e aconchegante , bons drinks , Staff atencioso e tudo de bom! Super recomendado!",4,0.9850807785987854,0.008338152430951595,0.0065810540691018105,[]
+"Super temático, atendentes simpáticos. Comida e drinks deliciosos. Local para reunir amigos e família para uma noite muito animada.",4,0.9159846901893616,0.027897808700799942,0.056117430329322815,[]
+"amo aqui, atendimento perfeito! vou voltar sempre, comida ótima! todas as comidas que pedi aqui são excelente e as bebidas também",4,0.5825318098068237,0.040709953755140305,0.37675827741622925,[]
+"Atendimento impecável, garçons muito educados e simpáticos. Alem disso, a comida e bebida estava uma delícia.",4,0.7882429361343384,0.06317716836929321,0.1485798954963684,[]
+"Comida boa, equipe animada, cerveja gelada. Muito bom atendimento, gostei da experiência!! Voltarei mais vezes",4,0.9205366969108582,0.023794718086719513,0.055668607354164124,[]
+Otimo lugar para beber e se divertir com os amigos. Otimo atendimento. Otimos drinks. Pratos gostosos,4,0.7661453485488892,0.09852971881628036,0.13532495498657227,[]
+"Serviço super atrativo e divertido, comida top e drinks deliciosos! recomendo!!! Fica super bem localizado",4,0.981799304485321,0.010893784463405609,0.007306939922273159,[]
+"Ambientação maravilhosa, atendentes atenciosos e com uma culinária e bebidas excepcionais! Sou de São Paulo e sempre que venho visito a casa!",4,0.9692534804344177,0.01245254185050726,0.0182939562946558,"[('São', 'I-LOC'), ('Paulo', 'I-LOC')]"
+"Não tenho palavras para descrever como vocês foram importante nesse noite maravilhosa, obrigado a todos!!!!!!!!!",4,0.7324529886245728,0.118091881275177,0.14945511519908905,[]
+"Atendimento excelente e muito entretenimento durante toda a noite. Além disso, a comida é muito boa e saborosa. Amei!",4,0.9892479777336121,0.008273397572338581,0.002478592796251178,[]
+"Ótima experiência.
+Ambiente sensacional... comida surpreendente. Nosso primeiro pedido foi um drink e foi a ultima coisa a chegar, mesmo depois de falar com dois garçons, mas esse deslize não atrapalhou a noite.
+Recomendo ir preparado para 1h de espera no mínimo ou chegar depois...Mais",4,0.5562071204185486,0.1273493468761444,0.3164435625076294,[]
+"Ambiente agradável, petiscos e drinks saborosos. Boa carta de cervejas a preços baixos. O local é ""point"" de gente jovem. Recomendo.",4,0.7834044098854065,0.04711019620299339,0.1694854497909546,[]
+Falta cerveja de verdade... nem Heineken (que antes vendiam) nao as tem mais... Pelomambiente e local merecia ter bebidas mais adequadas e condizente com o publico... inclusive como uma carta de cervejas de melhor padrao!,4,0.6682710647583008,0.11882726848125458,0.2129017412662506,"[('Heineken', 'I-ORG')]"
+"Local animado, variedade de comidas e bebidas... tudo bem limpo, arejado e organizado. Recomendo !!!!!",4,0.9312058687210083,0.029062431305646896,0.03973167762160301,[]
+"Preços justos, barzinho animado, com boa variedade e qualidade no cardápio tanto de pratos, quanto de bebidas. Ponto a desejar foi apenas o atendimento.",4,0.9031367897987366,0.03746560961008072,0.0593976154923439,[]
+"Apesar de já ter passado na porta várias vezes, eu não conhecia a casa, até que fui com amigos e a diversão foi garantida. Ambiente animado, boa comida e ótimos drinks.",4,0.5463145971298218,0.2126299887895584,0.241055428981781,[]
+"Atendimento maravilho com muita agilidade no atendimento, pessoal divertido, comida muito gostosa, além dos drinks deliciosos, tequileiros muito animados.",4,0.979357898235321,0.012194333598017693,0.008447637781500816,[]
+"Muito boa comida, realmente típica. Bebida um pouco cara, ambiente muito legal, bem elaborado. O sistema de pedidos possibilita uma interação diferente com o cardápio.",4,0.8267534971237183,0.0957205519080162,0.07752594351768494,[]
+"Comida muito gostosa e com preço na média. Bom atendimento e ambiente agradável. Tinha festa junina e fomos chamados para dançar! Clima de total de descontração para quem quer descontrair, porém com mesas mais afastadas para quem quer apenas jantar e ficar observando.",4,0.8284948468208313,0.039000727236270905,0.1325044333934784,[]
+"Excelente ambiente, comida boa, bebidas ótimas,  atendimento de garçom é excelente, adoramos tudo, 100% indico!!!",4,0.9892820119857788,0.005824033170938492,0.004893981385976076,[]
+"Excelente atendimento. Drinks bem executados e deliciosos
+Garçons atenciosos e serviço de salão ótimo.",4,0.9384909272193909,0.025785507634282112,0.035723667591810226,[]
+"Ambiente muito bom, decoração bacana, funcionários simpáticos, comidas e bebidas muito boas.
+Gostei muito da opção de fazer o pedido pelo tablet, o que facilita pois não precisa esperar pelo garçom.
+Fui em um fim de semana, na entrada tinha uma fila mas nada que...Mais",4,0.8283114433288574,0.05483226850628853,0.11685636639595032,[]
+"Local bem disposto, com bastante vagas. Comida bem preparada e com cardápio bem variado. O mesmo serve para as bebidas.",4,0.5450652241706848,0.1661439687013626,0.28879088163375854,[]
+Vim com um grupo de amigos celebrar o amigo oculto e foi ótimo! Fomos super bem atendidos! Cerveja gelada e comida maravilhosa!,4,0.8498709797859192,0.026789622381329536,0.12333934754133224,[]
+"Ótimo atendimento, ótimas bebidas.  Gabriel foi o melhor atendente. Lugar super aconchegante, bebida ótima",4,0.8808421492576599,0.036962106823921204,0.08219564706087112,"[('Gabriel', 'I-PER')]"
+"Local bem agradável, excelente opções no cardápio. Grande variedade de bebidas e drinks. Bem localizado. Recomendo!",4,0.9672096371650696,0.015274789184331894,0.017515597864985466,[]
+"Ambiente descontraído para curtir com amigos ou com a família. Cerveja bem gelada e a comida bem saborosa, com ótimas opções de entrada.
+Um pedacinho do México!",4,0.36268317699432373,0.06775330007076263,0.5695635080337524,"[('México', 'I-LOC')]"
+"Comida muito boa, lugar muito bonito e cerveja gelada! Top demais!! Vim de Sampa e deixo a todos de lá uma ótima recomendação. Uma boa noite a todos.",4,0.9900469183921814,0.006136931013315916,0.003816177137196064,"[('Sampa', 'I-LOC')]"
+"Ambiente bem amigável e descontraído. A entrada é especial, bebidas bem geladas, como todo carioca gosta. Os tacos são maravilhosos. Preço justo compatível com a qualidade do cardápio e do serviço de atendimento.",4,0.8887313604354858,0.04271690919995308,0.06855174154043198,[]
+"Excelente lugar para vir com amigos e até mesmo a família. Muito animado, com atrações ao vivo.
+Cardapio bastante variado, com entradas, menu principal e diversos tipos de bebidas para tornar a noite memorável!",4,0.9681105017662048,0.015914544463157654,0.015974996611475945,[]
+"Muito bom, ambiente,clima, serviço,localização,comida,bebida, tudo ótimo, recomendo e voltarei com certeza.",4,0.9502029418945312,0.015612964518368244,0.034184131771326065,[]
+"Ótima opção para uma noite divertida com amigos! Boa comida e drinks, e os marimachos uma atração à parte. Mas, ainda prefiro ser atendida pelos garçons , em lugar ao tablet😊Mais",4,0.9241772294044495,0.038525234907865524,0.03729754313826561,[]
+Viemos com amigos e todos os pedidos chegaram muito rápido e estava tudo muito gostoso! O cardápio é bem diversificado e as bebidas são muito bem preparadas,4,0.9498974680900574,0.02430851012468338,0.025794073939323425,[]
+"Muito lokooo bom atendimento,bem pontual,comidas e bebidas maravilhosas atendentes mt simpáticos 
+Certamente voltarei",4,0.7995043396949768,0.04303225874900818,0.15746338665485382,[]
+"Comida excelente, ótimo atendimento e um ambiente super agradável. Tornou nossa noite perfeita. Ameeei",4,0.9709988832473755,0.016992654651403427,0.012008430436253548,[]
+"Muito bom, ambiente super agradável, comida deliciosa, os drinks nem se fale...
+Destaques para Eveline e Brunito, e pro Gabriel também que está de folga mas é um atendente maravilhoso também!
+Gracias Gracias
+Voltarei sempre que puder!!!",4,0.9625625014305115,0.022867893800139427,0.014569586142897606,"[('Eveline', 'I-PER'), ('Brunito', 'I-PER'), ('Gabriel', 'I-PER')]"
+"Excelente serviço, ótimas bebidas, comida muito boa. Não tenho no que botar defeito. Pessoal é muito simpático",4,0.9295663833618164,0.04880836606025696,0.021625272929668427,[]
+"Temas de bebidas bem variado,pessoal atencioso e rápido, bom lugar pra frequentar com a família e amigos",4,0.9587661027908325,0.020445164293050766,0.02078884281218052,[]
+"Bebida e comida excelente e o atendimento bem rápido e atencioso, show dos mariates valeu a pena a muito divertido",4,0.986076295375824,0.009317085146903992,0.004606697708368301,[]
+"Cardápio bem variado, comidas bem frescas e deliciosas. Atendimento é muito bom mas quando o lugar fica muito cheio eles deixam a desejar. A carta de drinks é excelente, recomendo.",4,0.9601653218269348,0.021556105464696884,0.018278591334819794,[]
+"Ambiente temático, agradável e divertido, com atendimento personalizado. Bebida e comida muito boa! Super recomendo!",4,0.9827404022216797,0.009643267840147018,0.0076164365746080875,[]
+"Excelente ambiente para confraternização, muita alegria, decoração impecável, atendimento e comida nota mil sem falar nos drinks maravilhosos !!!!",4,0.9767065048217773,0.013426962308585644,0.009866507723927498,[]
+"O lugar tem uma atmosfera boa, os drinks são ótimos e os preços não são tão exorbitantes. Nada barato, porém nada que ultrapasse o valor de no máximo 150,00 por pessoa. Me irritou a espera do atendimento, ficamos uns 10 minutos para vir alguém falar...Mais",4,0.6477254629135132,0.1788657009601593,0.17340891063213348,[]
+"Atendimento excelente, ambiente legal, boa comida e bebidas. Um bom restaurante, que vale a pena para um happy hour...",4,0.9815996289253235,0.011999943293631077,0.006400423590093851,[]
+"Fomos para jantar e era o menos cheio na Olegário Maciel. Serviço muito rápido, pratos bem servidos e comida bem gostosa.  Pelo horário havia uma promoção de cervejas e valia a pena.  O couvert ao final não foi cobrado já que os mariachis tocaram apenas...Mais",4,0.43866902589797974,0.14860941469669342,0.41272154450416565,"[('Olegário', 'I-LOC'), ('Maciel', 'I-LOC')]"
+"Ambiente e atendimento impecáveis! Alegria, comida e bebida de excelente qualidade. Super recomendo... voltarei em breve.",4,0.9490586519241333,0.027337180450558662,0.023604154586791992,[]
+Atendimento muito bom!! comida maravilhosa!! Muito divertido e a noite valeu a pena. Recomendo. Quando forem me chamem,4,0.9881735444068909,0.005027697887271643,0.006798841990530491,[]
+"Ja fui várias vezes na unidade do jardim botânico.
+Melhores pratos: quesadilla, chalupa e entillada. Pedir acompanhamento de cerveja, ótima combinação! Preço justo.
+Dica: pedir várias entradas.",4,0.8439287543296814,0.08356749266386032,0.07250384986400604,[]
+"Lugar bem decorado, clima de diversao, ambiente alto astral. Comida bem servida e bebidas sempre geladas e bem decoradas",4,0.9062685966491699,0.05116202309727669,0.04256938770413399,[]
+Muito bom. Comida e serviço maravilhoso. Desde a entrada até a primeira Frozen de Limão. Garçon Felipe muito atencioso e profissional e sempre sorrindo. E para finalizar os músicos. Parabéns!!!!!,4,0.9745844602584839,0.011151357553899288,0.014264204539358616,"[('Frozen', 'I-MISC'), ('de', 'I-MISC'), ('Limão', 'I-MISC'), ('Felipe', 'I-PER')]"
+"Estivemos eu e meu marido, filha e genro para jantar no dia dos namorados, a noite foi maravilhosa, em pespecial pelo tequileiro que estava nesta noite, os maritacas, comida deliciosa... enfim, já estou morrendo de saudades.",4,0.8383986949920654,0.027784517034888268,0.13381680846214294,"[('namorado', 'I-MISC')]"
+"Gostei muito, ótimo para reunir os amigos! Drinks gostosos e comida deliciosa, voltarei com certeza.",4,0.9598867893218994,0.020369676873087883,0.01974358968436718,[]
+"É um ambiente que está além de ser um simples restaurante. Muito bom, aconchegante o lugar, comida boa, bebida ótima e indico a todos.",4,0.9250858426094055,0.02712305821478367,0.04779110103845596,[]
+"Muito bom! Super divertido, drinks ótimos. Adorei!!! Quinta vez que venho e o atendimento é sempre muito bom!",4,0.9844405651092529,0.006778121925890446,0.008781300857663155,[]
+"Super indico a comida, a decoração da casa é maravilhosa, os drinks mais ainda. Estão de parabéns. O atendimento também é ótimo, são super atenciosos.",4,0.9421731233596802,0.020092936232686043,0.037733979523181915,[]
+"Excelente local, garçons atenciosos, excelente comida e drinks maravilhosos.Se eu indico? Sempre,vale muito a pena.",4,0.9617273211479187,0.02121272310614586,0.017059961333870888,[]
+"O serviço é muito agradável, gostei muito das bebidas, da comida, do ambiente receptivo e de todo o resto.",4,0.7342232465744019,0.04768246039748192,0.21809427440166473,[]
+"A comida é gostosa, apimentada (varios níveis) e o preço é normal para o RJ... Vale a pena!!!!!!!!!!
+Bebidas boas, serviço regular.
+Cobram couvert artístico de R$12 por pessoa.",4,0.8546428084373474,0.05439936742186546,0.09095781296491623,"[('<s>', 'I-LOC'), ('RJ', 'I-LOC'), ('R</s>', 'I-LOC')]"
+"Eu simplesmente amo esse lugar. Comidas e bebidas maravilhosas, ambiente agradável e animado. Dessa vez só senti falta do tequileiro que estava de folga e não tinha ninguém para sacudir a cabeça dos amigos.",4,0.8615103363990784,0.05794334039092064,0.08054633438587189,[]
+"Sou cadeirante e não tive dificuldade no restaurante, apesar de não ter feito uso do banheiro, pois sei que é um dos pontos críticos de estabelecimentos comerciais. Pontos contra, achei os valores um tanto altos para as bebidas, principalmente, e para os pratos.",4,0.424708753824234,0.24019309878349304,0.3350982069969177,[]
+"Muito bom! Apresentações a noite. Comida muito boa. Muito bem decorado. Atendimento personalisado.
+Preço muito bom !",4,0.9848814010620117,0.007703237235546112,0.007415400352329016,[]
+"Comida boa, preço justo, só achei o atendimento para comida meio lento! Cerveja super gelada! Garçons tocam e cantam! Animam o ambiente",4,0.9444567561149597,0.034516748040914536,0.021026499569416046,[]
+"atendimento rápido, comida MARAVILHOSA, drinks gostosos e um preço ótimo.
+com certeza voltarei mais vezes.",4,0.7979493141174316,0.07298839092254639,0.129062220454216,[]
+"Otimo ambiente,atendimento excelente, diversas promoções,comida gostosa e bebida gelada, além de excelentes drinks",4,0.988584041595459,0.007618711329996586,0.003797255689278245,[]
+O atendente foi muito cordial... os drinks estavam muito bons e comida saiu rápido e quentinha. Estão de parabéns!,4,0.38197776675224304,0.052420198917388916,0.5656020641326904,[]
+"Muito animado, engraçado, comida maravilhosa e bebidas também...Margheritas com e sem alcool, maravilhosas !!! Vale a visita. Preço salgado. As duas unidades, barra e zona sul, são otimas !!!",4,0.9632666110992432,0.018460167571902275,0.018273260444402695,[]
+"Boa comida, ótimos drinks, preço justo, ambiente agradável.
+A Eveline é uma ótima atendente e veste a camisa.",4,0.8894463777542114,0.048192113637924194,0.0623614527285099,"[('Eveline', 'I-PER')]"
+Noite muito agradável e divertida. Comida boa e serviço atencioso! Carta variada de drinks e cervejas! Recomendo!,4,0.9812026023864746,0.009549388661980629,0.00924795214086771,[]
+"Comida muito boa, atendimento excelente, bebida boa, molhos bons, ambiente agradável e cardápio tecnológico",4,0.9920180439949036,0.005134692415595055,0.002847253577783704,[]
+"Atendimento excelente!! Comida ótima e chega rapidinho, cerveja geladinha, garçons simpáticos e atenciosos!",4,0.9943931102752686,0.003950272686779499,0.001656632637605071,[]
+"Ambiente maravilhoso, atendimento maravilhoso, comidinhas maravilhosas e drinks maravilhosos! Recomendo 100%!",4,0.9710553288459778,0.011557147838175297,0.0173875130712986,[]
+"Um otimo local para se reunir com os amigos, beber e comer à vontade. Ótimo atendimento e o pessoa é mto animado",4,0.8474093675613403,0.0561763271689415,0.09641434252262115,[]
+"Ambiente muito bom e atendimento maravilhoso, sem falar nos drinks super deliciosos e comida de encher os olhos! Super recomendo!",4,0.9466994404792786,0.020319662988185883,0.03298097103834152,[]
+"Todos os pratos que nós amigos provamos são excelentes... Cerveja gelada, e ótima promoção no happy hour!!!",4,0.969420850276947,0.017936917021870613,0.012642218731343746,[]
+"Muito recomendado, ótimo lugar, bebidas excelentes, comidas maravilhosa, bom preço é ótimo atendimento",4,0.9793775677680969,0.010034858249127865,0.010587606579065323,[]
+"Um local fantástico, maravilhoso, ótimo atendimento com uma estrutura magnífica com varias opções de bebidas e comidas.",4,0.9795206785202026,0.01019122265279293,0.010288034565746784,[]
+Local muito alegre e divertido para estar com os amigos e também em familia. Bom atendimento! Comida e bebida Boa também!,4,0.9809974431991577,0.011108939535915852,0.007893641479313374,[]
+"Ótima noite de sábado que eu vou querer todo dia. Lugar nota 1000. Declarações de amor pela comida, bebida e ambiente.",4,0.5901337265968323,0.08473769575357437,0.32512858510017395,[]
+"Comida, atendimento maravilhoso tudo luxo e qualidade! Bebidas de alta qualidade, ambiente requintado.",4,0.988595187664032,0.0060728853568434715,0.0053319260478019714,[]
+"Lugar muito bom, da hora, animado, comida gostosa e bem servida, atendimento eficiente e de ponta. Uma boa noite a todos!",4,0.9858658313751221,0.007954648695886135,0.006179607007652521,[]
+"Muito legal. As bebidas são ótimas, atendimento bom e funcionários bem animados e prestativos no serviço",4,0.47759246826171875,0.09907978773117065,0.4233276844024658,[]
+"Um elogio à tudo, como o atendimento, bebidas muito bem feitas, um lugar maravilhoso de lindo. Adorei.",4,0.9773005843162537,0.008270010352134705,0.014429432339966297,[]
+Muito Divertido! Muito Animado! Comida muito boa! Melhor Frozen do Rio de Janeiro! Vale a pena conhecer.,4,0.9679255485534668,0.013116779737174511,0.01895761489868164,"[('Frozen', 'I-MISC'), ('Rio', 'I-LOC'), ('de', 'I-LOC'), ('Janeiro', 'I-LOC')]"
+"atendimento muito bom, interação incrível, bebidas deliciosas, decoração excepcional (principalmente em relação à referência Frida Kahlo).",4,0.9232996106147766,0.019858330488204956,0.056842125952243805,"[('Frida', 'I-PER'), ('Kahlo', 'I-PER')]"
+"Ambiente muito bom, ótimo atendimento, bebidas excelentes, comida excepcional, som tradicional, e é isso.",4,0.9473698735237122,0.018866823986172676,0.03376324102282524,[]
+"O local é muitoooo legal. Todos os garçons mega receptivos, a comida muito boa e o clima tb. Achei bem legal o esquema de pedir a comida pelo tablet: mega funcional. 
+Ah, cerveja Stella estupidamente gelada!!!",4,0.3530845642089844,0.08450231701135635,0.5624131560325623,"[('Stella', 'I-MISC')]"
+"Comida maravilhosa! Atendimento nota 10. Cerveja gelada, comidas frescas. Eu amei! Atendimento diferenciado e com muita rapidez. Muito divertido!!! Recomendo demais",4,0.9845481514930725,0.009602759964764118,0.005849108099937439,[]
+"Comida otima ,atendimento excelente,bebida gelada otima,ambiente excelente, funcionarios dedicados e atenciosos.",4,0.9904126524925232,0.006373545620590448,0.003213792573660612,[]
+"Comida maravilhosa e bebidas proncipalmente, preço razoável. Abiente muito caracterizado e legal, bons atendentes",4,0.8396419286727905,0.03790050372481346,0.1224575936794281,[]
+"Noite muito agradável, mas acima de tudo, divertida. Comida saborosa, preço coerente com o ambiente mas se prepare para gastar!",4,0.9415119886398315,0.030641717836260796,0.02784629724919796,[]
+"Excelente comida, ambiente aconchegante, bebidas excelentes e ótimo atendimento!!!
+Atendente Erick ótimo funcionário!",4,0.9856776595115662,0.00892384722828865,0.005398464854806662,"[('Erick', 'I-PER')]"
+"Lugar divertido para zoar com os amigos, muitas variedades de bebidas, funcionários super simpáticos.",4,0.922903835773468,0.03942979872226715,0.03766638785600662,[]
+"Comida boa, bebida boa, excelente bar, porém se gosta de conversar com os amigos enquanto está na mesa, terá que gritar um pouco...",4,0.9158828854560852,0.0553882010281086,0.028728928416967392,[]
+"Ambiente agradavel, garcons extremamente educados, eficientes, alem de comidas e drinks da melhor qualidade!",4,0.9708808064460754,0.012904997915029526,0.016214216127991676,[]
+"Boa variedade de drinks e comidas no cardápio. Ambos muito bem preparados e saborosos. No happy hour, os drinks valem ainda mais a pena. Recomento a visita",4,0.9215145707130432,0.03980309143662453,0.03868236392736435,[]
+"Excelente. Recepção calorosa, comida sensacional, drinks variados e saborosos. Ótimo para curtir com família e amigos.",4,0.9886186122894287,0.008234694600105286,0.0031466868240386248,[]
+"Melhor soda de maçã verde e ambiente na Barra da Tijuca! Super recomendo a todos! Família, amigos!!!",4,0.9724388718605042,0.01479290146380663,0.012768139131367207,"[('Barra', 'I-LOC'), ('da', 'I-LOC'), ('Tijuca', 'I-LOC')]"
+"Experiência Maravilhosa!!!!
+
+Uma noite muito animada e com drinks e comidas sensacionais!!
+
+Obrigada! 🙋‍♀️🍺🍾",4,0.9630564451217651,0.01469285599887371,0.022250598296523094,[]
+"experiência muito legal . com amigos, bebida gelada e atendimento muito bom e atencioso. Voltaremos com certeza",4,0.7921074628829956,0.0502307303249836,0.1576617956161499,[]
+"Muito animado, ótimo atendimento, cerveja gelada, comida deliciosa, voltarei mais vezes com certeza!!!!!!!",4,0.953624427318573,0.016506139189004898,0.029869448393583298,[]
+"Bebida gelada, comida de qualidade! Super amo esse lugar!ambiente familiar!indico e recomendo a todos!",4,0.9924299120903015,0.004907309077680111,0.0026628468185663223,[]
+"Ambiente maravilhoso, agradável e com bom atendimento. Bebidas boas e comida deliciosa. Recomendo a todos!",4,0.9814419150352478,0.008289923891425133,0.010268143378198147,[]
+"Ótimo atendimento, garçons muito simpáticos, atenciosos. Comida uma delícia, cerveja estava geladinha :)",4,0.638701319694519,0.06149246543645859,0.2998061776161194,[]
+Segunda vez na casa e super recomendo!! Garçons mto animados! Comida boa e cerveja gelada! Bom demais!,4,0.9844388365745544,0.009511807933449745,0.006049418356269598,[]
+"comida gostosa!  ambiente tranquilo e divertido, bebidas geladas, e bons drinks. atendimento de otima qualidade! recomendo",4,0.9824957847595215,0.012264746241271496,0.005239469464868307,[]
+A atmosfera do bar é sensacional! É um ótimo lugar para tomar uns drinks e ver um futebol. Recomendo demais.,4,0.9711114168167114,0.011792158707976341,0.017096426337957382,[]
+"Música alta, cerveja gelada e amizades. Tudo perfeito! Gostei muito de tudo o que foi oferecido, principalmente o balde de cerveja!",4,0.3233819901943207,0.060192812234163284,0.6164252161979675,[]
+Vale a pena ser visitado e curtir a alegria do ambiente. As bebidas (cervejas) foram servidas na temperatura correta,4,0.7675032615661621,0.07589282095432281,0.15660397708415985,[]
+"Comida muito boa, bebida geladinha e atendimento muito bom. Vale a pena conhecer! Tem show ao vivo!!",4,0.9646559953689575,0.011447485536336899,0.023896511644124985,[]
+"Comida muito bem temperada cerveja bem gelada e drinks calibrados , otima recepecao e decoracao linda , voltarei sempre que vier a barra",4,0.8977656364440918,0.0377979539334774,0.0644364282488823,[]
+"Tudo fantástica! Da comida ao atendimento. Bem atendido e clima ótimo, comida deliciosa. Uma noite perfeita para os amigos",4,0.9699792861938477,0.015718655660748482,0.014302010647952557,[]
+"Muito bom, atendimento excelente e comida fora de série! Indico a todas que queiram beber com os amigos!",4,0.9808598756790161,0.00796683132648468,0.011173208244144917,[]
+"Achei a comida muito boa, foram os melhores nachos que já comi e achei os drinks muito bons. O clima do ambiente também é muito agradável.",4,0.8950357437133789,0.031955067068338394,0.07300913333892822,[]
+"Bomm atendimento, garçons atenciosas os, comida bem temperada ambiente animado a noite. Gostei bastante!",4,0.9588425159454346,0.020729314535856247,0.020428188145160675,[]
+"Lugar muito bom, pratos muito gostosos e drinks sensacionais! Quando vierem procurem pelo Brunito, melhor atendente daqui!!",4,0.9559474587440491,0.013517194427549839,0.030535373836755753,"[('Brunito', 'I-PER')]"
+"Atendimento sensacional, animado, lugar descontraído.bebidas geladas, happyhour de qualidade e um preço super barato",4,0.981930673122406,0.008783897385001183,0.009285376407206059,[]
+Muito bom para relaxar e curtir com os amigos! Ótimos drinks e comidas! Com uma boa recepção para os clientes.,4,0.9649987816810608,0.016148870810866356,0.018852388486266136,[]
+"Amei , ja to um pouco bebeda , pessoas muito legal .. adorei tudo , bebidas muito boa. Lugar muito bonito.",4,0.865590512752533,0.055719245225191116,0.07869026064872742,[]
+Gosto muito do local! Gosto sempre de voltar e sempre recomendo para diversas pessoas. Gosto muito da comida e das bebidas.,4,0.947648286819458,0.026517461985349655,0.025834329426288605,[]
+"Muito bom. Muitas bebidas boas. O ambiente é animado. A comida é muito boa. Eu comeria de novo.
+Os preços são bons. Voltaria novamente.",4,0.9683811068534851,0.014124955050647259,0.017493940889835358,[]

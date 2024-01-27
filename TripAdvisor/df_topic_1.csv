@@ -1,0 +1,494 @@
+Review,Topics,Positive,Neutral,Negative,Token Predictions Corrected
+"Ambiente climatizado, customizado, comida excelente.
+Profissionais atenciosos e um show hiper divertido.
+Sem comparação. O tequileiro é fora de serie! Amamos e vamos voltar!",1,0.961571216583252,0.027060097083449364,0.011368765495717525,[]
+"A casa e maravilhosa! Ambiente super agradável, atendimento top e comida muito boa.ja é a 4 vez que venho... Recomendo.",1,0.9817850589752197,0.009576449170708656,0.008638579398393631,[]
+"Muitoooo bom, atendimento excelente, comida muito saborosa, decoração é bem temática e os mateares são ótimos",1,0.9859463572502136,0.008111855015158653,0.005941859446465969,[]
+"O atendimento foi excelente , fomos muito bem atendidos, a comida estava ótima, a casa é muito bem decorada.",1,0.9799108505249023,0.011462442576885223,0.008626743219792843,[]
+"Foi maravilhoso!! A equipe era maravilhosa, a comida estava excelente. Muitos dribles diferente, e todos estavam muitos ótimos .",1,0.9933029413223267,0.004283140413463116,0.0024138870649039745,[]
+Muito bom! Bom atendimento e funcionários muito eficientes. Qualidade e variedade dos pratos. Recomendo!,1,0.9488088488578796,0.010660659521818161,0.04053051397204399,[]
+"Otimo, a comida é gostosa e nao é muito cara, experimente o super nacho de carne. E nao se esqueça de pedir o frozen de tangerina ou uma caipevodka de frutas vermelhas.",1,0.4748627543449402,0.0959438905119896,0.42919328808784485,[]
+"Drink estava um pouco aguado, comida maravilhosa (fajitas de carne) e atendimento excelente, nota mil, do Lobão.",1,0.9282261729240417,0.030570005998015404,0.04120386391878128,"[('Lobão', 'I-PER')]"
+"Comida excelente
+Atendimento excelente !!!
+Gabriel melhor atendente
+Preços bons e comida atrativa !!",1,0.9942587614059448,0.0043639191426336765,0.0013772322563454509,"[('Gabriel', 'I-PER')]"
+"Otimo ambiente ,atendimento maravilhoso,recomendo muito o melhor da olegario maciel...
+  Otima GASTRONOMIA",1,0.9501333832740784,0.01914394646883011,0.03072277456521988,"[('olegario', 'I-ORG'), ('maciel', 'I-ORG')]"
+"As comidas estão muito boas, as comidas estão de parabéns e gostei muito das coisas e os sucos também",1,0.9489357471466064,0.025212714448571205,0.025851517915725708,[]
+"Atendimento muito bom, comida otima, atraçoes de qualidade na casa. Muito bom para familia e amigos.",1,0.9866296052932739,0.0063789584673941135,0.006991375237703323,[]
+"Muuuuuuito bom, ótimo ambiente, animado, alto astral, sempre venho e me divirto bastante, ótima  culinaria!",1,0.9709154963493347,0.012963700108230114,0.016120782122015953,[]
+"Bom atendimento
+Ambiente divertido, boa comida. amei. Particularmente gostei muito!!!!!!! 
+Voltarei sem dúvida!",1,0.9399259686470032,0.025071192532777786,0.03500284254550934,[]
+"Vim com minha familia e foi tudo naravilhoso, a comida é um pouco apimentada mas muito saborosa, a alegria deste lugar é contagiante.",1,0.8566002249717712,0.06525815278291702,0.07814161479473114,[]
+"Lugar com um clima muito bom, ótima qualidade nas comidas, no atendimento e muito tudo muito divertido",1,0.9669281244277954,0.016157684847712517,0.01691419444978237,[]
+"Atendimento e comida ótima!!! Adorei o local, ótimo atendimento e foi muito divertido, ambiente excelente.",1,0.986922025680542,0.008742126636207104,0.004335883539170027,[]
+"Muito bom!! 
+Atendimento top 
+Comida maravilhosaaaa 
+Pedido atendido com rapidez e eficiência 
+Ambiente ótimo",1,0.9820457100868225,0.008151770569384098,0.009802552871406078,[]
+"Comida muito boa,com ótimo atendimento e local agradável!! Atende Lucas muito atencioso e educado tambem",1,0.9561097025871277,0.01893962360918522,0.02495068497955799,"[('Lucas', 'I-PER')]"
+"Mano, tudo de bom!! Solicito a todos que venham porque a diversão é garantida. Fora a comida que é sensacional.",1,0.9837383031845093,0.008466077968478203,0.007795514073222876,[]
+"Pratos bem servidos e gostosos. No dia fui com um grupo não estava tão cheio, mas o atendimento ficou meio enrolado, mas nada demais.",1,0.5825093984603882,0.257703572511673,0.15978702902793884,[]
+"Um ambiente super agradável.
+Ótimo atendimento e agilidade.
+Comidas maravilhosa, sem contar o local incrível",1,0.782571017742157,0.04662555456161499,0.17080342769622803,[]
+10. Muito atenciosos em todos os quesitos. A comida é muito boa e rápida para chegar. Um ambiente animado e feliz.,1,0.9671018123626709,0.017251618206501007,0.0156465545296669,[]
+Um bom local pra reunir os amigos pra comer e se divertir. O local é bem animado e tem um vasto cardápio.,1,0.9121658205986023,0.03658366948366165,0.05125044286251068,[]
+Lugar com boa comida e ótimo ambiente!! Há interação com os clientes e o atendimento é muito bom !!!,1,0.9762557148933411,0.012875114567577839,0.010869159363210201,[]
+"Excelente atendimento e comida ! Foi muito rápido o serviço ! Voltarei com certeza ! 
+Pedi o combo para dividir e serviu 2 pessoas no valor de 129,90.",1,0.9861958026885986,0.007431551348417997,0.0063726333901286125,[]
+"Excelente ambiente, atendimento e culinária de sabor inigualável!!!
+Entretenimento e vibração presentes pra quem procura diversão com pratos maravilhosos!!! é aqui!!!!!
+Super recomendo!!!!!",1,0.9879768490791321,0.00696526700630784,0.005057890433818102,[]
+"Ótimo clima pra curtir com os amigos, comida sempre boa e o lugar animado. Garçom André realizou um ótimo atendimento!",1,0.9202250838279724,0.03420887514948845,0.04556603357195854,"[('André', 'I-PER')]"
+Muito bom atendimento e também uma ótima comida. Ligar descontraído. Bom para curtir com os amigos .,1,0.35143008828163147,0.061222393065690994,0.5873475670814514,[]
+"A gostei muito do atendimento, rápido e eficiente. Comi demais! Estou de barriga cheia. Quero mais! 😊",1,0.4980553090572357,0.06728838384151459,0.4346562325954437,[]
+"Ambiente super top, comida maravilhosa e atendentes com uma educação maravilhosa!! Obrigado volto sempre 💖😍",1,0.9743189215660095,0.011543737724423409,0.014137458987534046,[]
+"Sempre uma experiência incrível, atendimento impecável, sem contar na comida, incrível!!! Super Recomendo!",1,0.6831932663917542,0.057884011417627335,0.258922815322876,[]
+"Local é lindo!! 
+Porém é um tanto quanto apertado, ar condicionado às vezes deixa a desejar. Comida muito boa e bem temperada, porém vem pouca quantidade e o valor é lá no alto! =/Mais",1,0.6012595295906067,0.08080276846885681,0.3179376721382141,[]
+"Segunda vez que venho. E as duas vezes tive uma ótima experiência. Atendimento, comida, ambiente, agilidade, e o sistema do cardápio é MT demais... Fácil, prático, e agiliza o pedido. Parabéns!",1,0.7617494463920593,0.07779794186353683,0.16045263409614563,[]
+"Tudo muito bom comida maravilhosa atendente Leticia muito simpática e ágil , Gabriel Rafael gente boa",1,0.9687035083770752,0.013800963759422302,0.017495518550276756,"[('Leticia', 'I-PER'), ('Gabriel', 'I-PER'), ('Rafael', 'I-PER')]"
+"Atendimento rápido e funcionários atenciosos. Comida deliciosa. Indico para todos, ambiente bem animado e familiar.",1,0.962882936000824,0.019938819110393524,0.017178310081362724,[]
+"Ambiente muito agradável, bem caracterizado. Atendimento muito bom e comida igualmente boa. Recomendo!",1,0.9594113230705261,0.014369501732289791,0.02621920220553875,[]
+"Comida excelente, ambiente perfeito, atendimento nota mil! Recomendo sempre, melhor local para encontros e eventos, reunir os amigos! Mega divertido.",1,0.9917253255844116,0.004507066216319799,0.003767669666558504,[]
+"Ambiente muito legal, decoração b feita. Comida muito bem feita o Garçons simpáticos e atenciosos. Destaque para o Sandro que sempre atende a todos com uma energia especial. Recomendo.",1,0.7607877850532532,0.06073479354381561,0.17847740650177002,"[('Sandro', 'I-PER')]"
+"ambiente super divertido e comida deliciosa 
+todo mundo super gente boa e tive uma experiência leve",1,0.9652219414710999,0.01850062422454357,0.01627744361758232,[]
+"Perfeito, local excelente, comida perfeita. 
+Local agradável, ótimo atendimento. Recomendo, a melhor opção.",1,0.9810498356819153,0.012901813723146915,0.006048327777534723,[]
+"Ambiente chama atenção de cara pela linda decoração, e quando entramos ficamos apaixonados pela simpatia dos garçons e a forma com que nos trataram , falando da comida uma verdadeira explosão de sabores.",1,0.6730925440788269,0.06140084192156792,0.2655065953731537,[]
+"Ambiente muito agradável, descontraído. A comida é de primeira qualidade! Bom para ir com amigos ou familiares!",1,0.7867026329040527,0.03380042314529419,0.17949694395065308,[]
+"Muito bom!
+Gostamos muito,excelente atendimento e uma comida maravilhosa,voltaremos com certeza e até breve",1,0.9925745725631714,0.004213271196931601,0.0032121003605425358,[]
+"Local sempre mt agradável e com comida incrível. Ademais, funcionários maravilhosos e super educados.",1,0.781490683555603,0.06170345097780228,0.1568058431148529,[]
+"espaço super harmonioso, ambiente durante todo o período animado, as comidas são maravilhosas, os atendentes e todos os funcionário super atenciosos e profissionais. Um ponto a melhorar seria quando chamamos o garçom e ele não demorar tanto.",1,0.9212674498558044,0.02635825425386429,0.052374351769685745,[]
+sobremesa maravilhosa. pratos bem elaborados e saborosos. porem nao da pra dividir. pouca quantidade. vale a  pena experimentar.,1,0.9290978312492371,0.026419220492243767,0.044482942670583725,[]
+"Comida deliciosa e atendimento sem incrível. Créditos para o André, melhor atendimento do mundo! Voltarei sempre!!!!",1,0.8902404308319092,0.03685549274086952,0.0729040876030922,"[('André', 'I-PER')]"
+"Ambiente, comida e atendimento impecáveis, com certeza voltarei mais vezes.
+Tudo perfeito, obrigado a funcionária Maria.",1,0.22497758269309998,0.11114721745252609,0.663875162601471,"[('Maria', 'I-PER')]"
+"Ótimo para curtir com os amigos, ambiente bem decorado , comida maravilhosa e atendimento maravilhoso ,especialmente o garçom Gabriel. Com certeza voltarei.",1,0.9643065929412842,0.017266754060983658,0.0184266809374094,"[('Gabriel', 'I-PER')]"
+"Excelente! Ótimo atendimento, ótima comida, local divertido. Bom para trazer amigos e também a familia.",1,0.9909247159957886,0.006303366739302874,0.002771911909803748,[]
+"Atendimento excelente, comida incrível e ambiente extremamente harmonioso. Nós adoramos! É uma ótima pedida para qualquer tipo de ocasião.",1,0.8272295594215393,0.027468951418995857,0.14530152082443237,[]
+"Local muito bonito, com ótimo atendimento e comidas saborosas.. Matheus e Lucia muito simpaticos no atendimento",1,0.9784598350524902,0.015274611301720142,0.006265577394515276,"[('Matheus', 'I-PER'), ('Lucia', 'I-PER')]"
+"Local agradável, super receptivo e de ótimo atendimento!!!.
+Comida muito boa, atração (Mariates) divertidos e engraçados!",1,0.9171746969223022,0.019871031865477562,0.0629543662071228,"[('Mariates', 'I-PER')]"
+"Local agradável e muito divertido. Funcionários caracterizados dão um toque divertido ao local. Apesar de não gostar de pimenta, há muitas opções de pratos que podem agradar ao nosso paladar. Gostei e recomendo a visita. Os preços são meio ""salgados"" mas vale a pena",1,0.8539160490036011,0.050320398062467575,0.09576362371444702,[]
+"Muito bom!
+Simplesmente maravilhoso, comida muito boa e atendimento impecável.
+Voltaremos com certeza!!!",1,0.9884147644042969,0.0065851351246237755,0.004999992903321981,[]
+"Excelente local, romântico, divertido, comida excelente e o atendimento.... Impecável!
+Tem um chavo del ocho na porta.",1,0.9839795827865601,0.012544691562652588,0.0034757398534566164,[]
+Ambiente agradável e comida muito boa. Porções fartas e atendimento atencioso. Vale a pena conhecer. Recomendo.,1,0.833368182182312,0.04711567610502243,0.11951620876789093,[]
+"Comida excelente, atendimento nota 10 tudo muito bom e maravilhoso. Recomendo 100% a todos. Venham e se divirtam",1,0.9889246821403503,0.0058729322627186775,0.005202496889978647,[]
+Excelente lugar pra se divertir com os amigos e familiares. Comida excelente e atendentes super atenciosos.,1,0.9820709824562073,0.01268761046230793,0.005241439212113619,[]
+"Otimo! Adorei a experiência! Foi tudo maravilhoso e delicioso. Mas os preços são um pouco altos, mas tudo ótima qualidade",1,0.9674761295318604,0.014256268739700317,0.01826760359108448,[]
+"Tudo muito show. Quero voltar e amar isso aqui de novo. Comida gostosa e de qualidade. Um arraso, minha gente!",1,0.9202888011932373,0.026977894827723503,0.05273328348994255,[]
+"Ambiente super agradável, atendimento excelente, comida saborosa!
+A comida estava excelente! Só senti falta de ter meio pratos, pois dependendo do número de pessoas que vc esteja faz falta,
+Recomendo! Só o ponto chats é que nesta rua está tendo muitos meninos de rua infelizmente,...Mais",1,0.9600929021835327,0.02020510658621788,0.019701939076185226,[]
+"Fui jantar com a família do meu namorado!
+SENSACIONAL!!! 
+Atendimento excelente, funcionários simpáticos, comida boa, música EXCEPCIONAL, clima delicioso...
+Amei amei amei",1,0.9721173048019409,0.01458531990647316,0.013297428376972675,[]
+"Fomos em 3 casais de amigos, simplesmente adoramos. Ambiente animado, comida boa e diversão garantida! Amamos!!!!",1,0.977445662021637,0.0161049235612154,0.006449464708566666,[]
+"Boa cozinha, comida boa, atendimento nao muito bom... O local e bonito mas nao muito cuidado... Mas vale a pena",1,0.9025543332099915,0.04688818007707596,0.050557419657707214,[]
+"Um lugar bom, divertido, animado e com uma boa comida!!! Vale a pena ir e pedir os pratos típicos!!!!!!!!!!!!!!!!!!!!!",1,0.9356423616409302,0.017469016835093498,0.04688875377178192,[]
+"Ambiente agradável,bem decorado,animado,comida maravilhosa,adorei o novo sistema de pedido pelo tablet,garçons atenciosos.",1,0.9778924584388733,0.011219046078622341,0.010888519696891308,[]
+"Ambiente agradável, comida boa, bom atendimento. Tive que esperar cerca de uma hora para entrar no local que estava lotado. Achei também o preço final um pouco alto",1,0.9143795967102051,0.02500603348016739,0.060614366084337234,[]
+"Comida excelente, ótimo atendimento, garçons atenciosos e rapidez na entrega dos pedidos. Ótimo para estar com amigos e família!",1,0.9874601364135742,0.00803778413683176,0.004502067808061838,[]
+"Atendimento excelente,comida maravilhosa, ambiente super agradável,e acolhedor,a alegria e contagiante.voltarei sempre.",1,0.9935604333877563,0.004154335707426071,0.0022851538378745317,[]
+"Localizado perto de bons hotéis na Barra da Tijuca e com ambiente climatizado. Boa comida e com bom custo benefício. A partir de 20:30 é cobrado ""couvert"" de 10 reais por pessoa, e vale a pena, pois o grupo interage com as mesas e anima...Mais",1,0.8496004343032837,0.05122089385986328,0.0991787314414978,"[('Barra', 'I-LOC'), ('da', 'I-LOC'), ('Tijuca', 'I-LOC')]"
+"Lugar excepcional, comida maravilhosa, atendentes super atenciosos cardápio muito facil agradável preço acessível Otimooo Notaaa 1000",1,0.9052637815475464,0.03168421611189842,0.06305200606584549,[]
+"Comida muito boa, ambiente muito agradavel e atendimento de qualidade. Garçons super atenciosos com todos os clientes!",1,0.9881040453910828,0.007823854684829712,0.004072202835232019,[]
+"Ambiente alegre e agradável. Os frequentadores se divertem muito Comida boa.
+A única coisa que não agradou muito foi o preço... Mesmo assim eu voltarei.",1,0.7182970643043518,0.07861880213022232,0.20308417081832886,[]
+"O local é muito agradável, mas o atendimento precisa melhorar muito, os garçons são pouco prestativos, a  comida achei razoável .",1,0.6567985415458679,0.10540588200092316,0.2377956062555313,[]
+"Comida gostosa e atendentes muitos animados e divertidos, ambiente agradável e decoração bonita. Recomendo muito!",1,0.9878662824630737,0.006989372428506613,0.005144302733242512,[]
+"Comida muito boa, atendimento excepcional! Recomendo, ambiente familiar.....…
+Não deixem de conhecer a casa",1,0.5503630042076111,0.079493947327137,0.37014302611351013,[]
+Muito bom ambiente excelente amei sempre vou voltar . atendimento otimo melhor impossivel comida otima animaçao otima,1,0.9534868001937866,0.025794532150030136,0.02071867696940899,[]
+"Estive na filial do JB com a família e fomos muito bem recebidos, com educação e gentileza pelos funcionarios. Fizeramnde rudo para nos acomodar em um estabelecimento com várias reservas de mesas, cujos clientes estavam por chegar. Alem disso, comida boa e por preço justo,...Mais",1,0.9374916553497314,0.02816334366798401,0.034344907850027084,"[('JB', 'I-ORG')]"
+"O lugar é incrível e a comida excepcional.
+
+O único ponto de melhoria é reduzir os dados pedidos na entrada e não cobrar o limão espremido.",1,0.1396465301513672,0.09594579041004181,0.7644076347351074,[]
+"Fui jantar com a minha família e foi maravilhoso! Comida, bebida e atendimento excelentes!! Amo cada vez mais a cada visita!",1,0.9932814836502075,0.004090362228453159,0.0026281089521944523,[]
+Indico a todos que procuram lugar animado e com boa comida para desfrutar de bons momentos ao lado de pessoas queridas.,1,0.9571791291236877,0.020257437601685524,0.02256334200501442,[]
+Sempre excelente!!!! Comida maravilhosa e atendimento perfeito!!! Muito obrigada!!! O lugar é bem divertido!!,1,0.9813169240951538,0.00868631899356842,0.009996796026825905,[]
+"Ambiente muito bom e animado e com otima comida, garçons atenciosos ao serviço. Vale a pena! Divertidíssimo !",1,0.9611310958862305,0.01214835699647665,0.026720507070422173,[]
+Ambiente agradável e comida muito boa. Clima leve e propício pra happy hour. Muito satisfeito com o atendimento. Recomendaria.,1,0.908485472202301,0.03394109755754471,0.05757341533899307,[]
+Excelente ambiente. Comida com orecos jistos. Os Mariates são muito animados.Misocas maravilhosas. Nota dez.,1,0.9698905944824219,0.016825223341584206,0.013284143060445786,"[('Maria', 'I-MISC')]"
+"O ambiente é agradável, a comida é excelente. Ótimo atendimento dos funcionários em geral. Recomendo!",1,0.9760246872901917,0.011119614355266094,0.01285574957728386,[]
+"Lugar muito bom e agradável, comida boa e atendimento muito bom, os atendentes são simpáticos, voltaria mais vezes",1,0.8766725659370422,0.025855664163827896,0.09747175872325897,[]
+Muito bom! Comida deliciosa! Fui muito bem atendido pela Amanda! Recomendo à todos! Irei voltar em 2019!,1,0.9900297522544861,0.0048975870013237,0.0050726947374641895,"[('Amanda', 'I-PER')]"
+"Um lugar maravilhoso para curtir com os amigos. Super animado, local descontraído, culinária maravilhosa.",1,0.9657109975814819,0.01724841073155403,0.017040535807609558,[]
+"Pontos a avaliar: decoração, boníssima comida, localização excelente, local gostoso de estar e o melhor: a companhia melhor do mundo!",1,0.9929775595664978,0.0044753095135092735,0.0025471681728959084,[]
+"Comida muito boa, atendimento rápido, ambiente agradável e muito divertido, excelente escolha pra sair com os amigos.",1,0.9919890761375427,0.004838219378143549,0.0031727016903460026,[]
+"Rodízio muito bom, com opção de todos os pratos, exceto os de camarão.
+Ambiente muito bem decorado..",1,0.9148092865943909,0.029928060248494148,0.05526268482208252,[]
+"Comida excelente, serviço bom mas o preço não é muito bom... Achei a comida maravilhosa mas achei o lugar caro para um jantar de dia de semana.",1,0.7862750291824341,0.1176307201385498,0.09609423577785492,[]
+"Muito bem atendido, com uma entrega de comida rápida, e bom cover artístico,  entregando boa diversidade de comidas!",1,0.9511169195175171,0.015870606526732445,0.033012375235557556,[]
+"Ambiente familiar, aconchegante e serviço muito bom! Preços não muito acessíveis. Mas as promoções de vendas coletivas ajudou bastante.",1,0.9198142290115356,0.039355047047138214,0.04083077237010002,[]
+Lugar muito animado! Ótimo atendimento! Comida excelente com a melhor companhia. Recomendo que venham porque o arrependimento passa longe!,1,0.9822960495948792,0.00784726906567812,0.009856624528765678,[]
+"Animado, marguerita Frozen delícia, atendimento muito bom, pedido via tablet bem informal e eficiente. Comida muito gostosa e pessoas simpáticas. Super indico!",1,0.897148609161377,0.02336224913597107,0.0794890969991684,[]
+"Ao contrário do que está habituado no Rio, o atendimento é excelente e a comida é fora do comum! Além de ter um ótimo um ótimo custo benefício",1,0.9366897940635681,0.04309491813182831,0.020215263590216637,"[('Rio', 'I-LOC')]"
+"Comida delícia, atendimento top e diversão garantida! Além dos atendentes simpáticos e divertidos! Experimentem a caipirinha de kiwi... a melhor!",1,0.970579981803894,0.013192876242101192,0.01622728258371353,[]
+"O ambiente é ótimo, lugar bonito e animado. Precisa melhorar a informação sobre como pedir, fiquei igual uma pateta porque fui pela primeira vez. Poderia vir alguém da casa dar as boas vindas e avisar como funciona. Além disso, a comida veio muito apimentada. Ok...Mais",1,0.8406401872634888,0.05639180168509483,0.10296806693077087,[]
+"Tudo ótimo! Comida excelente, ambiente muito agradável. Em especial ao atendimento do Alisson, melhor atendente ever!",1,0.9905881881713867,0.005592416040599346,0.003819450968876481,"[('Alisson', 'I-PER')]"
+"O ambiente é bem temático, atendimento excelente, comida muito boa, além da apresentação artística de primeira.",1,0.984481692314148,0.008984493091702461,0.006533865351229906,[]
+"Já é a 3ª vez que venho e sempre é melhor que a última vez, comida muito boa, atendimento ótimo e o ambiente é muito bom! Gabriel o melhor atendente que poderíamos ter",1,0.9811015725135803,0.009600621648132801,0.009297793731093407,"[('Gabriel', 'I-PER')]"
+"Boa comida, ambienta maravilhoso e muito aconchegante, ótimo atendimento e local seguro é agradável,",1,0.9495456218719482,0.018910234794020653,0.031544215977191925,[]
+"Muito bem atendido, principalmente por Becker! Ótima comida! Recomendo bastante e com certeza voltarei mais vezes!",1,0.23161405324935913,0.04194651171565056,0.7264394760131836,"[('Becker', 'I-PER')]"
+"Excelente lugar, ambiente alto astral, atendimento de primeira, comidas excepcionais, melhor local pra fazer um pedido de casamento",1,0.9751600027084351,0.013773759827017784,0.011066281236708164,[]
+Muito legal o ambiente. Divertido e atendimento 10! Comida saborosa! Decoração muito bonita e estilosa.,1,0.8982231020927429,0.031236538663506508,0.07054033875465393,[]
+"Uma ótima experiência, com excelente atendimento e uma comida super saborosa. Voltarei com certeza, muito bom.",1,0.9862317442893982,0.007879217155277729,0.005889066495001316,[]
+Ótimo atendimento e lugar sensacional. Ambiente temático comida muito boa para confraternizacoes com amigos.,1,0.850002646446228,0.04106508940458298,0.10893228650093079,[]
+"Comida muito boa, ambiente agradável e atendimento excelente! 
+Comemos diversos pratos e todos estavam muito gostosos, bem temperados e quentes.
+Voltaremos com certeza!",1,0.9907909631729126,0.005510644055902958,0.003698368091136217,[]
+"Ótimo atendimento e comida, um ótimo ambiente para comemorar com os amigos e família. Recomendo a todos",1,0.8646902441978455,0.049284350126981735,0.0860254168510437,[]
+"Excelente atendimento, comida interessante e principalmente pela equipe com o atendente Brunito e cia. gracias!",1,0.9844376444816589,0.010016195476055145,0.0055460999719798565,"[('Brunito', 'I-PER')]"
+Diversão garantida e comida excelente! Só o atendimento dos garçons que deixou um pouco a desejar mas acredito que seja porque o local estava muito cheio.,1,0.9446559548377991,0.01993921585381031,0.035404760390520096,[]
+"Experiência completa incrível, comida gostosa e serviço impecável. Recomendo para todos aproveitarem um momento especial.",1,0.8836683630943298,0.049628935754299164,0.06670275330543518,[]
+"Lugar maravilhoso, atendimento excelente, gostoso de estar e se alimentar também! Venham e se divirtam, vai dar tudo certo.",1,0.9862408638000488,0.008859727531671524,0.0048993295058608055,[]
+"Se quer comer um chili delicioso com machos crocantes, acompanhados de um sour cream, está no lugar certo. Voltarei com certeza.",1,0.6069730520248413,0.12684489786624908,0.2661820352077484,[]
+"Sensacional o ambiente comida incrível, som muito bom ao vivo, atendimento muito bom, principalmente do Davi e do alisson.",1,0.8216383457183838,0.027844859287142754,0.1505168080329895,"[('Davi', 'I-PER'), ('alisson', 'I-PER')]"
+"Muito bom . Comida dos deuses . Muito bem servida Especialmente pelo Becker que nós recebeu da melhor forma ,  super atendimento",1,0.8432888388633728,0.029066868126392365,0.12764433026313782,"[('Becker', 'I-PER')]"
+"Comida muito boa,  ambiente.bem legal,  destaque para o atendimento do Mateus, Emerson e Lucia. Ótimo para comemoração e trazer a família",1,0.9364749193191528,0.0225018709897995,0.04102320224046707,"[('Mateus', 'I-PER'), ('Emerson', 'I-PER'), ('Lucia', 'I-PER')]"
+"Ambiente animado, ótimo para sair com os amigos ou a familia, comida excelente, bom atendimento. Recomendo!",1,0.9778904318809509,0.010554121807217598,0.011555498465895653,[]
+"Comida maravilhosa, ambiente super agradável e alegre e atendimento nota 1000! Super recomendo !! E eu meus amigos amamos!!!",1,0.9902206659317017,0.005448450334370136,0.004330923780798912,[]
+"Ótimo atendimento, comida muito boa e o ambiente também, estava tudo ótimo! Voltarei mais vezes com toda certeza.",1,0.8938268423080444,0.026846928521990776,0.07932620495557785,[]
+"O local é ótimo para quem gosta de um ambiente diferenciado e animado. A comida é excelente, o preço é um pouco alto.",1,0.9366684556007385,0.03836147487163544,0.024970049038529396,[]
+"Ambiente agradável, atendimento ótimo e comida impecável. Pretendo voltar em breve com meus amigos e amigas.",1,0.7473448514938354,0.07569370418787003,0.17696137726306915,[]
+"Comida espetacular, ambiente agradável e acolhedor. Quando está cheio os garçons ficam um pouco perdidos.",1,0.3201127052307129,0.08377844095230103,0.5961088538169861,[]
+Gostei muito dos pratos e do atendimento. Muitos solicitos. A comida estava saborosa. Com certeza volto mais vezes!,1,0.6266699433326721,0.0770699605345726,0.2962600886821747,[]
+"Comida maravilhosa, panelinha de chilli deliciosa, não deixem de experimentar a caixinha de espumante, top demais!!!",1,0.8746659755706787,0.07009247690439224,0.05524154379963875,[]
+"Lugar maneiro, funcionários maneiros, localização muito boa.P ara quem gosta de um lugar temático  de bom gosto com comida boa e diversão.",1,0.9148553609848022,0.03617607057094574,0.04896854609251022,[]
+"Vim pela primeira vez e pretendo vir sempre! Espaço muito aconchegante, equipe maravilhosa e comida deliciosa (melhor opção é o rodízio). Amei muito.",1,0.9532016515731812,0.017905239015817642,0.028893133625388145,[]
+"Que lugar excepcional, ambiente bem decorado, atendimento rápido e eficiente. Culinária diferenciada!!",1,0.9022045135498047,0.036601658910512924,0.061193790286779404,[]
+"Excelente comida, atendimento e localização. Além de um ambiente totalmente despojado e familiar ao mesmo tempo. Super agradável.",1,0.9262482523918152,0.0404130257666111,0.0333387516438961,[]
+Melhor lugar não há! Adoro trazer minhas visitas... muito divertido comida maravilhosa e preço justo.,1,0.6619043946266174,0.13424190878868103,0.2038537561893463,[]
+"Comida maravilhosa, otimo atendimento e localização muito boa! Adorei e com toda a certeza vou voltar",1,0.9692034721374512,0.01145839598029852,0.019338203594088554,[]
+"Ambiente agradável, rodízio acessível com comidas típicas e saborosas. Lugar temático com várias formas de entretenimento. Muito recomendado",1,0.9167459607124329,0.04303780198097229,0.04021617770195007,[]
+"Adorei o lugar, aconchegante, animado, comida deliciosa e muito bem servida. O preço não é barato, mas vale a pena.",1,0.9290602803230286,0.03360746055841446,0.03733222186565399,[]
+"Tudo perfeito, não faltou atenção ou comida; e sempre da melhor qualidade possível. Inclusive, as sobremesas desse rodízio foram ótimas. 5 estrelas!",1,0.6462369561195374,0.1971925050020218,0.15657052397727966,[]
+"Muito bom desde a entrada até a saída garçons  animados, prestativos, local limpo, não muito caro... e ótima comida !!",1,0.7817423939704895,0.06157350540161133,0.15668411552906036,[]
+"Ambiente descontraído, bem decorado, excelente pra ir com grupo de amigos e familiares. Boa comida, bom serviço, muito divertido!",1,0.9900874495506287,0.005915025714784861,0.003997439052909613,[]
+"Comida forte,apimentada e saborosa. Ambiente agradável e muito bem localizado. Ótimo pra uma saída com amigos",1,0.9165300130844116,0.03083479218184948,0.05263509973883629,[]
+"Gostei, o rodízio é muito bom e as sobremesas apesar de pequenas são gostosas. Ambiente agradável tanto para encontros como para sair com amigos.",1,0.9136067032814026,0.02943185716867447,0.05696139857172966,[]
+"Boa culinária, excepcional ambiente. Opções de cardápio parecem variadas mas são todas oscilações de tacos, nachos e qualquer outra coisa daquela famosa massa. Preço razoável.",1,0.4389230012893677,0.12123998999595642,0.4398369789123535,[]
+"Excelente comida e ambiente!! Pessoal super prestativo e amigavel!!
+Recomendo a qualquer dia e hora!!",1,0.9885281324386597,0.008351845666766167,0.003120139241218567,[]
+"Comida de qualidade, muito boa e ambiente agradável. Espaço temático, atendimento muito bom. Localização boa!",1,0.9746120572090149,0.010989797301590443,0.01439803559333086,[]
+"André mandou recomendar, tá feito! Amei o local, a comida, os atendentes, e todo o resto. Muito bom mesmo.",1,0.8604706525802612,0.042886871844530106,0.09664246439933777,"[('André', 'I-PER')]"
+"Gostei do lugar, alegre, colorido e com uma turma de funcionários que fazem a festa rolar.
+A comida é apenas razoável, mas sem duvida vale a ida, pois vai se divertir.",1,0.8740423321723938,0.09737449139356613,0.028583260253071785,[]
+"Ambiente super descontraído, atendentes super atenciosos e comida deliciosa! Recomendo muito! Voltarei em breve.",1,0.8184300065040588,0.027839649468660355,0.1537303775548935,[]
+"Muito bom. Muito divertido, comida muito boa, atendimento espetacular, ambiente muito agradável com decoração de muito bom gosto, enfim super indicado!",1,0.9826956987380981,0.007542838342487812,0.00976147036999464,[]
+"Comida gostosa e equipe divertida e simpática, lugar limpo, bem localizado e preço justo. Recomendo.",1,0.9079276919364929,0.04913507401943207,0.04293728619813919,[]
+"Amei tudo na casa, atendimento do garçom, decoração da casa, os pratos e tudo mais! O ambiente é muito agradável",1,0.8300467133522034,0.030115734785795212,0.13983756303787231,[]
+"Super animado, atendimento rápido e comida boa. Vale a pena vir e passar tempo aqui com os amigos ou família",1,0.9650061130523682,0.0192062109708786,0.015787696465849876,[]
+"Adoro o local, a decoração e a comida é muito saborosa.. Ambiente sempre animado, porém as vezes o atendimento pode demorar um pouco. Sempre vou e recomendo",1,0.9220372438430786,0.03779754042625427,0.04016534239053726,[]
+"Comida sempre boa, atendimento ótimo!!! Vale a pena experimentar a michelada!! Ótimo ambiente!!!!! !!",1,0.8957833647727966,0.024334590882062912,0.07988212257623672,[]
+O liga vale a pena! Cozinha boa e um ótimo lugar para curtir amigos e família!! Tudo de bom. Recomendo!,1,0.9414455890655518,0.011815373785793781,0.04673901945352554,[]
+"Amei nota 1000 super indico para amigos e para quem quiser, ambiente agradável, comida maravilhosa!!!",1,0.9748317003250122,0.009990394115447998,0.015177963301539421,[]
+"Local legal, entrega de comida bem rápida, couver artístico bom, bastante variedades de comida, preços mais acima",1,0.9423382878303528,0.02513471059501171,0.032526981085538864,[]
+Muito legal. Ambiente agradável. Comida boa. Aqui é um lugar apropriado para trazer amigos. Família. Já voltei algumas vezes e recomendo,1,0.6221930980682373,0.07569967210292816,0.3021072745323181,[]
+Fui com minha esposa e adoramos o local. Bem informal e bem aconchegante. O melhor foi o preço. Vale muito a pena.,1,0.7311863899230957,0.08431952446699142,0.18449410796165466,[]
+"Experiência incrível, comida ótima, lugar super animado, atendimento maravilhoso, vale muito conhecer o lugar, decoração temática muito legal",1,0.9380526542663574,0.018700210377573967,0.04324716702103615,[]
+"Lugar agradável, comida boa e atendimento excelente. Gerência muito competente, rodízio com excelente opções",1,0.9835026860237122,0.012310207821428776,0.004187051206827164,[]
+"Atendimento excelente... Lugar agradável... Comida top! Garçons atenciosos... Enfim, super recomendo!",1,0.9849857091903687,0.009861850179731846,0.005152457393705845,[]
+"Comida deliciosa, um ótimo ambiente para se estar com amigos! Funcionários super atenciosos! Amei e voltarei!",1,0.9645606875419617,0.015473482199013233,0.019965816289186478,[]
+"A atendente Eveline é muito atenciosa, comida ótima, ambiente muito agradável! Ótimo para famílias, Namorados e amigos se divertirem!",1,0.9738086462020874,0.012506252154707909,0.013685066252946854,"[('Eveline', 'I-PER')]"
+"Comida muito boa e ótimo atendimento. Mariachis animam muito o ambiente, muito legal!! Ótimo para ir com amigos!!",1,0.8024079203605652,0.03916849195957184,0.15842366218566895,[]
+"Ótimo ambiente para curtir com a família, comida gostosa, bom atendimento, uma opção diferente para sair da rotina!",1,0.9344474673271179,0.026510104537010193,0.039042480289936066,[]
+"Estive com meus amigos, venho sempre aqui, comida excelente. O atendimento é prestativo, porem em dias cheio é meio precario, por isso colocaram o tablet. Mas em dias vazios, sao excelentes.",1,0.9807797074317932,0.015233010053634644,0.0039872461929917336,[]
+"Excelente lugar, comida boa e de qualidade, com o pessoal atencioso e sempre prestativo, voltarei sempre.",1,0.9880444407463074,0.009014371782541275,0.002941225655376911,[]
+"Comida ótima, atendimento rápido e boas promoções! 
+Os pedidos são feitos no tablet, fácil de usar e muito prático!",1,0.973297655582428,0.01190741453319788,0.014794996939599514,[]
+"Que local incrível, ótimo atendimento e uma comida espetacular, a alegria é contagiante. voltaremos com certeza!",1,0.6123358011245728,0.05595977231860161,0.33170443773269653,[]
+"Segunda vez que visito e a experiência foi ainda melhor do que a primeira vez. Fui primeiramente em 2017, já havia gostado bastante, só que agora, ainda mais! Estão de parabéns em tudo, sempre com ótimo atendimento e comida!",1,0.9015622735023499,0.05406053364276886,0.04437708109617233,[]
+"Ambiente agradável, comida ótima e atendimento excelente.
+
+Comida levemente picante.
+
+Indico experimentarem o picles.",1,0.9294925332069397,0.029528845101594925,0.04097853973507881,[]
+"ótimas comidas com um excelente atendimento.
+Tomam todos os cuidados durante a pandemia
+A michelada é uma ótima recomendação",1,0.9468162059783936,0.025226155295968056,0.027957646176218987,[]
+"Queridos, venho por meio desta declarar meu novo amor por este restaurante que tão bem me alimentou e recebeu. Quem puder vir, que venha e não saia enquanto não se apaixonar.",1,0.8240691423416138,0.06471627205610275,0.11121459305286407,[]
+"Muito bom! Espaço bom, garçons atenciosos e comida ótima! Bom clima, meio caro, mas sempre divertido.",1,0.9659929871559143,0.013232501223683357,0.020774485543370247,[]
+"Adorei o espaço! Super divertido!
+Atendimento bom e ótimas opções de comida. 
+Adorei... ótimo para reunir os amigos",1,0.9738340973854065,0.009871624410152435,0.016294265165925026,[]
+"comida muita boa, atendimento impecável e ambiente muito gostoso para estar em um encontro romântico ou com a família ou amigos, valeu a pena",1,0.8921171426773071,0.029888128861784935,0.0779946967959404,[]
+"Lugar lindo, comida impecável e atendimento incrível prestado pelas colaboradoras Maria e Glória! Excelente custo benefício! Recomendamos!",1,0.9367669820785522,0.02343251183629036,0.03980042785406113,"[('Maria', 'I-PER'), ('Glória', 'I-PER')]"
+"Lugar super divertido,comida boa, garçons espetaculares e mariates sem palavras . Voltarei 1000 vezes",1,0.8851743340492249,0.08467430621385574,0.030151383951306343,[]
+ótima casa com acomodação agradável ótimos atendentes boa comida nota 1000 lugar que indico para todos os meu amigos,1,0.9213839769363403,0.028395770117640495,0.050220295786857605,[]
+"Comida boa, ótimo ambiente, bom e rápido atendimento. Ambiente limpo e com uma boa ornamentação.....",1,0.9168780446052551,0.03316385671496391,0.04995809495449066,[]
+Ótima comida típica e bom atendimento.com ótima apresentação.e mais importante ótimo preço. Tudo ótimo.,1,0.788643479347229,0.05548984929919243,0.15586665272712708,[]
+"Recomendo muito. Comida boa. Ambiente temático, agradável e super animado. Iria outras vezes sem dúvidas! Vale a pena a visita",1,0.9539293050765991,0.016776487231254578,0.02929421328008175,[]
+"O ambiente é animado, bem família e o atendimento é excelente. Tem pratos que servem aos que amam pimenta e aos que nem tanto. Ganhamos vários brindes pro aniversariante. Amei.",1,0.9695516228675842,0.0172517579048872,0.013196630403399467,[]
+Muito divertido e ótima comida. Deu para matar um pouco da saudade do México. Fomos muito bem atendidos pela Kaylane e o Victor. Certamente voltaremos.,1,0.7720738649368286,0.04767024144530296,0.18025583028793335,"[('México', 'I-LOC'), ('Kaylane', 'I-PER'), ('Victor', 'I-PER')]"
+"Recomendo muito!
+Excelente em tudo que se propõe a fazer!!!
+Quejadillas excelentess! 
+Deus abençoe! Amém.",1,0.9936261177062988,0.004027208779007196,0.0023467526771128178,"[('Deus', 'I-PER')]"
+"Gosto muito do ambiente, atendimento , a comida é uma delicia, espero vit mais vezes, amei de verdade",1,0.16054010391235352,0.05523962154984474,0.784220278263092,[]
+"Ambiente agradável para um jantar em família,comida boa e rápido atendimento todos os funcionários solícitos!",1,0.9036619663238525,0.0394698791205883,0.05686821788549423,[]
+"Experiência muito boa, fomos bem atendidos! Recomendo. Comida saborosa. Couver artístico divertido. Vale a pena visitar ;)",1,0.9536299705505371,0.01598137989640236,0.03038862720131874,[]
+"Ótimo ambiente, aconchegante com excelente atendimento e comidas típicas deliciosas! Recomendo e voltarei!",1,0.9758696556091309,0.01222564559429884,0.011904675513505936,[]
+"Bastante animado, com temática muito bacana, com garções atenciosos e simpáticos, comida bastante saborosa.",1,0.7914071083068848,0.04692704975605011,0.1616658717393875,[]
+"Ótimo atendimento. Comida muito saborosa, bem temperada. Ambiente divertido. Voltaremos mais vezes com certeza",1,0.923173725605011,0.035370100289583206,0.04145612195134163,[]
+"Local super animado, funcionários super educados e divertidos. Comida rápida e bebida gelada. Vale a visita!",1,0.978127121925354,0.011879077181220055,0.009993869811296463,[]
+Pegamos o rodízio. A comida estava muito gostosa e os atendentes são muito atenciosos com os clientes. Voltarei com certeza!,1,0.9122679829597473,0.02783636748790741,0.05989561602473259,[]
+Muito animado! Comida muito boa! Super recomendo! Vim com amigas e foi descontraído e divertido! Vale!,1,0.9878888726234436,0.005999349988996983,0.006111775524914265,[]
+"A comida é muito bem servida e gostosa. Quem tem crianças não precisa se preocupar com a comida picante, pois há prato infantil no cardápio.
+A sobremesa de churros com sorvete de creme é DELICIOSA!",1,0.8994624614715576,0.06392302364110947,0.036614514887332916,[]
+"Ótimo serviço, boa comida, demorou um pouco para entrarmos em razão da fila, porém a comida estava ótima.",1,0.7161967158317566,0.09900885820388794,0.18479445576667786,[]
+"Lugar agradável, decoração incrível, comida maravilhosa e atendimento excelente! É ótimo saber que temos um lugar assim para compartilharmos bons momentos com que gostamos!",1,0.9846492409706116,0.008537225425243378,0.0068135615438222885,[]
+"O lugar é muito animado, os garçons são atenciosos e a comida é boa. Ótimo lugar para se reunir com os amigos!",1,0.9829990267753601,0.009018510580062866,0.00798252783715725,[]
+Ótimo lugar para ir com os amigos.  Um lugar muito agradável e divertido.  Boa comida e o atendimento é um diferencial.,1,0.8961798548698425,0.04589039832353592,0.05792975425720215,[]
+"comida boa, atendimento excelente, tudo maravilhoso! eu voltaria 1000 vezes se for possível e meus amigos virão comigo.",1,0.9932419657707214,0.003964319359511137,0.002793736755847931,[]
+"Excelente atendimento, amei a experiência! 
+Rodízio com bastante variedade e comida deliciosa, só tenho a agradecer",1,0.9904220104217529,0.005675188731402159,0.0039028029423207045,[]
+"Localização muito boa, alimentação necessária para minha felicidade; trouxe a família e todos nós recomendamos:",1,0.9754406213760376,0.01301280315965414,0.011546490713953972,[]
+"Muito bom! Clima agradável para família, casais e amigos. Boa localização e funcionários animados e cordiais.",1,0.9667171835899353,0.009520667605102062,0.023762183263897896,[]
+Muito bom! Ótima equipe e super animado! Comida boa e ambiente agradável. Familiar e convidativo. Recomendo.,1,0.9851245880126953,0.006451024673879147,0.008424445055425167,[]
+"Ótimo atendimento do Alisom, amei o estabelecimento e a comida!!
+Amei a comida e o ambiente! 
+Volto com certeza!!!!",1,0.7966232895851135,0.044483523815870285,0.15889319777488708,"[('Alisom', 'I-PER')]"
+"Ambiente alegre, descontraído! Boa comida! Atendimento muito bom! Voltarei com certeza! O preço não dos melhores! É bom para ir com amigos e família!",1,0.8873411417007446,0.020154180005192757,0.09250473976135254,[]
+"EU AMEEEI! O ambiente é maravilhoso, as comidas combinam com a temática e fazem jus. Tudo uma delícia, por um preço acessível.",1,0.9420657753944397,0.0182330459356308,0.039701126515865326,[]
+"Tem uma boa receptividade. 
+Os garçons são simpáticos  e gentis. A comida é típica e  saborosa. As atrações  de dança foram as mais divertidas.",1,0.9478276371955872,0.036814987659454346,0.015357397496700287,[]
+Comida maravilhosa!!! Atendimento impecável também e ambiente super seguro e adepto às novas regras!!,1,0.9852426052093506,0.007631938438862562,0.0071254875510931015,[]
+"Local bem temático, muito agradável e contagiante!
+Serviço bem prestado.
+Comida bem feita e saborosa.
+Um ótimo lugar para se divertir!",1,0.9695377349853516,0.01500064879655838,0.015461718663573265,[]
+"Muito bom, atendimento maravilhoso e comida muito boa. 
+Sem contar os mariachis, sem dúvida voltarei.",1,0.9607798457145691,0.01598261296749115,0.02323756366968155,[]
+"Lugar muito agradável para curtir com os amigos, ótimo atendimento. Comida é muito boa. Recomendo muito!!!",1,0.9522302746772766,0.015414572320878506,0.032355062663555145,[]
+"Uma ótima casa, com pratos maravilhosos e atendimento exemplar.
+Altamente família e culinária espetacular.",1,0.903181791305542,0.029769908636808395,0.06704834848642349,[]
+"Ótimo atendimento!
+Comida muito boa!!!
+Decoracao impecável…Gostamos de tudo!
+Podem ir com certeza…
+Aprovado!!!!!!",1,0.94270259141922,0.015016851015388966,0.042280543595552444,[]
+"Muito bom ,muito animado,galera gente boa,ótima qualidade,muito boa a “comida”,muito rápido o pedido",1,0.9893444180488586,0.004831977188587189,0.0058236150071024895,[]
+"Divertido, ambiente climatizado,Cardapio rápido e acessível! Para amigos, casal todos os gostos. Mi casa su Casa!",1,0.9148775935173035,0.03014478273689747,0.05497755482792854,[]
+Muito bom o atendimento é a comida. Arrasaram!! Tudo bom demais. Quero voltar novamente para prestigiar,1,0.7375702857971191,0.03706055134534836,0.22536911070346832,[]
+"Local legal, comida boa, preços um pouco salgado.Ambiente descontraido, muito bem ornamentado. Um pouco barulhento.",1,0.5218648314476013,0.10097403824329376,0.3771611452102661,[]
+"local animado,boa comida,boa apresentação,só demora um pouco o atendimento.kkkkkkkkkkkkkkkkkkkkkkkkk",1,0.8111343383789062,0.11007990688085556,0.07878575474023819,[]
+"Surpreendente! Comida da melhor qualidade e diversificada. Ambiente alegre e acolhedor. Atendimento de primeira , garçons simpáticos e ágeis. Preços compatíveis.",1,0.9666309356689453,0.015572501346468925,0.01779661327600479,[]
+"Lugar muito bom, pessoal treinado e muito atencioso! Comida gostosa e saborosa. Pretendo voltar mais vezes!",1,0.9770395159721375,0.011660111136734486,0.01130038220435381,[]
+"Nossa, minha experiência nesse lugar está sendo maravilhosa, estou com amigos especiais comendo comidas maravilhosas, tem coisa melhor?",1,0.9389022588729858,0.035026226192712784,0.026071513071656227,[]
+"Gostei do clima, decoração e atendimento!
+Sem contar a comida tipicamente saborosa!
+Vale uma visita com amigos e familiares
+Barra-RJ",1,0.9267265200614929,0.032532356679439545,0.04074113443493843,"[('Barra-RJ', 'I-LOC')]"
+"Comida boa, rodízio completo porém muiiiiiita demora entre um prato e outro, o atendimento é bom, pessoal simpático.",1,0.752451479434967,0.05040055885910988,0.19714799523353577,[]
+Excelente atendimento e culinária deliciosa. Sem contar a alegria contagiante do lugar. Nos divertimos demais!,1,0.9669169783592224,0.019786929711699486,0.013296117074787617,[]
+Fui muito bem atendida!! Garçons atenciosos!! Comida gostosa e casa animada!! Muito boa localização!,1,0.9691864252090454,0.011999270878732204,0.018814291805028915,[]
+"Maravilhoso, ambiente agradável, atendentes atenciosos e prestativos, comida boa de mais. Preço justo. Parabéns a toda a equipe.",1,0.9579777717590332,0.022420357912778854,0.019601868465542793,[]
+"A comida não é ruim, mas os garçons são tentos e o caixa é péssimo, lento e confuso . Mesmo com a casa relativamente vazia, tudo demorou muitoMais",1,0.36231839656829834,0.26849302649497986,0.3691886067390442,[]
+"Lugar ótimo, ambiente agradável, muito animado, bem decorado, ótima localização, comida maravilhosa e atendimento excelente",1,0.9871261715888977,0.006812992040067911,0.006060863379389048,[]
+"Estou muito feliz com o ambiente é um excelente atendimento! É uma comida é maravilhosa, voltaria fácil",1,0.9931656718254089,0.004836264997720718,0.001998049672693014,[]
+Muito bem servido. Pratos fartos e preço honesto. Comemos 2 porções de nachos que serviram em 7 pessoas.,1,0.881850004196167,0.06452741473913193,0.0536225251853466,[]
+"A comida foi muito boa,da entrada até a sobremesa,provavelmente irei voltar e trazer mais gente para conhecer esse local maravilhoso.",1,0.9681864976882935,0.01469078566879034,0.017122695222496986,[]
+"Uma ótima casa, com ótimos pratos e atendimento de primeira. Som que contagia e ambiente familiar. 
+Merecedor de todas as estrelas.",1,0.8827726244926453,0.04416742920875549,0.07305989414453506,[]
+"Muito bom atendimento, comida chegou muito rápido e o tequileiras El Trapo muito simpático. Muito bom.",1,0.6903243660926819,0.044243223965168,0.26543235778808594,"[('El', 'I-PER'), ('Trapo', 'I-PER')]"
+"Excelente atendimento do Tequileiro El Trapo!
+A casa está muito bem decorada e comida muito boa!
+Muito bom!",1,0.9859222173690796,0.0073084114119410515,0.006769316736608744,"[('El', 'I-LOC'), ('Tra', 'I-LOC')]"
+"Ambiente agradável, funcionários prestativos e animados. Comida boa e ótimo preço. Tudo muito bom. Adoro.",1,0.8718352913856506,0.03684787079691887,0.09131691604852676,[]
+"Ótima comida e atendimento.
+Drinks maravilhosos.
+Os tequileiros e o show são muito bons.
+Casa bem decorada, típica, bonita e alegre.
+Realmente muito bom.",1,0.9790927171707153,0.01211883220821619,0.00878848135471344,[]
+"Atendente Glória sensacional! Nos atendeu com muita alegria e se mostrou extremamente solicita. 
+Comida maravilhosa e ambiente descontraído.
+Super recomendo!",1,0.9594032764434814,0.015829911455512047,0.024766800925135612,"[('Glória', 'I-PER')]"
+"Ótima localização, ambiente agradável, atendimento excelente, comida gostosa. Voltarei com certeza!!",1,0.9764986634254456,0.012570355087518692,0.010930879041552544,[]
+Localização ótima. Comida Gostosa. Ambiente super agradável. Público maravilhoso. Pessoas atendendo SUPER de bom humor!! Já quero morar aqui!!!,1,0.9530832767486572,0.01625596545636654,0.030660750344395638,[]
+"Um pedacinho do México no Brasil com muita alegria, diversão, cores, luzes, boa comida e excelente atendimento. Galera nota 10",1,0.8879952430725098,0.03221366927027702,0.07979113608598709,"[('México', 'I-LOC'), ('Brasil', 'I-LOC')]"
+Ambiente divertido e muito bem decorado. Comidas deliciosas. Atendimento eficaz e rapido. Garçons muito educados e solícitos.,1,0.9828565716743469,0.010009359568357468,0.007134153973311186,[]
+"Jorge o melhor garçom
+
+Comida ótima!!! rapidez no atendimento!!! . Local muito bom!!!!
+
+Jorge o melhor
+
+Jorge o melhor",1,0.975918173789978,0.010874917730689049,0.013206916861236095,"[('Jorge', 'I-PER'), ('Jorge', 'I-PER'), ('Jorge', 'I-PER')]"
+Obrigada a toda a equipe fizemos brincadeiras e os garçons super adoráveis comida super boa vale a pena cada segundo,1,0.8363521695137024,0.05023064836859703,0.11341719329357147,[]
+"Muito bom local, Excelente atendimento, comida muito boa. Atendentes muito animados e atenciosos. Recomendo",1,0.9896149635314941,0.005822419188916683,0.0045625073835253716,[]
+"Casa super animada,aconchegante,comidas muito boas,com atrações excelentes e animadíssima,totalmente diferenciada.",1,0.9691585302352905,0.020388910546898842,0.010452562011778355,[]
+"A comida estava excelente, e o atendimento melhor ainda!! Agradecer tb ao Leo pelo ótimo atendimento.",1,0.9748391509056091,0.016895495355129242,0.008265308104455471,"[('Leo', 'I-PER')]"
+"Amomamos o atendimento do Matheus e do, tudo ótimo amamos o atendimento, sensacional! A comida muito saborosa",1,0.9791011810302734,0.012173977680504322,0.00872475653886795,"[('Matheus', 'I-PER')]"
+"ótimo rodízio, comida quente, ambiente agradável! Muito bom recomendo para amigos sempre!! Atendimento ótimo",1,0.9750237464904785,0.01356528140604496,0.011410960927605629,[]
+"Entrada muito boa, bom tempero, apimentadinho! Mas depois pedimos Flaute, que é bem sem sabor, e tem um gosto de erva doce na carne!
+Mas no geral muito bom! Atendimento tb!",1,0.6396119594573975,0.06952209025621414,0.2908658981323242,[]
+Comida boa e bebida gelada. Otimo entretenimento com amigos e familia Atendimento ótimo! Recomendo!!!,1,0.9671750664710999,0.01506055984646082,0.017764411866664886,[]
+"Fui em família e o ambiente é agradável,  comida gostosa, preço justo, atendimento maravilhoso, .... recomendo!!!",1,0.9559201002120972,0.01958026923239231,0.024499641731381416,[]
+"Comida muito gostosa, ambiente muito bom. Nacho macio, crocante, saboroso e gostoso. Atendimento fantástico.",1,0.9396281242370605,0.024374036118388176,0.03599788621068001,[]
+Excelente atendimento! Ambiente agradável e divertido! Comidas deliciosas! Recomendo para todos conhecerem!,1,0.9900548458099365,0.005965555552393198,0.003979658242315054,[]
+Muito bom... excelente atendimento ...comida ótima e excelente atendimento . Amei a casa e vou voltar sempre,1,0.9666479825973511,0.01759459264576435,0.01575731858611107,[]
+"Ambientação muito boa, comida sensacional e atendimento incrível, adorei! Vou voltar com certeza absoluta na próxima oportunidade. O rodízio é uma forma muito boa de conhecer o cardápio, tem muitas opções e dá pra comer muuuuuito!!! 
+
+O Alisson e a Maria ajudaram muito e foram...Mais",1,0.9635180830955505,0.013972182758152485,0.022509800270199776,"[('Alisson', 'I-PER'), ('Maria', 'I-PER')]"
+Amei. Tudo maravilhoso. Do atendimento à decoração. Comida incrível. Com certeza voltarei mais vezes,1,0.8951632380485535,0.031199408695101738,0.07363735139369965,[]
+"Ótimo lugar para reunir os amigos, a comida é realmente muito boa, o ambiente muito divertido. O atendimento é perfeito.",1,0.8957207798957825,0.029609866440296173,0.07466942071914673,[]
+"Fomos muito bem recebido,amei com certeza voltarei
+Comida boa
+Ótima sobremesa 
+Lugar familiar   ♡♡♡♡♡♡♡",1,0.9618231654167175,0.02117287553846836,0.017003962770104408,[]
+"muito bom o lugar, clima agradável e comidas maravilhosas! gente, venham e não se arrependerão! falando sério.",1,0.9358705282211304,0.02486569620668888,0.03926374018192291,[]
+"Ótimo ambiente, entendimento muito bom, comida fresca. Pedimos alguns pratos e em todos eles não temos do que reclamar! 
+Bom pra car#lho",1,0.8761175274848938,0.04958987236022949,0.07429259270429611,[]
+Atendimento excelente é rápido. Comida excelente. Bom ambiente para aproveitar com os amigos e família.,1,0.99339759349823,0.005287312902510166,0.0013150699669495225,[]
+muito legal achei que me atenderam bem porque as pessoas sao bem legais. os meus amigos adoraram a comida,1,0.44795161485671997,0.1256476193666458,0.426400750875473,[]
+Gostei muito do ambiente e da comida. Bem temperada e o pedido sai bem rápido. O cardápio vem detalhado.,1,0.4228770434856415,0.10995712876319885,0.4671657681465149,[]
+"Eramos 12 pessoas. O clima é pra cima, muito animado, ambiente bonito, comida boa, mas o atendimento foi sofrível!",1,0.9274846315383911,0.028163904324173927,0.044351451098918915,[]
+Comida maravilhosa e ambiente super seguro e adepto às novas regras de convivio ao covid 19. O atendimento é impecavel tambem!!,1,0.8625553846359253,0.03182489797472954,0.1056196391582489,[]
+"Lugar aconchegante , comida deliciosa garçons educados 😍 ,sou de Brasília e com certeza voltarei ao local",1,0.8672468066215515,0.0644979476928711,0.06825531274080276,"[('Brasília', 'I-LOC')]"
+"Amei o local, divertido, alegre, colorido, comidas diferenciadas e funcionários bem atenciosos! Recomendo!",1,0.9788119196891785,0.009647558443248272,0.011540594510734081,[]
+"Ambiente super legal, temático sem ser o over, atendentes maravilhosos, comida excelente, pedidos chegam super rápido na mesa, enfim foi uma experiência muito positiva!",1,0.9746905565261841,0.01639055460691452,0.00891895592212677,[]
+"Muito bom, casa muito aconchegante, garcons educados, cardapio diversificado, muito bom restaurante
+.",1,0.9271733164787292,0.015614976175129414,0.05721165984869003,[]
+"Excelente atendimento, comida e principalmente o clima festivo. 
+Funcionários animados e gentis. Vale muito a visita!",1,0.969436526298523,0.02037269063293934,0.010190848261117935,[]
+"Comida de ótima qualidade, e boa apresentação dos pratos. Atendentes simpáticos e boa agilidade no serviço.",1,0.9560353755950928,0.02607395127415657,0.01789071038365364,[]
+Comida ótima e Ambiente divertido! Opção legal para sair com amigos e em casal. Atrações diferentes para fugir do comum,1,0.9126894474029541,0.03279206529259682,0.05451852083206177,[]
+"Muito bacana !! Show incrível, comida maravilhosa,e o atendimento è perfeito.
+Voltaremos com certeza!!!",1,0.24882397055625916,0.028117690235376358,0.72305828332901,[]
+"Melhor refeição da viagem (unanimidade), os pratos eram fartos e muito saborosos. O ambiente explora o tema com bom gosto e atendentes no mesmo nível do local.",1,0.9629261493682861,0.01263156346976757,0.024442262947559357,[]
+"Local muito legal, atendimento de primeira, comida muito boa, ótima recepção e ainda por ótimo serviço de entretenimento ao cliente com ótimas brincadeiras",1,0.7365289926528931,0.05748455971479416,0.20598649978637695,[]
+"tudo certo! garçons muito bons e comida excelente, além de um atendimento perfeito; incrível o ambiente.",1,0.9799039363861084,0.010413901880383492,0.009682129137217999,[]
+"Tudo ótimo, maravilhoso, atendimento nota 100,tudo bom...
+Comida boa,pessoas animadas tudo de bom amei.",1,0.9669509530067444,0.012652725912630558,0.020396418869495392,[]
+Adorei! Alto astral! Comida boa! Clima pra cima! O atendimento é q ainda precisa melhorar! Fui lá ha 2 meses e o atendimento continua falho! Uma pena!,1,0.8896735906600952,0.020601794123649597,0.0897245854139328,[]
+A comida estava deliciosa! O tratamento que recebemos dos funcionários foi bem aconchegante e confortável. Não tenho absolutamente nada para reclamar do estabelecimento!,1,0.9271895289421082,0.022610889747738838,0.05019950494170189,[]
+"Sempre uma ótima opção! Comida deliciosa, ambiente agradável e acolhedor, certeza de diversão garantida...",1,0.8336371183395386,0.027827005833387375,0.13853582739830017,[]
+"Lugar muito bom, clima agradável e comida maravilhosa! Estão de parabéns. Desejo que todos tenham a experiência que eu tive aqui.",1,0.9687311053276062,0.01122867688536644,0.02004028856754303,[]
+"Muito bom, super recomendo pela experiência que faz-te sentir no México, além de arrancar sorrisos e comida muito boa.",1,0.975899875164032,0.009407530538737774,0.014692574739456177,"[('México', 'I-LOC')]"
+"Não só a comida, mas o serviço é excelente, garçons animados. Decoração do ambiente muito legal também.",1,0.9231476783752441,0.04984581470489502,0.02700652927160263,[]
+"Boa comida, funcionários animados e decoração típica. No final das contas, sai um pouco caro porque cobra couvert artístico e 10%.",1,0.852073073387146,0.07577986270189285,0.07214716076850891,[]
+Garçom Matheus muito atencioso e bem disposto pra atender. Comida boa e bom ambiente. Vou indicar pra amigos,1,0.8506255745887756,0.05356571450829506,0.0958087220788002,"[('Matheus', 'I-PER')]"
+"A cozinha precisa acelerar, esperei 40 minutos por uma panqueca inflacionada. Gostosa estava, porém quando lotada a casa a cozinha entra em modo slow motion. Gestão e logística precisamos.",1,0.5475355982780457,0.2325727790594101,0.21989157795906067,[]
+"Atendimento do Matheus excelente, super atencioso e boas recomendações. No mais, comida boa e todos os garçons muito eficientes",1,0.9926223754882812,0.00519572151824832,0.002181824529543519,"[('Matheus', 'I-PER')]"
+"Ambiente maravilhoso  com atendentes excelentes..comida ótima.. 
+Recomendo muito..
+Venham e curtam com família,amigos..namorado(a) .",1,0.9750301837921143,0.013205135241150856,0.011764546856284142,[]
+Comida maravilhosa.bebida Boa atendimento de primeira qualidade ambiente agradável e preço justo para  todos.,1,0.9726937413215637,0.015918012708425522,0.011388171464204788,[]
+Adorei o som e a comida gostei muito de tudo recomendo pra todas as pesoas que queiram ir a um lugar irado,1,0.6111838221549988,0.09078314155340195,0.2980329990386963,[]
+"Comida 5 estrelas
+, local cinco estrelas
+ e serviço excelente, merece mais de cinco estrelas. Recomendo",1,0.9884169697761536,0.006944917142391205,0.004638138227164745,[]
+"Ótimo atendimento, comida excelente, fomos bem recepcionados, supero recomendo! Super válido conhecer",1,0.9846252202987671,0.008859176188707352,0.006515554618090391,[]
+Ótimo para se divertir e estar com amigos. Sensacional. Comida excelente. Ambiente muito agradável.tequila,1,0.9790086150169373,0.014212893322110176,0.0067784651182591915,[]
+Ótimos garçons / equipe mega atenciosa e animada / comida ótima / ambiente harmonioso / super recomendo.,1,0.9475388526916504,0.03048054128885269,0.02198057994246483,[]
+Muito divertido e aconchegante!! Ótima comida e bibida gelada! Super recomendo a todos que queiram se divertir,1,0.9224626421928406,0.02279268391430378,0.05474463105201721,[]
+"Ótimo lugar, atendimento impecável e comida excelente. Só falta ser menos perfeito, nada a reclamar para uma quinta dessa!",1,0.916069746017456,0.051965754479169846,0.03196457028388977,[]
+"Comida, ambiente, tudo muito bom! Tem a comida muito variada com muita decoração e organização tudo de melhor!",1,0.9945011138916016,0.0027534484397619963,0.0027454406954348087,[]
+"Ótima comida , atendimento rápido ! Espaço confortável . Cozinha espetacular . Vale a pena conhecer !",1,0.943658709526062,0.01952923648059368,0.036812081933021545,[]
+"O mwlhir lugar que ja conheci ,o ambiente é muito aninado e a comida é sensacional,e sem falar no atendimentoque é espetacular.",1,0.3117758333683014,0.09424356371164322,0.593980610370636,[]
+"É difícil escolher o que é melhor no guaca, se é o ambiente, as comidas e drinks ou o atendimento! Tudo é muito bom! Já fui com família, com amigos e em dates, e em qualquer ocasiáo é sempre muito agradável.",1,0.9363950490951538,0.020663686096668243,0.04294120892882347,[]
+"Excelente local para curtir com os amigos e comemorações. Muitos drinks bons, comida boa. Com certeza voltarei",1,0.978911280632019,0.015409733168780804,0.005678935442119837,[]
+Garçom muito atencioso e sabe balançar a cabeça muito bem. Comida deliciosa. Ambiente muito agradável.,1,0.837526261806488,0.03757895156741142,0.12489475309848785,[]
+"eu peço e imploro a todos que venham, pois vão se sentir em casa e tudo aqui trabalha pra isso acontecer.",1,0.06852438300848007,0.044892843812704086,0.8865827918052673,[]
+Que delícia de comida! Atendimento diferenciado! Tempero harmonioso! Visual muito típico e colorido. Incrível!!!!,1,0.946807324886322,0.02417219989001751,0.029020488262176514,[]
+"Comidas bem feitas e energia boa dos mariachis.
+Se o local não estiver tão cheio, as comidas não demoram.
+Boa parte dos garçons são simpáticos.",1,0.7133001089096069,0.14881828427314758,0.1378815770149231,[]
+Muito bom! Atendimento da Evelin é ótimo! Gostei muito! A comida é muito boa e o ambiente é muito aconchegante! Recomendo,1,0.9763866066932678,0.008483130484819412,0.015130188316106796,"[('Evelin', 'I-PER')]"
+Glória nos atendeu maravilhosamente amamos a experiência. Comida bem servida os sanduíches são bem recheados e dão para duas pessoas tranquilamente,1,0.9315108060836792,0.030890878289937973,0.03759836032986641,"[('Glória', 'I-PER')]"
+muito bom delicioso aroma perfeito atendimento muito bacana os funcionários foram bem atenciosos gostei bastante,1,0.23426111042499542,0.0306867565959692,0.7350521683692932,[]
+"Ambiente descontraído. Preços razoáveis. Comida não demorou para ser servida e há boa variedade no cardápio. Atendimento muito bom. Sugiro chegar ate as 19:30, pois após esse horário fica uma fila muito grande.",1,0.39192622900009155,0.08663947135210037,0.5214343070983887,[]
+"Ambiente muito aconchegante e divertido, garçons simpáticos! Vale a pena o couvert artístico e a comida é deliciosa.",1,0.9370181560516357,0.02355872094631195,0.03942318633198738,[]
+"Adorei todas as caipirinhas! Especialmente na quarta-feira que tem 50% de desconto!!!
+Me manda cupons! Eu volto!",1,0.5052308440208435,0.053968168795108795,0.4408010244369507,[]
+"O atendimento deixa um pouco a desejar, pelo menos no dia que fui. 
+Mas a comida é ótima, uma delícia, tudo é uma delícia. Os sucos bem feitos, as sobremesas bem gostosas. É um lugar que vale a pena ir sim. E é bem localizado.",1,0.27568498253822327,0.08884500712156296,0.6354699730873108,[]
+"Maravilhoso! Atendimento excelente, boa comida e ótimo ambiente. Equipe muito top! Destaque para o atendimento do Gabriel.",1,0.9947578310966492,0.0035572804044932127,0.001684851013123989,"[('Gabriel', 'I-PER')]"
+Um lugar inesquecível. Vale a pena qualquer deslocamento pra vir aqui. Comida boa e atendimento de primeira. Forma de pedido formidável.,1,0.1551799178123474,0.08657342195510864,0.758246660232544,[]
+Ótimo atendimento. Pouco tempo de esperar. Comida de qualidade. Pratos variados. Ambiente familiar e animado.,1,0.79383385181427,0.06906771659851074,0.13709841668605804,[]
+"Top demais. Ambiente agradável, atendimento formidável, comida de qualidade. Se fosse uma pessoa eu casava com ela.",1,0.8587895035743713,0.04721376299858093,0.09399674087762833,[]
+Atendentes muito simpáticos e solícitos. Clima e comida ótimos. Durante a semana sempre tem promos boas tb!!,1,0.8485389947891235,0.04573078081011772,0.10573025792837143,[]
+"Acho o lugar muito bem localizado, ótimo atendimento e super divertido, além da comida que eu adoro!!",1,0.9404628872871399,0.02455379068851471,0.03498341143131256,[]
+Mucho bueno clima aconchegante mudica boa tudo muito mec comi pra crl sai que nem uma bola recomendo,1,0.9043747186660767,0.0411442369222641,0.05448107793927193,[]
+Bom atendimento comida muito boa e muita animação.  Casa atende muito bem quem  Proucura uma comida tipica de qualidade Super indico!,1,0.9744737148284912,0.013154309242963791,0.012371904216706753,[]
+"O lugar eh mto bom e bonito, mto divertido, a comida é boa e os funcionarios sao, em sua maioria, simpáticos e educados!!! Só achei o preço meio salgado pelo tamanho das porções, que são bem pequenas! Mas vale mto a pena conhecer! Embora caro,...Mais",1,0.9625091552734375,0.02032817155122757,0.01716272160410881,[]
+"A comida pode até ser boa mas demoramos mais de 2h pra entrar. Desorganização, mesas vazias e muitas pessoas do lado de fora.",1,0.3731246292591095,0.156536266207695,0.4703391492366791,[]
+"Ambiente agradável e animado, recomendo! Atendimento excelente, preço moderado, comida gostosa e saborosa.",1,0.9905616641044617,0.006670877803117037,0.0027674641460180283,[]
+10\10 tudo de maravilhoso! Happy hours vale muito a pena. Comida muito gostosa e ambiente muito divertido e gostoso de se estar!,1,0.9826974272727966,0.008166511543095112,0.00913604348897934,[]
+"atendimento bom e rápido, comida gostosa e chegou rápido. local fresco e temático. o local é muito animado",1,0.9260267615318298,0.027003120630979538,0.046970199793577194,[]
+"Comida de qualidade, excelente experiência com a culinária mexicana.A decoração é um diferencial, os atendentes muito simpáticos  e atenciosos. 
+Muito divertido para comemorações!!!",1,0.9736927151679993,0.013922433368861675,0.012384898960590363,"[('mexicana', 'I-MISC')]"
+"Local agradável e divertido. Atendimento muito bom, os pedidos chegavam bem rapidinho. Comida boa e preço bem bom também. Adorei!",1,0.9622899889945984,0.015817081555724144,0.021892933174967766,[]
+"Muito bom o atendimento, Comidas perfeitas e um ótimo ambiente. Pela experiência vale cada centavo gasto 🤤",1,0.7291415333747864,0.043765850365161896,0.22709259390830994,[]
+"Comida maravilhosa, ótimo atendimento, garçons ótimos e local super agradável! Clima super agradável",1,0.9540715217590332,0.01777455396950245,0.028153887018561363,[]
+"Ambiente familiar, muito agradável! Estive com a minha namorada pela primeira vez (22/04/2019) e gostamos bastante. A comida é saborosa e o tempo de entrega é bem rápido.",1,0.957512617111206,0.017731552943587303,0.024755867198109627,[]
+"Lugar lindo e aconchegante, todas as comidas estavam maravilhosas, o pessoal também é muito gentil. Vale muito a pena. NOTA 10!",1,0.772279679775238,0.06289320439100266,0.16482706367969513,[]
+"Ótimo lugar, atendimento excelente
+Os garçons João e Sérgio foram excepcionais.
+Recomendo demais a comida.",1,0.9494041204452515,0.024359118193387985,0.0262367632240057,"[('João', 'I-PER'), ('Sérgio', 'I-PER')]"
+Comida e serviços bons! Atendimento eficiente e simpático! Rapidez e comodidade nos pedidos pelo tablet! Recomendo!,1,0.9876678586006165,0.007742289919406176,0.004589819815009832,[]
+A experiência foi incrível! Boa comida e muito divertido o lugar!! O serviço é muito bom. Para todas as idades!! Super recomendo! Se programe e reserve porque está sempre bem cheio.,1,0.952076256275177,0.015138187445700169,0.03278554975986481,[]
+Sempre um prazer vir aqui. Clima bom. Som de primeira. Energia única. Atendimento excelente. Comida demais.,1,0.9508063793182373,0.03126860409975052,0.01792503148317337,[]
+"Gostei demais, ambiente lindo, aconchegante, animado e comida muito gostosa. Atendimento muito bom também.",1,0.9651982188224792,0.023367376998066902,0.011434351094067097,[]
+"ótimo lugar, com uma boa localização, comida maravilhosa e um otimo atendimento. nacho ótimo, ameiii",1,0.9112216234207153,0.03415166586637497,0.05462668836116791,[]
+Viemos para uma celebração e foi bastante divertido. A comida estava excelente e o atendimento foi impecável.,1,0.9473188519477844,0.031034545972943306,0.021646646782755852,[]
+"Muito bom. Comida ótima .Atendimento super simpático Tiago o garçom foi uma simpatia e muito eficiente
+Voltaremos sempre",1,0.7832155823707581,0.03688771650195122,0.17989668250083923,"[('Tiago', 'I-PER')]"
+"…Ótima experiência gastronômica, ambiente tematico , comida deliciosa, excelente atendimento e preço justo…………..",1,0.920622706413269,0.039894264191389084,0.03948304057121277,[]
+"Ótimo lugar, bem aconchegante e divertido a culinária é excepcional eu indico experimentar o taco  Yucatan de frango é uma delícia !",1,0.5496410131454468,0.046632781624794006,0.403726190328598,"[('Yucatan', 'I-LOC')]"
+"Lugar animado com comida boa. O atendimento é ótimo, com clima animado. Localização ótima também!!!!",1,0.9300790429115295,0.03230488672852516,0.03761597350239754,[]
+"Ambiente animado e familiar, comida boa, pessoal simpático e preço justo. Atendimento excelente. Show!",1,0.9873048663139343,0.010521271266043186,0.0021737946663051844,[]
+"Atendimento excelente e comidas bem gostosas, poderiam vir mais servidas. Ambiente ótimo para reunir familia e amigos.",1,0.980263888835907,0.015322341583669186,0.00441379239782691,[]
+"Tudo ótimo, comida e atendimento, recomendo o combo da casa, comida bem servida é saborosa, preço justo.",1,0.9031957983970642,0.053385794162750244,0.043418437242507935,[]
+Top..melhor lugar..comida atendimento excelente incrível super recomendo. Divertindo bom pra curtir em familia e amigos,1,0.9638033509254456,0.019931362941861153,0.016265297308564186,[]
+"Local agradabilíssimo, ambiente aconchegante.  Comida de ótima qualidade. Super animado. Ótimo para ir com amigos e familiares",1,0.9794049263000488,0.012847651727497578,0.007747419644147158,[]
+"Ótimo atendimento, ambiente descontraído cardápio diversificação e muito diferente dos demais, comida de primeira qualidade.",1,0.6018717288970947,0.09818078577518463,0.29994744062423706,[]
+"Lugar maravilhoso, com clima super animado e familiar, comida deliciosa, funcionários excelente, tudo perfeito, eu e minha família ama.",1,0.986459493637085,0.007310508284717798,0.0062299324199557304,[]
+"Lugar ótimo, bem tematizado, o ambiente e decoração são lindos! Mas o destaque são as opções do cardápio, comida saborosa e preço justo!",1,0.9319146275520325,0.036514341831207275,0.031571049243211746,[]
+"Casa bem decorada, ótimo ambiente e clima contagiante!! Vale a pena! Comida muito boa tb! Ótimo para casal, amigos e família!",1,0.9619086384773254,0.01351000927388668,0.024581413716077805,[]
+"Excelente atendimento, comida maravilhosa e ambiente lindo e instagramavel! Super recomendo! 😍😍😍😍",1,0.9878635406494141,0.008472713641822338,0.0036638688761740923,[]
+"Desde a comida, ambiente extremante confortável, equipe e banda, tudo muito bom. Fui e acabei optando pelo rodizio por indicação do próprio estabelecimento e com certeza foi a melhor opção. Além de um buffet grande, eles passam nas mesas o tempo todo servindo e ainda...Mais",1,0.93604576587677,0.016065731644630432,0.04788849502801895,[]
+"Lugar incrível, atendimento também. Comida chegou muito rápido. Garçons muito animados e receptivos.",1,0.7902960777282715,0.055918339639902115,0.1537856161594391,[]
+"Uma delícia e um preço justo!!!!
+Recomendo muito o local e comidas
+Muito bom
+Venham aqui
+Na segunda ainda tem rodízio",1,0.938651442527771,0.024592433124780655,0.03675614669919014,[]
+Ótimo atendimento. O preço alto é compensado pela diversão do lugar. Entao valeu muito a pena ter ido e a comida é muito boa.,1,0.8424319624900818,0.0391327328979969,0.11843536049127579,[]
+"Melhor atendimento, comida excelente e bebida gelada, equipe excelente, dançarinos maravilhos é muito bom tudo.",1,0.9925220608711243,0.005333893932402134,0.002144039608538151,[]
+"Atendimento de qualidade e a comida é ótima também, fora a animação do ambiente, excelente lugar para distração com amigos!",1,0.9661536812782288,0.020994745194911957,0.012851616367697716,[]
+"Local muito agradável e animado, excentricidade atendimento e comida. Boa estrutura. Muito bom !!!!!!",1,0.9692939519882202,0.01267047319561243,0.018035558983683586,[]
+"O atendimento foi muito bom, assim como a comida que estava bem temperada, o ambiente é bastante agradável também.",1,0.8935225605964661,0.024767979979515076,0.08170945942401886,[]
+"Ótimo atendimento! Comida excelente! Ambiente super agradável e o couvert vale muito a pena pagar!kkkkkk Amei o lugar, primeira vez que eu vim e voltarei com certeza!",1,0.9837396740913391,0.00840127281844616,0.007859030738472939,[]
+Ambiente animado e funcionários carismáticos. Fora a comida que é excelente. Tudo agradável. Estão de parabéns.,1,0.943539023399353,0.02441081590950489,0.03205018863081932,[]
+"Ambiente agradável, comida deliciosa e atendimento nota 10.
+Experiência nota 10 numa das casas mais animadas que já visitei.",1,0.9020364284515381,0.04374365508556366,0.054219841957092285,[]
+"muito bom, otima comida, otimos funcionarios e cover artistico, preços bastante acessiveis, otimo ambiente",1,0.9107614755630493,0.01683703251183033,0.07240144163370132,[]
+"Já fui inúmeras vezes e gosto muito.A comida é sempre muito boa, nunca tive do que reclamar. Dessa ultima vez em que fui pedi o ceviche e achei excelente! Recomendo! O ambiente é animado e a decoração da casa muito alegre. Primeira vez que fui...Mais",1,0.8746085166931152,0.05023708939552307,0.0751543641090393,[]
+"O estabelecimento é super aconchegante, alegre, tem uma equipe sensacional, com pessoas educadas e felizes. Uma energia incrível!! Super recomendo!!! A comida é excelente!!",1,0.9922571182250977,0.005371958948671818,0.0023709756787866354,[]
+"O lugar é charmoso e bem caracterizado. A comida super saborosa, sobremesa um espetáculo à parte. Lugar descontraído e animado. Gostei muito!!",1,0.9727822542190552,0.012009920552372932,0.015207885764539242,[]
+O lugar providencia um ambiente muito gostoso e a comida além de não demorar também é muito boa. O único revés é a cobrança compulsória pelos mariacchis.,1,0.78069007396698,0.08155406266450882,0.1377558410167694,[]
+"Muito boa comida, atendimento e atrações.. A decoração da casa é encantadora.. Passamos momentos muito divertidos na casa.. Recomendo.",1,0.9556101560592651,0.020807478576898575,0.02358228713274002,[]
+"Comida excelente, atendente Maria muito atenciosas e prestativa! Instalações do local muito boas, tudo muito prático!",1,0.9865004420280457,0.007839251309633255,0.005660374648869038,"[('Maria', 'I-PER')]"
+"Ambiente temático, atendimento sensacional, todos são muito simpáticos. E a comida, só experienciando para descobrir o quão incrível é! Com certeza voltaremos mais vezes.",1,0.7948227524757385,0.044961459934711456,0.16021576523780823,[]
+"Gostei muito de todo o ambiente. Pois o atendimento foi muito bom, a comida é saborosa e ambiente divertido e você se sente em casa",1,0.8834977746009827,0.04640810191631317,0.07009421288967133,[]
+"Excelente lugar, descontraído, divertido e excelente gastronomia. Bem
+localizado e fácil acesso!! Vale conhecer",1,0.9808261394500732,0.01024960819631815,0.008924197405576706,[]
+"Não tenho o que reclamar, só à indicar. Ótima culinária, espaço, ambiente. Bons profissionais. Decoração !",1,0.8351736664772034,0.10249149799346924,0.062334854155778885,[]
+Excelente ambiente e atendimento. A comida é ótima!! A Maria e a Cris e todos atendentes são  demais!,1,0.9525912404060364,0.02295021153986454,0.024458536878228188,"[('Maria', 'I-PER'), ('Cris', 'I-PER')]"
+"Muito boa a comida e o espaço bem característico, atendimento excelente, recomendo e espero voltar mais vezes.",1,0.9820336699485779,0.011513256467878819,0.006453071720898151,[]
+"Comida e espaço muito gostoso , lugar tem uma decoração linda! Atendimento bem legal também! Adorei essa experiência",1,0.944800853729248,0.024087704718112946,0.031111441552639008,[]
+"Excelente ambiente, clima agraďável e divertido, comida boa, atendimento excepcional. Voltaremos mais vezes",1,0.9756295084953308,0.014930247329175472,0.009440339170396328,[]

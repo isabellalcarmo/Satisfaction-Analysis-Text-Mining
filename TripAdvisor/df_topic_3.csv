@@ -1,0 +1,330 @@
+Review,Topics,Positive,Neutral,Negative,Token Predictions Corrected
+"Comemorando meu aniversário, ótimo atendimento e ótimo lugar, comida muito boa e climatização especial",3,0.9444065690040588,0.020998500287532806,0.03459496051073074,[]
+Fomos muito bem atendidos no restaurante. Pratos muito bem servidos. Para quem vai com criança eles tem pratos kids. A sobremesa de churros é muito boa. E para aniversariante da semana eles tem umas promoções legais.,3,0.9200751185417175,0.03127133473753929,0.04865363612771034,[]
+Adorei! Foi um dia maravilhoso! Obrigada pela atenção da reserva e pela refeições. Os drinks estavam maracilhosos,3,0.9558669328689575,0.014180856756865978,0.029952218756079674,[]
+"Sempre que venho aqui me DIVIRTO MUITO, comemoro meus aniversários há 4 anos e também incentivo à todas as amigas comemorarem aqui! Amo o atendimento rápido, eficiente e sempre em alto astral. Casa toda temática, cheirosa e com personagens, isso chama ainda mais atenção. 
+Além...Mais",3,0.9177411794662476,0.03077806904911995,0.051480647176504135,[]
+"Atendimento excelente, ambiente aconchegante, recomendo!
+Comemoramos o aniversário de duas amigas e saímos muito satisfeitas.",3,0.9909765124320984,0.005266339518129826,0.0037571596913039684,[]
+"Excelente lugar para comemorações e encontro com amigos e familiares.
+Esse bar temático além de ter uma comida especializada e muito saborosa cobra preços justos !",3,0.9724035263061523,0.016998331993818283,0.010598137974739075,[]
+"Fui comemorar aniversário de uma amiga, e a noite foi melhor que esperávamos! Ambiente pra quem gosta e quem nao gosta de zoar, acomoda desde crianças a senhoras, que foi o caso do nosso grupo! Comidas deliciosas! Adorei e recomendo muito!",3,0.9175417423248291,0.022706039249897003,0.05975213274359703,[]
+"Lugar animado, com boa música, bons drinks e boa comida! Viemos comemorar um aniversário e já rimos muito! Vale a pena!",3,0.9834355711936951,0.007465532049536705,0.009098983369767666,[]
+"Vim comemorar o meu aniversário e antes de chegar lá já curti o agendamento de reserva no site. Simples, prático e eficiente.
+
+Na recepção foram bem simpáticos, o atendente da nossa mesa nos serviu muito bem a tequila com apresentação e tudo.
+
+Atendimento e comida...Mais",3,0.859153687953949,0.07495169341564178,0.06589455157518387,[]
+"Comida boa e Matheus fez um ótimo atendimento! 
+Gostamos do ambiente e da comida.  
+O ambiente é muito bom para comemorar aniversários!",3,0.8735600113868713,0.0278170146048069,0.09862291067838669,"[('Matheus', 'I-PER')]"
+Ótima experiência.  Excelentes atendentes e comida muito boa!Além de muito divertido! Fomos com amigos comemorar o aniversário de uma amiga e foi ótimo! Claiton e Rodrigo foram muito queridos!,3,0.9837095737457275,0.007373327389359474,0.008917178958654404,"[('Claiton', 'I-PER'), ('Rodrigo', 'I-PER')]"
+Ótimo lugar e diferente para várias ocasiões de comemorações!!! Os personagens são bastante interessantes!! Adorei,3,0.9557215571403503,0.01952512376010418,0.02475333772599697,[]
+"Muito bom, ambiente tranquilo. E excelente para comemoração de meu aniversário, voltarei outras vezes .",3,0.9467397332191467,0.018655851483345032,0.034604430198669434,[]
+"Fui no dia 10 de dezembro com o meu namorado comemorar o meu aniversário e saímos satisfeitos. Pedimos dois pratos que já me recordo o nome, mas vou explicar o que era: Uma pedra com tiras de Mignon e Frango e acompanhava umas porções de...Mais",3,0.5401485562324524,0.13678567111492157,0.32306578755378723,[]
+"Achei o ambiente com decoração linda, gostei da comida e drinks. Os pratos e bebidas chegaram rápido, era uma quarta-feira com pouco movimento.
+Fui para comemorar meu aniversário, há cortesias e isso é sempre um ponto positivo.
+Ponto alto são os cantores, muito divertido!
+O...Mais",3,0.9616098999977112,0.019404446706175804,0.018985651433467865,[]
+"Eu e meus amigos fomos para comemorar meu aniversário. O início do serviço começou bem, mas quando a casa encheu nós não conseguimos 1 garçom para nos atender mesmo chamando diversas vezes o tablet. Passei toda a noite querendo um sombreiro para tirar foto, só...Mais",3,0.41014307737350464,0.2320396453142166,0.35781726241111755,[]
+"Que ambiente incrível, vim comemorar o aniversário de 2 amigos e fiquei muito feliz com todo o serviço, a comida estava ótima, a música maravilhosa, ambiente bem aconchegante e animado, os funcionários (destaque para Allison, Fatima, Eveline e o tequileiro El Trapo) foram super atenciosos,...Mais",3,0.9389970302581787,0.018932046368718147,0.042070865631103516,"[('Allison', 'I-PER'), ('Fatima', 'I-PER'), ('Eveline', 'I-PER'), ('El', 'I-PER'), ('Trapo', 'I-PER')]"
+"Fui comemorar o aniversário do meu marido ontem. Já tinha visitado o de Floripa, que é muito melhor por sinal. Mas ontem, no da Barra, o atendimento estava péssimo. Anotaram pedido errado, a comida demorou mais do que o esperado e uma água tônica demorou...Mais",3,0.3457598388195038,0.07914254069328308,0.5750975608825684,"[('Floripa', 'I-LOC'), ('Barra', 'I-LOC')]"
+"Local com excelente ambjente para comemorar, música ao vivo , muita animação e tequila !  Recomendo para aniversários e reunioes com amigos.",3,0.9823247194290161,0.009271699003875256,0.008403574116528034,[]
+"Fomos comemorar e aniversario do meu filho num sábado, chegou tarde e ficamos mais de hora esperando mesa! 
+A menina da porta que nos recebeu muito simpática, aguardamos pois frequentamos este restaurante em Porto Alegre e amamos! 
+Quando sentamos na mesa simplesmente ninguém vinha nos...Mais",3,0.8910275101661682,0.05151040479540825,0.057462163269519806,"[('Porto', 'I-LOC'), ('Alegre', 'I-LOC')]"
+Melhor lugar pra fazer sua festa ou comemoração pessoal todo de parabéns atendimento top 👏🏻 recomendo a todos ótimo lugar,3,0.9220311641693115,0.043086353689432144,0.03488253429532051,[]
+"Já conhecia esse ambiente maravilhoso, mais nesse dia vim comemorar meu aniversário... recomendo,tudo nota 10. Tudo perfeito desde o antedimento, comida,bebidas e mariachis... amei",3,0.9178808927536011,0.02760137803852558,0.054517704993486404,[]
+"Fui com minha família comemorar o aniversário de 15 anos do meu filho, o atendimento é através de um tablet, o que traz um pouco de impessoalidade, porém nota 10 pela agilidade.
+A casa está vazia, comida SENSACIONAL bem temperada, como deve ser.
+O valor...Mais",3,0.6077998280525208,0.07560990005731583,0.316590279340744,[]
+"Estive no restaurante, pois a minha mãe decidiu comemorar seu aniversário lá.
+O primeiro ponto negativo foi o fato deles não fazerem reserva de mesas, sendo assim, ela teve que chegar as 19:00 horas para garantir que conseguiria comemorar o seu aniversário lá.
+O segundo...Mais",3,0.20120500028133392,0.21689292788505554,0.5819020867347717,[]
+"Animado, aconchegante e comida deliciosa!! Fui 2 vezes com meu marido e filha e, depois comemoramos o aniversário deles com a família!! Todos adoraram!! E aniversariante ganha benefícios ótimos!! Vale a pena!",3,0.9722422361373901,0.01075570099055767,0.017002157866954803,[]
+"minha esposa comemorou o aniversario dela, muito bom muito top, eu e ela e os nossos amogos ficamos muito satisfeito.",3,0.8972135186195374,0.02799353003501892,0.07479292899370193,[]
+"Muito bom, curtimos com a família e amigos uma noite ótima e digna de comemorar aniversários. Os funcionários são muito atenciosos e viltaremos com certeza",3,0.8051044344902039,0.02896646223962307,0.16592904925346375,[]
+"Ambiente decorado,  com comidas e bebidas tipicas. Lugar animado para comemorações de aniversário e reunir os amigos",3,0.9240294098854065,0.03974098339676857,0.03622966632246971,[]
+"Super recomendo! Animado, comida boa, serviço ótimo e bebida maravilhosa! Fiz meu aniversário e meu amigos amaram!!!!",3,0.9918531775474548,0.00487145408987999,0.0032753979321569204,[]
+"Lugar com comida de qualidade e ótima para qualquer evento,  com amigos, festas de aniversário ou com a família. Obs. os mariatis são cobrados (couvert artistico)",3,0.8357663750648499,0.07787986844778061,0.08635373413562775,[]
+"No ultimo dia 12 de março de 2014 fomos comemorar o aniversário de meus filhos lá.
+Desde o momento anterior que fui fazer a reserva até a finalização do evento, o atendimento  foi maravilhoso.
+O ambiente é muito alegre, com paredes coloridas e  decoração típica....Mais",3,0.9326319098472595,0.030731551349163055,0.036636557430028915,[]
+Comida divina. Ambiente bem decorado e divertido. Ótimo para ir com.grupo  de amigos para celebrar aniversário ou apenas uma juntada para reunir a turma.,3,0.9589917659759521,0.02007170207798481,0.020936448127031326,[]
+Muito animado e funcionários bem atenciosos. Mesmo cheio fomos muito bem atendidos. E tem um mimo especial para o aniversariante.,3,0.6863205432891846,0.06699538230895996,0.24668404459953308,[]
+Lugar otima para beber com os amigos e comemorar! Ambiente muito agradavel e otimos profissionais no comando !,3,0.9739567637443542,0.014694306999444962,0.011348861269652843,[]
+"Fomos em um grupo de 15 pessoas comemorar o aniversário de uma amiga no Guacamole. Foi divertido pois o ambiente é agradável e apropriado para comemorações. Músicos passam pelas mesas e animam a festa, mas quando eles não estão tocando, a música ambiente é excessivamente...Mais",3,0.7454509735107422,0.0629475861787796,0.19160151481628418,"[('Guacamole', 'I-LOC')]"
+"eu amei muito!!!! 2° vez que passo meu aniversário aqui, melhor lugar que eu poderia ter escolhido pra passar com meus amigos, garçons super atenciosos e simpáticos",3,0.9723172783851624,0.01139907632023096,0.016283683478832245,[]
+"O restaurante é muito animado,perfeito para comemorações e celebrações no final de semana.
+Estive nele mais de uma vez com essa finalidade e fiquei muito satisfeita com o atendimento,  a alegria do ambiente, a comida e as apresentações da Casa.
+Mas durante a semana, o...Mais",3,0.9152451753616333,0.036546818912029266,0.04820798709988594,"[('Casa', 'I-ORG')]"
+"Foi fantástico!!! Lugar super legal, ambiente característico e comida uma delicia! Amei! Foi bem especial meu aniversário com meu amor e amigos!!!",3,0.9644860625267029,0.013446317054331303,0.022067632526159286,[]
+"Ambiente muito divertido, atendimento muito bom e bebidas e comidas deliciosas! Adoramos comemorar nosso aniversário!",3,0.9761994481086731,0.00929530430585146,0.014505184255540371,[]
+"Um lugar que combina com qualquer data comemorativa, encontro com amigos, excelente no atendimento, na comida e bebida. Animação total.",3,0.9536282420158386,0.029956860467791557,0.016414929181337357,[]
+"Ótimo lugar, boa diversão! Top demais, super recomendo, vim no meu aniversário comemorar, e fiquei super satisfeito",3,0.9787326455116272,0.00858973152935505,0.012677528895437717,[]
+"Comemoramos o aniversário do meu filho lá, foi showw! Muita diversão, comida boa e atendimento top! Valeu muito!!!",3,0.9750006198883057,0.009885325096547604,0.01511404849588871,[]
+"Estou comemorando meu aniversário aqui e estou amando! Equipe excelente, bebidas muito boas e ótima comida!",3,0.9912256598472595,0.005199109204113483,0.0035752912517637014,[]
+Perfeito para comemorar com amigos!! O interessante foi o local com personagens e a sua decoração!! Além da tecnologia usada para n ter que ficar chamando o garçom!! Super interessante. Recomendo,3,0.9753108620643616,0.010412481613457203,0.014276674948632717,[]
+"Local agradável, aprazível e seguro.
+Muito divertido.
+O tequileiro é excelente!
+Muito bom para comemorar aniversários ou outras comemorações!!!",3,0.9867013096809387,0.008283870294690132,0.005014761816710234,[]
+"Comemorei meu aniversário e foi TUDO impecável:Do início ao fim. 
+Atendimento eletrônico funciona! Funcionários ágeis,  simpáticos, solicitos!
+Destaco o atendimento de excelência do garçom Arnaldo!!!
+Os pratos e drinks são deliciosos!",3,0.8606429100036621,0.03112410381436348,0.10823298990726471,"[('Arnaldo', 'I-PER')]"
+um lugar muito agradável onde eu trouxe meus amigos pra comemorar meu aniversário e bebemos a noite toda. Ótimo atendimento!,3,0.5581415891647339,0.03560366481542587,0.4062547981739044,[]
+"Comemorei meu aniversário aqui no guaca com meus amigos, estou muito satisfeito, eltaco é muito brabo!",3,0.9465112090110779,0.026635032147169113,0.026853803545236588,[]
+Decidi comemorar meu aniversário de última hora e fui muito bem recebido.  Comida de qualidade. Todos muito animados.,3,0.968295156955719,0.01600448600947857,0.015700381249189377,[]
+"É um ambiente muito animado e alegre. Um ótimo lugar pra se comemorar aniversário.
+Tudo que comi e bebi tava ótimo.
+Super recomendo!",3,0.9754689931869507,0.012930776923894882,0.011600186116993427,[]
+"Adorei o local. Decoração, comida, ambiente, atendentes, tudo perfeito. Fui comemorar o aniversário de uma amiga. Vale conferir.",3,0.815639078617096,0.041042260825634,0.14331863820552826,[]
+Local alegre com otimas comidas e bebidas. A Jessica foi nossa atendente e tudo foi ótimo. Comemorarmos o aniversário da minha sogra que não conhecia o restaurante e ela adorou!,3,0.6646669507026672,0.07739512622356415,0.2579379379749298,"[('Jessica', 'I-PER')]"
+"Fui para uma comemoração de aniversário de um amigo. Minha surpresa é que eu também poderia comemorar o meu junto!!! Uma rodada de tequila com os músicos é imperdível!!! Ambiente super agradável, ótimo atendimento. Super indico para uma reunião animada com amigos.",3,0.6852030754089355,0.0411950908601284,0.27360185980796814,[]
+"Comidas deliciosas, ambiente extremamente divertido e alegre, atendimento espetacular.
+Um dos melhores locais para se comemorar aniversário. Música, dança e tequileiros tornam o evento inesquecível.",3,0.8490342497825623,0.02034120261669159,0.13062447309494019,[]
+Muito animado. Comida e bebidas maravilhosas. Atendimento incrível! Muito bom passar o aniversário aqui.,3,0.9412740468978882,0.021179623901844025,0.037546366453170776,[]
+"Restaurante e bar. Excelente para comemorar aniversarios. ambiente muito animado, como musica ao vivo (a banda vai de mesa em mesa acompanhada dos tequileros). variado cardapio de comidas e bebidas. tudo muito bom. O preço é um pouco caro, mas vale pela animação.",3,0.9672564268112183,0.020555613562464714,0.012187916785478592,[]
+"Bom para comemorar aniversário 
+Animado
+DJ
+COMIDA BOA
+valor da bebida alta 
+Ambiente agradável 
+Aniversariante",3,0.9219585657119751,0.031246280297636986,0.046795185655355453,[]
+"Otima. Gostei de tudo. O ambiente e legal, os garços São muito atentos. Eu escolhi esse lugar para celebrar meu aniversario de namarodos",3,0.5817122459411621,0.07364249229431152,0.34464526176452637,[]
+"Ontem fomos comemorar o aniversário do meu namorado na unidade da Barra e saímos desanimados de lá.
+Antes de irmos, me certifiquei de que o aniversariante tinha algumas vantagens no seu dia. A atendente me disse que nesse caso, meu namorado não pagaria couvert artístico,...Mais",3,0.3651292026042938,0.15233032405376434,0.4825405180454254,"[('Barra', 'I-LOC')]"
+"Fui comemorar aniversário de casamento com meu marido, fomos muito bem recebidos e atendidos. A comida é bem gostosa, no nível de outros restaurantes mexicanos que já frequentei. Achei muito funcional os tablets para fazer o pedido na mesa, o atendimento foi bem rápido. Os...Mais",3,0.9145822525024414,0.036542560905218124,0.04887518286705017,"[('mexicano', 'I-MISC')]"
+"Ótimo lugar para reunir os amigos, muito divertido.O aniversariante não paga couvert artístico valor de R$ 12,00, ganha um show de tequila, brownie com sorvete, só não reseva mesa para aniversariante sex/sábado, tem que chegar no máximo 7horas com todos os convidados.Mas, vale à pena...Mais",3,0.8286782503128052,0.07533376663923264,0.09598801285028458,[]
+Muito bom! Ótimo atendimento! Local perfeito para comemorar aniversário com amigos ou com a família.,3,0.7862871289253235,0.018331915140151978,0.1953810304403305,[]
+"Alguns dias antes do meu aniversário tentei fazer uma reserva por email e tive a resposta que a casa não fazia reserva, mas seu eu chegasse até as 19:30h, conseguiria um espaço p comemorar o meu aniversário junto com mais 30 pessoas. Sendo assim, chegamos...Mais",3,0.5175055861473083,0.20879946649074554,0.2736949026584625,[]
+"Ambiente muito gostoso e aconchegante pra comemorar qualquer momento especial, no meu caso os meus 25 anos de casamento. Estou muito satisfeita com o atendimento é com certeza voltarei mais vezes. 😍",3,0.43779635429382324,0.06932391226291656,0.492879718542099,[]
+"Ambiente agradável e excelente atendimento. Comida maravilhosa, fui na hora do almoço pra comemoração do aniversario de uma amiga e simplesmente amei.",3,0.9697354435920715,0.014339209534227848,0.01592542976140976,[]
+"Pra quem gosta de boa comida e diversão, esse é um ótimo lugar! O som é alto, tem animadores, ótima pedida pra comemorar aniversários, ir com os amigos e família. Só não dou nota 5 por causa do preço salgado. Preparem os bolsos, não é...Mais",3,0.5150091052055359,0.10163120925426483,0.3833596706390381,[]
+Fui pro aniversário de uma amiga e tivemos uma noite muito divertida. O ambiente é muito bem decorado e a música e comidas são ótimos.,3,0.9765880107879639,0.014289298094809055,0.009122658520936966,[]
+"Ótimo    atendimento,   boa   música . Vamos  comemorar   nossos   aniversários   aqui    !!! ANDRE foi show    de bola!!!!!!!!",3,0.9593899250030518,0.01292051374912262,0.027689583599567413,"[('ANDRE', 'I-PER')]"
+"Otimo atendimento e pratos, lugar excelente pra happyhour.melhor morrito depos. Lugar pra fazer festa de aniversario",3,0.9308039546012878,0.028899725526571274,0.04029632732272148,[]
+"Lugar agradável e divertido para estar com amigos. 
+Comemorei meu aniversário e estive em outros aniversários e é sempre uma boa experiência",3,0.9552052617073059,0.025125693529844284,0.019669007509946823,[]
+"Um ótimo atendimento, garçons simpáticos, um ótimo lugar para ir com a família e amigos, e um ótimo lugar para comemorar aniversários.",3,0.7345155477523804,0.08122589439153671,0.1842585802078247,[]
+"Fui comemorar um aniversário e a Frida, ao vir na minha mesa, perguntou se era uma comemoração! Ao reaponder que sim, ela disse: ""Opa, se é comemoração vamos brindar"" e colocou copos para mim e meu marido. Como era a nossa primeira vez no local,...Mais",3,0.6864467263221741,0.07090193778276443,0.24265137314796448,"[('Frida', 'I-PER')]"
+"Fomos no aniversário da minha esposa e foi muito bacana, ambiente bem tematizado,  pratos bem elaborados, show dos mariachis e a frida khalo tequileira muito divertida, aniversariante ganha uma tequila e brownie de graça",3,0.5913979411125183,0.03925177454948425,0.3693503439426422,"[('frida', 'I-PER'), ('khalo', 'I-PER')]"
+"Lucas é um excelente atendente.
+Todas nossas comemorações acontecem nesse restaurante cheio de vida, amor e mariate. Kkkk",3,0.9605294466018677,0.020480357110500336,0.018990298733115196,"[('Lucas', 'I-PER')]"
+Fomos ao restaurante comemorar o aniversário da minha esposa que eu amo tanto. Fomos muito bem atendidos.,3,0.6245821714401245,0.08040618151426315,0.2950116693973541,[]
+"Um lugar leve, descontraído, perfeito para sair com os amigos e comemorar datas festivas.
+Para quem não conhece, vale a pena!",3,0.15431727468967438,0.06825672090053558,0.7774259448051453,[]
+"Otimo restaurante, pratos e drinks deliciosos, bom custo-beneficio. Atendimento excelente. Excelente para comemorar aniversario",3,0.9881446361541748,0.007658481132239103,0.004196783993393183,[]
+Já célebrei dois aniversários lá e sempre foi super animado. A comida é gostosa. A decoração é linda.,3,0.9661867022514343,0.020479414612054825,0.013333865441381931,[]
+"Na última sexta feira comemorei menu aniversário na unidade Barra. Foi uma ótima experiência! Ambiente descontraído, comida saborosa e uma boa carta de drinks! Os mariachi dão um show à parte e o Dj tb animou bastante!
+Como aniversariante, me senti muito valorizada e com...Mais",3,0.8812315464019775,0.030626285821199417,0.08814223110675812,"[('Barra', 'I-LOC')]"
+"Muito bom, realmente recomendo shots incríveis  comida otima, recomendo aos meus amigos, vim aqui no aniversario e curtimos muito.",3,0.8748276829719543,0.03175830468535423,0.09341399371623993,[]
+"O restaurante é amplo, muito bem decorado, divertido, o cardápio é bem variado e o preço é bom. O atendimento é excelente e os pratos são deliciosos! 
+Os Tequileiros e Mariachis divertem na medida certa. Fui com um grupo de pessoas para comemorar um aniversário...Mais",3,0.9586581587791443,0.01445835642516613,0.026883412152528763,"[('Tequileiros', 'I-MISC'), ('Mariachis', 'I-MISC')]"
+Muito bom atendimento ! Fui comemorar meu aniversário e todos da mesa amaram ! Excelentes profissionais!,3,0.9394256472587585,0.011942789889872074,0.04863157123327255,[]
+"Lugar animado, comida boa, ambiente ótimo!fiz a comemoração do meu Aniversário pela segunda vez e farei novamente no próximo ano!",3,0.9779959917068481,0.012767300009727478,0.009236610494554043,[]
+Festa de Aniversário do Jefferson conduzida com muita animação.Comida deliciosa!Bebida muito refrescante!,3,0.9567062258720398,0.014179123565554619,0.029114626348018646,"[('Jefferson', 'I-PER')]"
+"Ótima opção para comemorações, além de ser animado, conta com ambiente agradável e cardápio variado, com opções para todos os gostos.",3,0.8975234627723694,0.03754138574004173,0.06493505090475082,[]
+"Ligar ótimo para comemorar com as cunhadas amigas é afilhadas, ambiente com ótima decoração e bom atendimento diferenciado",3,0.7715728282928467,0.05561770871281624,0.1728094071149826,[]
+"achei muito diferente, divertido, animado, alegre. com uma comida ótima é ótimo pra comemorar o aniversário e passar o tempo com os amigos.",3,0.9784160852432251,0.010824884288012981,0.010758955031633377,[]
+um ótimo para comer e sair com os amigos e família. garçons ótimos e um atendimento muito bom. os aniversários são os melhores lá,3,0.8923301100730896,0.03276748210191727,0.0749024748802185,[]
+Lugar muito animado e divertido. Fui com os meus amigos para comemorar o aniversário de uma amiga  (lá tem regalias para os aniversariantes da semana). Há uma banda ao vivo tocando músicas de mesa e mesa enquanto as pessoas dançam pelo o salão; e os...Mais,3,0.9544816613197327,0.021186944097280502,0.024331320077180862,[]
+Ótimo atendimento! Local agradável e divertido para sair com os amigos e familiares! Vale a pena aproveitar o seu aniversario lá! Muito bom!,3,0.8925287127494812,0.017490079626441002,0.08998113125562668,[]
+"Restaurante excepcional, ótimos drinks. Vale a pena visitar. Lugar excelente para fazer aniversários e comemorações. Recomendo",3,0.933177649974823,0.03275074437260628,0.03407164290547371,[]
+Muito bom! Ambiente agradável e tratem super bem os aniversariantes e seus convidados. Voltarei mais vezes!,3,0.9658993482589722,0.008618836291134357,0.02548179216682911,[]
+"Muito divertido para celebrar aniversário em família. Ambiente descontraido, bem decorado e animado. Adoramos",3,0.9536277055740356,0.01990693062543869,0.02646532654762268,[]
+"Fui comemorar o aniversário de amigos em um sábado a noite e o local estava cheio porém não estava lotado, o restaurante tem aqueles tablets na mesa em que você escolhe o que quer do cardápio e faz o pedido sem ter que chamar o...Mais",3,0.19005806744098663,0.19894558191299438,0.6109963655471802,[]
+"Lugar caro, couvert abusivo (cobram 10% sobre o couvert, nunca vi isso) e a regra do aniversário parece até Sacanagem. Segundo eles vc só pode receber os benefícios de comemorar o aniversário lá na semana seguinte à data, ou seja, aniversário cai na segunda-feira e...Mais",3,0.17035779356956482,0.13433261215686798,0.6953096389770508,[]
+"Meu amigo fez aniversário aqui e eu me amarrei. Vou trazer o pessoal do trampo na proxima vez!! Vai ter atração circense daqui a um tempo, venham!!",3,0.8018970489501953,0.03968018665909767,0.1584227830171585,[]
+"lugar ótimo pra passar tempo com os amigos, principalmente para comemorar aniversário!! Lucas como atende maravilhosoooo ❤️",3,0.9132758975028992,0.03297211229801178,0.05375200882554054,"[('Lucas', 'I-PER')]"
+"Adorei comemorar meu aniversário, foi uma noite muito divertida e agradável, eu e meus amigos adoramos, dançamos, brincamos, rimos e fizemos uma refeição deliciosa! O restaurante também tem um espaço mais reservado que dá pra ir com criança.",3,0.9703348875045776,0.010389994829893112,0.019275212660431862,[]
+"Ambiente ideal para ir com amigos. 
+Já fui com amigos, com namorado, com família. Já comemorei aniversário. É simplesmente sensacional. Não tem como não se divertir.
+Descontraído, o restaurante conta com garçons caracterizados e bem humorados, um tequileiro que te convence no primeiro segundo a...Mais",3,0.7552282810211182,0.14356817305088043,0.10120363533496857,[]
+"Ótima comida, e couvert artístico muito bom, porem o que deixa a desejar é o atendimento. A bebida é muito boa também. Ótimo para comemorar aniversários.",3,0.8751029968261719,0.032306019216775894,0.09259096533060074,[]
+"Fomos ao restaurante comemorar aniversário e fomos muito bem atendidos, local bem organizado, comida boa e valor acessível.",3,0.9317787289619446,0.025028783828020096,0.04319244250655174,[]
+"Comemoramos com amigos o aniversário da minha esposa, na maioria  casais com filhos. E foi demais, muito divertido, música ao vivo bem animado dançamos e agitamos. Os garçons todos caracterizados com personagens do chaves. O local também muito bonito e admirável. A não posso esquecer...Mais",3,0.9618297815322876,0.024216072633862495,0.013954157941043377,[]
+Comemoramos o aniversario de uma amiga no restaurante. Fomos muito bem atendidos. O sistema de pedidos na mesa pelo tablet é muito moderno e facilita bastante. O show dos mariachis foi basrantw divertido com dose de twquila grátis para a aniversariante. Decoração lindíssima! Me senti...Mais,3,0.9061888456344604,0.0351780541241169,0.05863317847251892,[]
+"Comemoramos um aniversário lá.
+Comida deliciosa, espaço amplo, cardápio com tecnologia, através de tablet, espaços recreativo pra crianças e música só vivo
+Muito agradável e prazeroso.
+No final "" um mimo"" pra aniversariante!",3,0.8896842002868652,0.02850979007780552,0.08180596679449081,[]
+"Fui comemorar o aniversário do meu namorado e valeu super!!! Adorei da decoração a comida, o ambiente animado e bom preço. Indico irem na segunda feira que é o dia que tem mais descontos.",3,0.9538325071334839,0.01271838415414095,0.03344905376434326,[]
+Adoreiii o ambiente e decoração!!! muito aconchegante e perfeito para tomar drinks após o trabalho e também para comemorar aniversários etc... Comida excelente! amo comida mexina e o resturante não deixou nada a desejar !,3,0.954706609249115,0.01816302351653576,0.027130350470542908,[]
+"Lugar simplesmente incrivel!! a presença de musicos rodando o bar a noite toda é muito legal e divertido. Ambiente super familiar e aconchegante. Ótimo para realizar aniversarios, ou ate mesmo um happy hour!!",3,0.8720308542251587,0.04932904988527298,0.07864012569189072,[]
+"Muito divertido e é ideal para da família.
+Indico para os aniversariantes ...
+vale muito a pena !!!!!!!",3,0.9617084860801697,0.013403259217739105,0.02488826960325241,[]
+"Estive nesse restaurante essa semana comemorando o aniversário de uma amiga e achei incrível. Muito animado, comida muito boa, com certeza irei novamente.",3,0.9067336320877075,0.03603459149599075,0.05723189190030098,[]
+"Ligar incrivel, estive comemorando meu aniversário com minha família . Nunca vi um ligar tão preparado para tal situação.",3,0.4929114878177643,0.23597317934036255,0.2711152732372284,[]
+"Viemos para um aniversário, aliás, tinham vários rolando. Pedimos uma quesadilha que estava fria e muito mal servida. O ambiente é tranquilo e agradável.Mais",3,0.13030053675174713,0.054570917040109634,0.8151285648345947,[]
+Me senti no México! O atendimento é excelente! A comida chega muito rápido e é deliciosa! Os atendentes são muito atenciosos e o ambiente é super legal! Boa pedida para comemorar o aniversário! Ou curtir uma boa noite entre amigos!,3,0.9470369219779968,0.014415291137993336,0.03854770585894585,"[('México', 'I-LOC')]"
+"Ótimo ambiente, comida excelente. Me diverti comemorando o aniversário de um amigo. Ótimo atendimento.",3,0.985450029373169,0.008979549631476402,0.0055704424157738686,[]
+"Um ótimo lugar pra comemorar com os amigos! Comida boa, bebida gelada e e animação certa! Quero voltar sempre!",3,0.9828894734382629,0.008968542329967022,0.008142038248479366,[]
+"Fui no rodízio comemorar um aniversário de uma amiga e não é que fomos mal atendidos, simplesmente não fomos atendidos! O rodízio não existe! Apesar de falar com diferentes funcionários, nada. Eles diziam que estava passando, mas não sei onde. Só conseguimos comer solicitando naquele...Mais",3,0.11460903286933899,0.43344753980636597,0.45194342732429504,[]
+"Bom lugar para comemorar datas festivas ou encontrar amigos.  Comida excelente,  drinks típicos,  decoração lindíssima e bom atendimento.",3,0.9744725823402405,0.01363962609320879,0.011887779459357262,[]
+"Local ótimo, descontraído e animado para estar com amigos, comemorar aniversário e tomar uns bons drinks",3,0.8531465530395508,0.04759011045098305,0.09926329553127289,[]
+"Comemorei meu aniversário, atendimento maravilhoso, ambiente top! Muito bom
+Comida maravilhosa 
+Atendimento top",3,0.9845433831214905,0.007868943735957146,0.007587636820971966,[]
+"Músicos animam a noite! Hostess top de linha e atendimento excelente! Melhor local pra comemorar seu aniversário, despedida, ou qualquer outra coisa!",3,0.9771493077278137,0.010895268991589546,0.011955441907048225,[]
+"Local ótimo. Atendimento e ambiente ótimos, ótimo cardápio. Aniversários e comemorações entre amigos são uma excelente oportunidade.",3,0.9333387613296509,0.03583020716905594,0.03083098493516445,[]
+"Ótimo local para comemorar aniversário. Decoração muito bonita, ótimo atendimento e ambiente animado.",3,0.9730952978134155,0.015054830349981785,0.011849849484860897,[]
+Lugar muito divertido e a comida é realmente muito gostosa. Bom para festas de aniversário animadas.,3,0.9724709391593933,0.017375502735376358,0.01015359628945589,[]
+"Restaurante mega animado para encontrar os amigos ou comemorar um aniversário. Comida boa e drinks deliciosos.
+Deixaram a desejar na entrada ao não darem a comanda ao meu primo, mas tudo foi resolvido sem muitos problemas.",3,0.8163183331489563,0.06709399074316025,0.11658770591020584,[]
+"Atendimento muito bom, comida de qualidade e o lugar é muito agradável. Vale a pena o happy hour!  Fomos com amigos para um aniversário",3,0.9813228845596313,0.008495314046740532,0.010181794874370098,[]
+"Fui comemorar meu aniversário lá pela segunda vez com a família e uns amigos.
+Fomos super bem atendidos pela hostess, super atenciosa.
+Teve música com os mariachis, ótimos e super divertidos.
+As comidas estavam ótimas e os drinks também.
+Super recomendo.",3,0.9602957963943481,0.018462631851434708,0.021241677924990654,[]
+"Todo ano amo comemorar meu aniversário aqui, ambiente com funcionários maravilhosos e simpáticos 
+. simplesmente amo o lugar.",3,0.9056017398834229,0.03343960642814636,0.06095857545733452,[]
+"Lugar muito agradável, decoração linda, ótimo para sair com amigos e família; happy hour de drinks e balde de cerveja de segunda a quinta até às 20h, e domingo eles abrem as 16h, com o happy hour até às 19h.",3,0.9494243860244751,0.024992305785417557,0.025583278387784958,[]
+"Vim comemorar o aniversário da minha amiga aqui e fiquei simplesmente encantada, não é a minha primeira vez mas toda vez que venho aqui é sempre uma alegria só. Atendes muito atenciosos e solícitos os Mariacris é sem dúvida um show a parte. Amo demais...Mais",3,0.6971333026885986,0.16113127768039703,0.1417354792356491,"[('Mariacris', 'I-PER')]"
+"Restaurante com ótimo atendimento, e comida maravilhosa, lugar incrível com decoração impecável! Ótimo para comemorar aniversário!",3,0.8520145416259766,0.0367758683860302,0.11120955646038055,[]
+"Um lugar muito agradável, decoração maravilhosa, atendimento muito bom. Os garçons são muito simpáticos, atenciosos e brincalhões. Comemorar aniversário é muito bom. Muita música, precinho razoável, comida muito gostosa e drinks maravilhosos.",3,0.95787513256073,0.014754025265574455,0.0273707564920187,[]
+Vim ao aniversário de um amigo que lugar sensacional todos muito atenciosos comida de primeira e bebidas nem se fala. Superrr,3,0.5414372682571411,0.1110205426812172,0.3475421965122223,[]
+"Ambiente animado com a presença dos mariachis, decoração bem colorida e garçons caracterizados de chaves! Ótimo pra comemorar aniversários .",3,0.9439567923545837,0.02111470140516758,0.034928467124700546,[]
+"Comemoramos o aniversário da minha irmã e acertamos na escolha. Ambiente maravilhoso, atendimento excelente, bem localizado, os drinks são maravilhosos e o preço é justo.
+Com certeza vamos voltar!",3,0.9821314811706543,0.010213295929133892,0.007655210327357054,[]
+"Lugar maravilhoso, fui pra um aniversário e não me arrependo! Lugar super família, ambiente lindo e muito bem projetado",3,0.9250836968421936,0.05606106296181679,0.018855193629860878,[]
+Melhor aniversário. Todos receptivos ambiente decoração atendimento comida bebida e animação  como pode tudo em um só lugar? Voltarei com certeza,3,0.8912918567657471,0.052686065435409546,0.05602201446890831,[]
+"Atendimento e comidas excelentes.
+Segundo aniversário que decidi comemorar no estabelecimento e estou super satisfeito.",3,0.9509652256965637,0.020176950842142105,0.028857827186584473,[]
+"Fomos comemorar os 30 anos da minha amiga e foi tudo perfeito! Maria ótima, atenciosa e nos auxiliou em tudo",3,0.29833436012268066,0.04280020669102669,0.6588654518127441,"[('Maria', 'I-PER')]"
+"Recomendo para todo tipo de visita, amigos, romântico, família e datas comemorativas . Recomando demais.",3,0.8655186891555786,0.05751572921872139,0.0769655853509903,[]
+"Comemorei meu aniversário lá e foi muito animado e muito bom. Os preços são um pouco caro, mas a decoração e o ambiente são top",3,0.9610679745674133,0.0195760615170002,0.019355975091457367,[]
+"Local agradável e ótima comida.  Bom atendimento.  Recomendo.  Atendimento ótimo.  
+Estivemos no local para comemorar um aniversário.",3,0.8255458474159241,0.04550090432167053,0.1289532333612442,[]
+"Restaurante familiar, bom para comemorar aniversário. Comida maravilhosa, num preço acessível. Bom para um papo, mas não espere silêncio. Há música, risada e mariachis por todos os lados. Recomendo.",3,0.9329519867897034,0.04510096088051796,0.021947069093585014,[]
+Ótimo restaurante para comemorar aniversário. Ótimo atendimento e música boa cerveja tequila comida atendimento,3,0.8529708385467529,0.07580045610666275,0.07122872769832611,[]
+"Ambiente ótimo para comemoração com amigos e família, vale muito a pena conhecer, excelente atendimento dos garçons e covers",3,0.9642951488494873,0.01784565858542919,0.017859185114502907,[]
+"Já fui algumas vezes comemorar aniversários de amigos lá e tbm comemorei o meu. O ambiente é fantástico, desde a decoração até a participação de mariachis e tequileiros. A comida é sensacional, e da vontade de pedir tudo. Lugar animado e equipe maravilhosa. Sempre que...Mais",3,0.8768972754478455,0.04218849912285805,0.080914206802845,[]
+"Ambiente muito agradável, com bom atendimento e funcionários muito simpáticos! Muito bom pra curtir o aniversário ou encontrar os amigos!",3,0.6823087334632874,0.02573644369840622,0.29195481538772583,[]
+"O restaurante apresenta uma decoração muito legal, coisa que se estende até o vestuário dos funcionários. No dia em que fomos, todos estavam vestidos como personagens do Chaves, o que cria um clima muito agradável já na entrada. Fizemos reservas para o meu aniversário e...Mais",3,0.33753395080566406,0.08224231004714966,0.5802237391471863,"[('Chaves', 'I-MISC')]"
+"ótimo restaurante para comemorar aniversário, comida rápida e atendimento agilizado e super simpático.",3,0.9004990458488464,0.04070063307881355,0.0588003434240818,[]
+"Excelente, adoramos o show e a dedicatória para a aniversariante. Cerveja gelada e atendimento ótimo",3,0.9653672575950623,0.018421053886413574,0.01621161587536335,[]
+"Muito legal o ambiente, confortável e aconchegante. Recomendo muito.
+Ótimo para aniversários e para levar amigos",3,0.8985729217529297,0.03018954023718834,0.0712374821305275,[]
+"Fui com minha família comemorar o aniversário, tudo perfeito, comida deliciosa, os mariates muito legal, decoração perfeita para tirar fotos atendentes super legais, amei !",3,0.8320600986480713,0.025988193228840828,0.14195168018341064,[]
+"Aniversário do meu filho e foi uma experiência bacana!!
+Um lugar para comemorações, onde todos se divertem!!!!!!!!!!!",3,0.3924059271812439,0.05049009621143341,0.5571039915084839,[]
+"Fomos a unidade da Barra comemorar um aniversário e foi uma noite bem divertida. A decoração da casa nos remete ao México rapidamente, destacando a atenção nos detalhes. A comida é boa, mas nada excepcional, mas o atendimento dos garçons é bem fraco e confuso....Mais",3,0.7667902708053589,0.11630973219871521,0.11689994484186172,"[('Barra', 'I-LOC'), ('México', 'I-LOC')]"
+"Fui com umas amigas dia 2 de janeiro de 2020 comemorar meu aniversário e uma delas contou ao garçom que era meu niver. Ele disse que o restaurante oferecia um shot e uma sobremesa de graça. Como sou menor de idade, só ganhei a sobremesa,...Mais",3,0.5486109256744385,0.13100014626979828,0.32038888335227966,[]
+Comida boa e bebida gelada!! Local animado com mariachi.  Perfeito para aniversários e beber com os amigos.,3,0.9832897186279297,0.009881751611828804,0.0068284920416772366,[]
+"Há alguns anos eu resolvi não comemorar mais meu aniversário, mas esse ano resolvi e me indicaram aqui! Até agora está sendo maravilhoso, lugar tranquilo, bom atendimento, e a tecnologia muito legal!",3,0.6172947883605957,0.1473725140094757,0.23533275723457336,[]
+"Animado, divertido. Boa comida e bebida! Recomendo drink gran beeer blue. Ótima opção para celebrar aniversário",3,0.9812687039375305,0.011884838342666626,0.006846453528851271,[]
+"Tudo ótimo, amei tudo, não comemoraria meu aniversário em outro lugar.
+Se eu soubesse tinha vindo antes",3,0.14319726824760437,0.4746612310409546,0.3821415305137634,[]
+Lugar muito legal para curtir a noite de aniversário com a família e com os amigos fazer fotos incríveis que servirá de recordação por um momento especial,3,0.5713858604431152,0.15597783029079437,0.2726363241672516,[]
+"Local muito divertido!
+Comemoramos o aniversário de um amigo no rodízio na segunda-feira.
+Ambiente acolhedor, música ao vivo de ótima qualidade e comida maravilhosa!
+Recomendo muito",3,0.9905349612236023,0.004671565722674131,0.004793480969965458,[]
+"Amei a experiência, escolhemos para comemorar nossas bodas de papel, e não poderíamos ter escolhido local melhor! Fomos MUITO bem atendidos, a equipe é maravilhosa, e a comida também! Voltaremos com certeza",3,0.8974207043647766,0.043634045869112015,0.05894514545798302,[]
+"Excelente! 
+Lugar incrível, grande divertimento com amigos e excelente receptividade para comemoração de aniversário!!!",3,0.9898239970207214,0.006375580560415983,0.003800410544499755,[]
+"Um lugar completo para aniversários e grandes grupos de amigos! Fui duas vezes, nas duas a fila estava grande, mas quando você chega lá vale bastante à pena! 
+
+Já pedi as flautas e as quesadillas. Tudo muito gostoso! Se vocês não gosta de pimenta, preste...Mais",3,0.18787473440170288,0.06717542558908463,0.7449498176574707,[]
+"Perfeito p comemorar aniversário e estar c amigos.
+Divertido e comida deliciosa. 
+Vamos voltar com certeza.",3,0.909325122833252,0.034799788147211075,0.05587509274482727,[]
+"Super agradável, ambiente aconchegante, colorido, divertido. Equipe muito bacana, a maioria bastante simpática, tequileira suuuper animada e gente boa, mariachis simpaticíssimos que vão de mesa em mesa (cantaram parabéns para mim no meu aniversário!). Os drinks são excelentes, ótimo cardápio e tudo com preço justo....Mais",3,0.9287570714950562,0.025995327159762383,0.045247577130794525,[]
+"Ambiente mega hiper agradável, amei!!! Obrigada pela recepção em meu aniversário, todos os convidados ficaram muito contentes.",3,0.9214518070220947,0.02379496395587921,0.05475315451622009,[]
+Adorei estar aqui no aniversário da minha querida e amada ilustríssima amiga maravilhosa. Ótimo restauranre,3,0.8729276061058044,0.045190975069999695,0.08188141882419586,[]
+Tive uma ótima experiência no restaurante. Foi aniversário de uma amiga e a bebida e comida foi maravilhosa.,3,0.9554967880249023,0.02259080670773983,0.021912427619099617,[]
+"Lugar muito bom, ambiente Incrível e super aconchegante. Perfeito pra comemorar aniversários e ocasiões especiais",3,0.8808006644248962,0.02671208791434765,0.09248722344636917,[]
+Eu e um grupo de amigas viemos comemorar a despedida e o aniversário de uma delas! Jorge muito simpático! O lugar é bizarramente caro mas muito bacana!,3,0.2742728590965271,0.03616822883486748,0.6895589232444763,"[('Jorge', 'I-PER')]"
+"ambiente agradável
+ótimo para aniversários
+comida gostosa
+drinks delicia
+o atendimento estava muito bom",3,0.6732854843139648,0.04887635260820389,0.2778381407260895,[]
+"O restaurante é muito bom, vale a pena conferir, fomos comemorar o aniversário do meu irmão, levei meu 2 filhos de 6 e 8 anos, foi super tranquilo. Comida maravilhosa, o espaço muito bem decorado, atendimento show de bola e sempre tem uma atração ao...Mais",3,0.955966591835022,0.013116171583533287,0.030917303636670113,[]
+"Fomos lá em um aniversário durante a semana (terça-feira). O ambiente é muito bem decorado e bem descontraído. A comida é boa e com preço razoável, comi o Pollo Loko e estava marcado com 1 pimenta (nível de pimenta) e achei bem temperado, pouca pimenta....Mais",3,0.8027721047401428,0.060544077306985855,0.136683851480484,"[('Pollo', 'I-MISC'), ('Loko', 'I-MISC')]"
+"Lugar ideal para comemorar um aniversário ou se distrair com os amigos. Muito animado e com bastante música, os mariachis são de fato a atração principal desse restaurante. A comida também é maravilhosa, possui vallet.",3,0.9550026655197144,0.02437187358736992,0.02062540128827095,[]
+"Adorei o espaço, muito aconchegante e perfeito para comemorar aniversários! Funcionários super educados, o atendimento é excelente!",3,0.9772695302963257,0.008993485942482948,0.013736937195062637,[]
+"Vim comemorar o aniversário de um amigo e foi super legal. Ambiente muito animado, atendimento massa e comida maravilhosa!",3,0.9417264461517334,0.018921194598078728,0.03935236483812332,[]
+"Fui comemorar o aniversário da minha irmã e simplesmente AMEI o local! Atendimento nota 10, comida excelente. Muito muito top",3,0.9857455492019653,0.008834846317768097,0.005419524852186441,[]
+Comemorei o aniversário da minha filha e AMEI O AMNIENTE!! As pessoas super bem atenciosos. Comida muito boa e com certeza voltarei 🙂,3,0.9583092331886292,0.016858668997883797,0.02483212575316429,"[('AMNI', 'I-ORG')]"
+"Ótimo lugar para fazermos confraternização da empresa, aniversários. Ambiente agradável limpo cheiroso.",3,0.8042168021202087,0.05233880877494812,0.14344434440135956,[]
+Ambiente agrafabilissimo com muito bom humor e hoa música. Otimo pra trazer os amigos e comemorar datas especiais.,3,0.9624160528182983,0.01618793234229088,0.021396039053797722,[]
+"Ótima comida E bebidas, atendimento rápido e eficiente. Vale muito a pena fazer o aniversário por aqui, diversão e satisfação garantida.",3,0.874139666557312,0.04186546057462692,0.08399486541748047,[]
+"Comida maravilhosa e chega muito rápido, restaurante muito animado, otimo atendimento. Porém as promoções de aniversariantes deveriam ser válidas durante todo o mês de aniversário.",3,0.8832906484603882,0.03787887096405029,0.0788305476307869,[]
+"Lugar excelente, super mega sensacional, muito animado e otimo para datas comemorativas. Com certeza virei mais vezes!",3,0.9897955060005188,0.005175457801669836,0.005029086954891682,[]
+"Ambiente muito divertido para curtir em grupo, fazer aniversário ou um happy hour! Garçons muito simpáticos e atenciosos, a Maria nos atendeu e foi muitooo legal conosco ! Recomendo a experiência !",3,0.9718829989433289,0.012814468704164028,0.015302526764571667,"[('Maria', 'I-PER')]"
+"Local animado. Legal para comemorar aniversário. Cômica excelente, musica Boa e grande animação com o tequileiro!",3,0.9816115498542786,0.011157144792377949,0.00723131513223052,[]
+Excelente local!!!!!!! Boa comida e animação! Bom para comemorar aniversário!!!!!!!!! Ótimo ambiente! Atendimento rápido e eficiente!,3,0.9919397234916687,0.005427357740700245,0.002632916672155261,[]
+"Restaurante muito bom, atendimento bom, otimo ambiente, divertido, muito animado, otimo para comemorar com os amigos",3,0.9833799004554749,0.0068616317585110664,0.00975850410759449,[]
+"Maravilhoso, lugar e comida incríveis. Melhor ligar para comemoração de aniversário, Com certeza voltarei mais vezes",3,0.8931757807731628,0.03941216692328453,0.06741202622652054,[]
+"Lugar maravilhoso para comemorar o aniversário, música empolgante, menu com comida muito boa e serviço excelente!",3,0.9869850277900696,0.0067506032064557076,0.006264364346861839,[]
+"MUITO TOP, estou com meus amigos curtindo o aniversário de minha amiga e esta maravilhoso, a comida e otima e os garçons também",3,0.9737735390663147,0.012631386518478394,0.013595030643045902,[]
+"Excelente atendimento, comida maravilhosa, lugar muito lindo e animado, ótimo lugar para fazer aniversário!",3,0.991355836391449,0.005152381490916014,0.003491820767521858,[]
+"Estive ontem para comemorar meu aniversário e de uma amiga. Estávamos num grupo grande. Foi muito animado. Cantamos, dançamos e até trenzinho fizemos. A comida estava ótima e as bebidas [era noite de promoção de margaritas] deliciosas. Todos adoraram e querem voltar.
+
+Meu único porém:...Mais",3,0.8618831634521484,0.04516657441854477,0.09295030683279037,[]
+Gostei Muito! Quero voltar no próximo aniversário!!!! Todos os funcionários foram bem receptivos e não deixaram faltar nada para nosso divertimento!!!,3,0.8443132042884827,0.06513790041208267,0.0905488058924675,[]
+"Comemorei meu aniversário com amigos e adorei tudo!! As comidas, os drinks e a música eram demais! Especial atendimento com o garçom Maciel. Espero voltar em breve.",3,0.9498010873794556,0.024223320186138153,0.02597566321492195,"[('Maciel', 'I-PER')]"
+Excelente atendimento e ambiente super agradável. Super recomendo!! Ótimo para comemorar aniversário. Amei!!!,3,0.9805294871330261,0.009779868647456169,0.009690633043646812,[]
+"John é otimooo. Bebida boa, comida boa, garcon bom, musica boa, adoramos a experiencia. Otimo para aniversarios!!!",3,0.9891575574874878,0.0061829714104533195,0.004659459926187992,"[('John', 'I-PER')]"
+Comemoração do meu aniversário. Tudo perfeito! Só não avisaram que o shot dos outros convidados era pago.,3,0.3333481550216675,0.22947461903095245,0.43717721104621887,[]
+"Fomos no Happy Hour da Terça-feira. Muito bom! A comida, o DJ, a animação do lugar e a decoração são ótimos! Recomendo a visita! Porém o atendimento para fechar a conta é muito demorado, ficamos mais de meia hora esperando a conta chegar e ainda...Mais",3,0.9488938450813293,0.018820511177182198,0.03228563070297241,"[('Hour', 'I-MISC')]"
+"Gostei muito, fomos um grupo de 5 pessoas comemorar aniversário de uma pessoa do grupo. Todos gostaram.",3,0.8053510189056396,0.05688633397221565,0.13776260614395142,[]
+"Ótimo lugar, excelente atendimento, bem localizado, badalado, animado, bom pra comemorações em grupo, aniversários. Super indico.",3,0.9811027646064758,0.007825110107660294,0.0110721904784441,[]
+"Fui para comemorar o aniversário de uma amiga e adorei o lugar. 
+Limpo, organizado,animado com boa receptividade.
+Ideal para alegrar a noite! 
+Mesa 312",3,0.96236252784729,0.0194933470338583,0.0181441493332386,[]
+melhor atendimento. Ótimo para quem quem quer comemorar aniversário. Ambiente muito agradável para curtir com os amigos,3,0.8179312348365784,0.041906990110874176,0.14016182720661163,[]
+"Comida, bebida, atendimento excelentes! Ja vim algumas vezes e voltaria outras, lugar perfeito para comemorar aniversários.",3,0.9914581179618835,0.0048818401992321014,0.0036600534804165363,[]
+Ótimo local para descontraircom amigos! Fui comemorar meu aniversáriocom amigos e familiarese nãome arrependo nota 10,3,0.69577956199646,0.1312439739704132,0.17297649383544922,[]
+"Fomos comemorar um aniversário lá, não conhecia. A comida é boa mas a demora desanima!! O sistema de pedidos online é bom, vc pede direto da mesa. O grupo que faz animação é show mas o atendimento da cozinha precisa melhorar.",3,0.05104120448231697,0.09537235647439957,0.8535864353179932,[]
+"Melhor lugar para se comemorar o aniversário, o lugar tem uma vibe meninas, muito bom, recomendo! Amei.",3,0.9850047826766968,0.007464053109288216,0.007531176321208477,[]
+Comemorei o aniversário do meu genro e foi mt bom! Cerveja gelada e comida boa! Voltarei com certeza!!,3,0.9426487684249878,0.01698027178645134,0.04037098214030266,[]
+Atendimento excelente e animação garantida para aniversários! Me senti quase no México! Linda decoração e funcionários a caráter!,3,0.9832909107208252,0.010046098381280899,0.006663019303232431,"[('México', 'I-LOC')]"
+"Lugar agradavel, ótimo atendimento! Perfeito para comemorar aniversário e sair com amigos ou namorado.",3,0.9248051643371582,0.02521352842450142,0.0499812588095665,[]
+"Ambiente excelente e agradável, preços acessíveis e atendimento de primeira! Fui pra comemorar o aniversário de namoro e não me arrependi. Ambiente super aconchegante!",3,0.9504138231277466,0.03474368155002594,0.014842463657259941,[]
+"Boa localização, ambiente agradável, funcionários atenciosos, preço justo e espaço adequado.
+Bom local para comemorar datas especiais, com amigos.",3,0.8798173666000366,0.0469527542591095,0.07322997599840164,[]
+"O restaurante é ótimo!  Comida boa,  bebidas servidas geladas e super animado. Tem dois andares,  mas fica lotado. Mariachos e tequileiros fazem a diversão!  Os atendentes são atenciosos. Ótimo lugar para comemorar aniversário.",3,0.9469661712646484,0.020877141505479813,0.032156653702259064,[]
+"Estive sábado na unidade da barra, e como já haviam dito estava muito cheio, mas como uma amiga estava comemorando aniversário e já estava na mesa consegui entrar rápido! O ambiente é o melhor possível, te leva a uma viagem pelo México, a comida da...Mais",3,0.6006044149398804,0.08240031450986862,0.316995233297348,"[('México', 'I-LOC')]"
+"Lugar ótimo, comida ótima, animação total, perfeito para comemorações de aniversários e dias casuais também.",3,0.8692417740821838,0.05409492552280426,0.07666339725255966,[]
+Fiquei muito contente em realizar meu aniversário no restaurante! Minhas músicas favoritas na caixa e meus amigos comigo,3,0.9877695441246033,0.008862887509167194,0.0033676191233098507,[]
+"Comida sensacional, o ambiente é muito bacana para comemorar aniversários e também se divertir com a família e amigos. Super recomendo!",3,0.7431702017784119,0.03474704921245575,0.22208277881145477,[]
+"Lugar super família,  comemorem seu aniv aqui recomendo DEMAIS meu segundo aniversario aqui,shooooow!!!!",3,0.8824019432067871,0.042164698243141174,0.07543342560529709,[]
+"Fui no aniversário de uma amiga, foi bem divertido.  Eles tem umas promoções bem bacanas para aniversariante. Comida é deliciosa, decoração impecável,  bem temática.  A tequileira super divertida. Agora o serviço pecou bastante, a comida demorou muito para chegar!",3,0.9451948404312134,0.020418928936123848,0.03438625857234001,[]
+"Escolhi o local para comemorar o meu aniversário e foi ótimo.Atendimento e comida excelente e a decoração é linda! Elogio especial ao atendente Brunito, muito gente boa! Com certeza farei outra visita.",3,0.987980306148529,0.0069305673241615295,0.005089116748422384,"[('Brunito', 'I-PER')]"
+"Viemos comemorar um aniversário muito especial e não poderia ser em outro lugar, já conhecia a casa e está sendo fantástico como das outras vezes.",3,0.9114511609077454,0.053634028881788254,0.03491482511162758,[]
+"Clima super alto astral com os mariates tocando até mamonas assassinas, comida saborosa!!! Ótimo lugar para ir com os amigos para comemorar uma data especial!!!
+Dica: Chegar cedo pois sempre lota de ficar horas na fila para conseguir entrar e os pedidos acabam demorando também!",3,0.8831765055656433,0.019956184551119804,0.09686733782291412,[]
+"O restaurante é muitooo bom mesmo! O custo benefício da comida e bebida é excelente. Super animado, decoração linda.
+
+O único problema, é que de tão bom sempre tá lotado. Já fiquei até 03 horas na fila de espera, porque muita gente faz aniversários lá....Mais",3,0.9344412684440613,0.016637202352285385,0.04892158880829811,[]
+"Fui ao restaurante duas vezes, na primeira com um casal e na segunda para comemorar o aniversário de uma amiga. Em ambas as situações nos divertimos bastante, comemos, bebemos e saímos super satisfeitos. Apesar de gostar muito da comida em si, o que eu mais...Mais",3,0.8269760012626648,0.06481272727251053,0.10821124166250229,[]
+"Estive no final do ano, na confraternização da minha empresa, gostei tanto q retornei em fevereiro p comemorar meu niver! Simplesmente maravilhoso!!!",3,0.9475058913230896,0.020954634994268417,0.03153940290212631,[]
+"Melhor lugar para passar o aniversário de casamento com minha amada ❤
+
+Viemos aqui quando começamos a namorar, pedi ela em casamento aqui e cada ano que passa, quando estamos no Brasil, passamos aqui para relembrar nossa paixão.",3,0.7373163104057312,0.05505196377635002,0.20763173699378967,"[('Brasil', 'I-LOC')]"
+"Espaço temático bastante agradável para reunir os amigos e familiares, para comemorar uma data festiva. A musica, ao vivo deixou a desejar, pois os músicos só cantaram umas cinco ou seis musicas e saíram, para retornarem mais tarde. A comida, bem temperada, é muito saborosa,...Mais",3,0.691153883934021,0.056737978011369705,0.2521081566810608,[]
+"Estivemos comemorando aniversário de uma amiga. Ambiente descontraído e divertido. Nota 10 pros Mariachis. Mesmo cheio o atendimento foi ótimo.  Comida gostosa (poderia diminuir 1 pouquinho o valor...) Mas maravilhosa mesmo foi a Margarida. Sempre bebo e já experimentei muitas, esta sem dúvidas está entre...Mais",3,0.5695907473564148,0.0907357856631279,0.3396734893321991,"[('Maria', 'I-MISC'), ('Margarida', 'I-PER')]"
+"Lugar excepcional, ambiente maravilhoso para amigos e companhia. Recomendado para aniversários e diversão",3,0.9789202213287354,0.010995744727551937,0.010084121488034725,[]
+"Ótima comida, restaurante maravilhoso! Sempre que minha família vai lá, sai muito satisfeita, ambiente mto alegre, ótimo para comemorações também!",3,0.988869309425354,0.006301721092313528,0.0048288870602846146,[]
+"ótima culinária, decoração descontraída, ambiente agradável e super animado, bom para encontrar com amigos e para comemorar o aniversário!",3,0.9430221319198608,0.016206661239266396,0.04077121242880821,[]
+"O lugar mais incrível do rio grande do sul, excelente para vir com os amigos e comemorar um aniversário.",3,0.8782150149345398,0.03187211602926254,0.08991285413503647,"[('<s>', 'I-LOC'), ('rio', 'I-LOC'), ('grande', 'I-LOC'), ('do', 'I-LOC'), ('sul</s>', 'I-LOC')]"
+"Muito animado com ótimas bebidas e comidas.
+Os Mariachis são um show a parte. Paga-se um couvert pela presença deles.
+Recomendo ir com grupo ou aniversários.",3,0.7234494686126709,0.06805151700973511,0.208499014377594,"[('Mariachi', 'I-MISC')]"
+O Claiton é fera. A comida é muito boa e a comida também. Ambiente bastante agradável para aniversários e mais,3,0.8718588352203369,0.04479548707604408,0.08334563672542572,"[('Claiton', 'I-ORG')]"
+"Comida maravilhosa, ambiente e atendimento muito agradável!! Fui com amigos comemorar aniversário e fomos super bem atendidas!!",3,0.9400701522827148,0.014014137908816338,0.045915648341178894,[]
+Melhor aniversário com meus amigos e família espero que ano que vem eseja aqui com todos para esta Ainda mais feliz,3,0.9643280506134033,0.0244150310754776,0.011256920173764229,[]
+Meu aniversário foi excelente lá! Comida e atendimento ótimos! O ambiente é lindo e confortável. Com certeza voltarei.,3,0.9858559370040894,0.009129335172474384,0.005014743655920029,[]
+Fui convidado para o aniversário de uma amiga no restaurante da barra e foi simplesmente incrível lugar descontraído e com atendimento nota mil. Voltarei mais veze.,3,0.40856844186782837,0.09589273482561111,0.4955388307571411,[]
+Vim comemorar o aniversario da minha esposa e achei o lugar atendimento sensacional melhor lugar para estar com amigos e familia.,3,0.9136757850646973,0.0380217470228672,0.04830245301127434,[]
+"Ótimo lugar para comemorar com os amigos, ambiente muito bonito e agradável. Recomendo para todos os eventos.",3,0.9863098859786987,0.008244790136814117,0.005445335991680622,[]
+"Restaurante muito bom, ótimo atendimento, agilidade dos garçons, super indico para comemoração de aniversário e reunião entre amigos",3,0.9769606590270996,0.00846362579613924,0.014575785025954247,[]
+"Fui no aniversário de uma amiga e nos divertimos muito, com os Mariachis, a comida, drinks e ao final virou uma discoteca. Caso não goste de música, melhor verificar os dias no ato da reserva ou entrada.",3,0.8419561386108398,0.07478471100330353,0.08325908333063126,"[('Mariachi', 'I-MISC')]"

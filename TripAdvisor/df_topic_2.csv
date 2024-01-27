@@ -1,0 +1,469 @@
+Review,Topics,Positive,Neutral,Negative,Token Predictions Corrected
+"Excelente ambiente, divertido, boa gastronomia, musica e bebida boa! Atendimento excepcional! Amei comemorar meu aniver!",2,0.9913851022720337,0.005023548845201731,0.0035913223400712013,[]
+"Sem noção e longe de cogitação lugar incrivel, atração musical muito boa e cuidado: o álcool aqui impera. Tudo de bom!",2,0.9304547905921936,0.025398587808012962,0.04414663836359978,[]
+"Muito animado o bar com os cantores, comida sensacional e atendimento ótimos. Foi bem satisfatório pós  praia.",2,0.8453775644302368,0.051702868193387985,0.10291960835456848,[]
+"Ambiente animado, com música, comida e serviço de qualidade. Noite muito agradável e ambiente familiar!",2,0.9753129482269287,0.013774068094789982,0.01091300044208765,[]
+"Ambiente agradável, com música excelente e atendimento exímio. Recomendo e certamente voltaria no futuro.",2,0.958390474319458,0.0213443823158741,0.02026510424911976,[]
+"Amei o atendimento, a garçonete foi mto atenciosa, as comidas uma delícia e amei a música conhecia todas",2,0.7671467661857605,0.06360061466693878,0.1692526489496231,[]
+"Garçons maravilhosos, local aconchegante, clima bom, atendimento impecável, música agradável e divertida. Comida maravilhosa!",2,0.9831039905548096,0.007404365111142397,0.009491588920354843,[]
+Resolvi comemorar meu aniversário aqui por ser um lugar muito divertido! os animadores são incríveis e as músicas primário! sem comentar nas comidas! super inclusivas com opções veganas e vegetarianas muito saborosas!,2,0.9496464729309082,0.021364832296967506,0.028988679870963097,[]
+"Comida ótima, bebida maravilhosa, música excelente,muita animação,muito mais que um restaurante, já .e prepara do para a próxima visita.",2,0.988785982131958,0.0070400177501142025,0.0041739377193152905,[]
+"Excelente comida, bom atendimento, decoração incrível, música boa, localização muito boa e super recomendo.",2,0.9908028841018677,0.005700928624719381,0.0034961625933647156,[]
+"Música excelente, atendimento ímpar. Comida boa e bebidas também. Preço justo. Me senti no méxico...",2,0.9551547169685364,0.029050061479210854,0.015795186161994934,"[('méxico', 'I-LOC')]"
+"Excelente ambente  cordialidade, boa música, carisma e emparia do pessoal. Caipirinhas bem bacanas. Tudo joia para disfrutar.",2,0.9747567176818848,0.013587444089353085,0.011655861511826515,[]
+"Adoramos o ambiente, bem decorado e música maravilhosa. A María nos atendeu super bem. Super recomendo.",2,0.9864142537117004,0.007741398643702269,0.005844291299581528,"[('María', 'I-PER')]"
+"Eu amei, a comida é muito boa. Ótimo lugar para estar com a família e amigos, tem musica, luz ambiente. Quero voltar mais vezes",2,0.9751273393630981,0.014979289844632149,0.009893437847495079,[]
+"Adorei o Guaca !!!!
+Recepçção maravilhosa, atendentes bem humoradsos, a Frida é um escandalo e o trio de músicos um espetáculo.
+Amei o lugar.....",2,0.9479898810386658,0.013085871003568172,0.038924187421798706,"[('Guaca', 'I-LOC'), ('Frida', 'I-PER')]"
+"Atendimento bom e prático, ambiente agradável, bons pratos e música animada, recomendo para amigos, família...",2,0.9771639704704285,0.010996244847774506,0.011839763261377811,[]
+"A decoração do ambiente é muito alegre, extremamente descontraída. Há um grupo de músicas que passa em cada uma das mesas cantando, o que torna o clima muito animado.
+Quando nos sentamos não havia tablets na mesa, então o atendimento foi bem difícil à princípio....Mais",2,0.7432498931884766,0.04777732864022255,0.2089727371931076,[]
+Muiiitoo bom! comida ótima e o melhor de tudo o ambiente é maravilhoso! Melhor de todos que já fui! tequileiros e musica ao vivo fazem parte do show!,2,0.9912419319152832,0.0046268003061413765,0.004131305497139692,[]
+"Muito divertido, animado, com boa música e bom atendimento. Porém o preço é bem salgado é a fila da entrada (mesmo durante a semana) pode desanimar um pouco...",2,0.8591688871383667,0.052403464913368225,0.08842761069536209,[]
+"Gostei bastante da animação do local, os músicos e o ambiente. Além da recepção ser excelente! Agradeço por tudo.",2,0.9880664348602295,0.007985574193298817,0.003947972785681486,[]
+"Lugar bacana para ir com amigos ou colegas de trabalho, comida bacana, musica boa e ainda tem os mariachis",2,0.8832233548164368,0.0657992959022522,0.05097738653421402,[]
+"Achei o preço meio que salgado mas nada que abale o lugar. Restaurante super decorado, comida maravilhosa, música ao vivo. Galera bem legal. Vale a pena conhecer!",2,0.8053092956542969,0.08533964306116104,0.10935115069150925,[]
+"Apesar da fila de espera (com pessoas que passam na sua frente), a comida é muito gostosa, têm várias opções de drinks e ainda contam com a animação de tequileiros e cantores! Quesadilhas de cubos de mignon são as melhores!",2,0.9628670811653137,0.019877754151821136,0.017255142331123352,[]
+"Atendimento excelente, comida muito saborosa. As bebidas são de otima qualidade e as músicas ao vivo são de extrema qualidade.",2,0.9874854683876038,0.008879514411091805,0.003634966677054763,[]
+"Lugar descontraído, com musica ambiente animada, atendimento rapido e excelente. Elogio em especial ao El Trapo.",2,0.9687830209732056,0.017050733789801598,0.014166202396154404,"[('El', 'I-ORG'), ('Trapo', 'I-ORG')]"
+"Ele trapo é o melhor tequillero de todos. Bonito, estiloso, animado, canta bem e atencioso. Pacote completo.",2,0.984767735004425,0.010866641066968441,0.0043656290508806705,[]
+"Sempre muito animado com os cantores e a tequileira. As comidas são maravilhosas. Pecam em 3 coisas. A demora no atendimento, a antipatia de um garçom senhor que vive de cara emburrada e nos drinks gigantes que vem só com gelo. 70% de gelo e...Mais",2,0.8229874968528748,0.03126469627022743,0.1457478255033493,[]
+"Eu adoro o ambiente alegre, animado... mas sinto falta de conseguir conversar sem gritar com as pessoas, já que acho o som ambiente muito alto.
+A hora em que entram os cantores, acho MEGA OK o som, é o tempo de curtir o espetáculo... mas...Mais",2,0.628878653049469,0.14369796216487885,0.22742336988449097,[]
+"Delícia, músicas, dj`s, bebidas surpreendente, 2 ambientes, hum!!!!! Espaço para crianças se destrair assistindo desenhos.... etc.",2,0.7544600963592529,0.0707271620631218,0.17481280863285065,[]
+"Ótimo atendimento, ambiente limpo e boa comida, boa bebida, bem como a música (ao vivo e caracterizada)",2,0.9578060507774353,0.026127181947231293,0.016066785901784897,[]
+"Comida boa, mas nada além do esperado.
+A sobremesa surpreendeu, peçam o churros :) estava delicioso!
+Cobram 10 reais pela musica, que pra mim tornou o ambiente bem barulhento.",2,0.5317236185073853,0.1217678040266037,0.34650862216949463,[]
+"Excelente restaurante, com um ambiente muito legal, com uma banda animada e tudo muito gostoso. Sempre lotado. Vale a pena conhecer!",2,0.9397255778312683,0.02624421752989292,0.0340302400290966,[]
+"Maravilhosa experiência ! Explosão de sabores e grande divertimento.
+Os garçons, tequileiros e tequileiras, mariates também fazem a festa ao som de músicas e omidas típicas.
+Muita alegria em todo o ambiente.",2,0.9565715193748474,0.011734060943126678,0.03169439733028412,[]
+"Tudo excelente! Comida boa, atendimento, música, diversão. Tudo em um único lugar. Vale a pena conhecer.",2,0.9923036694526672,0.005331657826900482,0.0023646613117307425,[]
+"Muito bom, clima animado, ambiente contagiante, musica boa, muito boa a vibe do local, recomendo para todo mundo q quiser um lugar bom pra comemorar",2,0.9854990243911743,0.00589160667732358,0.008609391748905182,[]
+"A comida é mtu gostosa, as porções vem medianamente servidas pelo preço! O ambiente é 10 e adorei os cardápios de tabletes que vc pode ir pedindo sem garçom e Vem rápido na mesa! A música mtu alta e apresentação boba é desnecessária. Não paguei...Mais",2,0.46348175406455994,0.14553578197956085,0.3909825086593628,[]
+"O ambiente é muito alegre e bonito! A comida é muito boa, assim como os drinks e o atendimento também é muito bom! A noite foi animada por boa música ao vivo! Bom custo benefício!",2,0.9947315454483032,0.0035316727589815855,0.0017367618856951594,[]
+"Minha terceira experiencia na casa, como sempre muito boa!
+Ambiente temático super legal, musica boa, comida maravilhosa, atendimento virtual funciona bem...
+Recomendo",2,0.9821855425834656,0.009276686236262321,0.008537795394659042,[]
+Ótimo ambiente ótima música ótimo atendimento garçom simpáticos comida boa sobremesa dahora MTS decorações e felicidade,2,0.942083477973938,0.024665195494890213,0.033251285552978516,[]
+"Noite excelente,  nesse lugar maravilhoso!
+Atendimento nota 1000, os requileiros não massa! O Dj é ótimo! As comidinhas são deliciosas!",2,0.9513079524040222,0.021836241707205772,0.026855824515223503,[]
+"Gostamos muito do atendimento. Todos atenciosos, e ainda por cima tem a diversão garantida com música ao vivo!!!",2,0.7359374165534973,0.053449876606464386,0.2106126993894577,[]
+"Gostei bastante do restaurante, bem animado, apesar de enfrentar uma fila um pouco cansativa, valeu cada segundo! Me diverti bastante e os músicos e brincadeiras do local, fazem render boas risadas! A comida estava excelente, o atendimento tmb. foi bem feito, apesar da casa estar...Mais",2,0.9460800290107727,0.019278142601251602,0.0346418060362339,[]
+"Como sempre maravilhoso. Ótimo ambiente, comida e as músicas são bem divertidas. Quero voltar mais vezes.",2,0.9777634143829346,0.013329730369150639,0.008906817995011806,[]
+"Tive um atendimento muito bom, música maravilhosa, lugar aconchegante, muita diversão e alegria, prazer em compartilhar dessa experiência!",2,0.984379231929779,0.005828764755278826,0.009792088530957699,[]
+A casa é maravilhoso clima ótimo e os atendentes são fantásticos... muito animado e divertido. Musica Boa E ambiente bom,2,0.9805119037628174,0.0121537484228611,0.0073343198746442795,[]
+"Um ambiante espetacular, ambiente familiar, animadíssimo, comidas maravilhosas, virei fã.
+Amei as músicas, os mariachis, tudo perfeito!!",2,0.9727218151092529,0.010791555047035217,0.016486579552292824,[]
+"Resolvi ir conhecer o restaurante badalado e recomendado por um amigo, mas fui na segunda feira aproveitando uma promoção do Chefsclub e adorei a comida e o atendimento. Fui no Jardim Botânico e não esperei o show pois não gosto de comer com música alta...Mais",2,0.505806565284729,0.2579205334186554,0.2362728863954544,"[('Chefsclub', 'I-ORG'), ('Jardim', 'I-LOC'), ('Botânico', 'I-LOC')]"
+"Muito bom: o atendimento, a comida, o ambiente, os músicos e a localização. Garanto uma boa experiência a todos.",2,0.9358943104743958,0.016663113608956337,0.04744251072406769,[]
+"Valeu cada instantes. Música boa, comida e ambiente perfeitos.
+Recomendo e espero voltar em breve para mais uma experiência.",2,0.9558841586112976,0.022761322557926178,0.02135450579226017,[]
+"Lugar animado, com boa música, boa comida e bons drinks! Se você gosta de lugar mais vazio, tente vir em dia de semana. No FDS grande chance de estar bem cheio. Se pra você quanto mais melhor, está no lugar certo!
+Pode também reservar uma...Mais",2,0.9663562178611755,0.021345844492316246,0.01229787990450859,"[('FDS', 'I-ORG')]"
+"Fomos com uma turma e foi mto divertido... as musicas ambiente sao legais e tem os musicos que passam nas mesas animando... rimos e nos divertimos muito! A ideia do tablet p pedidos na mesa eh otima, mas os garcons nao davam conta do atendimento...Mais",2,0.8609952926635742,0.05297352746129036,0.08603119105100632,[]
+"Ambiente temático, música ambiente animada. Atendimento excelente e comida deliciosa! Recomendo fortemente.",2,0.982244074344635,0.010206502862274647,0.007549405563622713,[]
+"Lugar animado, ótimo ambiente, descontraído e com música bem divertida. Lugar legal para sair com os amigos.",2,0.897809624671936,0.044484466314315796,0.0577058345079422,[]
+Muito bom!!! Ambiente bom e comida boa!!! Música animada e garçons bem simpáticos!!! O tequileiro é um show à parte!!!,2,0.9902177453041077,0.005412319675087929,0.004370003938674927,[]
+"Foi muito boa a comida, o atendimento!
+Música boa na casa!
+Ambiente tranquilo, agradável e muito familiar!!",2,0.981450080871582,0.007665578741580248,0.010884302668273449,[]
+"Restaurante muito gostoso, com astral muito bom para se divertir e beber muito com os amigos. Ótima musica ao vivo.",2,0.9592896103858948,0.022059833630919456,0.01865050010383129,[]
+"Tudo maravilhoso, comida, musicos, tequileiro e frida, porem alguns de nossos amigos nao aguentaram e foram embora, nao traziam nem a bebida que pedimos, pedimos varias vezes e nao traziam. Sempre que o restaurante ta vazio o serviço dos garçons é otimo mas se enche...Mais",2,0.4450151324272156,0.12222257256507874,0.4327622652053833,[]
+"O ambiente é super divertido e animado, conta com música ao vivo e pessoas vestidas a caráter. A Comida é gostosa e o chop super gelado! A caipivodka com picolé é uma delicia!",2,0.8472456336021423,0.027828453108668327,0.12492595613002777,[]
+"Serviço rápido e eficaz , atendentes atenciosos ,  música boa, todos muito maravilhosos , adorei , venho mais vezes , e perícia boa",2,0.9824647307395935,0.008550845086574554,0.008984420448541641,[]
+"Ótimo programa para fazer com amigos e família! Comida boa, música animada e muita bebida boa!! Aprovadissimo!!",2,0.9920502305030823,0.005359112285077572,0.0025906881783157587,[]
+Excelente lugar. Ótimo pata uma noite entre amigos e excelente música. Vibe excelente e vale cada segundo. Super recomendado,2,0.9927102327346802,0.005513888783752918,0.0017757841851562262,[]
+"Ótimo Restaurante, localizado no inicio da Jardim Botânico, boa música e cardápio bem interessante. vale a pena conferir.",2,0.9343258142471313,0.032420508563518524,0.03325371816754341,"[('Jardim', 'I-LOC'), ('Botânico', 'I-LOC')]"
+Que atmosfera sensacional deste lugar! Os cantores passando de mesa em mesa cantando e tocando... O tequileiro balançando a cabeça das pessoas... As pessoas batendo palma... O lugar é muito alegre e contagiante. A comida também é muito bem feita. O único item que deixa...Mais,2,0.9344462156295776,0.023918526247143745,0.041635166853666306,[]
+"O ambiente é o melhor. Muito animado e tem uma musica ocasional, mas nao e barulhento. Excelente para reunir a familiaq",2,0.9575738906860352,0.03143175691366196,0.010994328185915947,[]
+"Muito divertido, local extremamente agradável, adorei a comida, os cantores passam de mesa em mesa, bebida muito boa....recomendadissimo!!!",2,0.9599605798721313,0.012125836685299873,0.027913562953472137,[]
+"Adorei o bar! Muito animado, comida deliciosa! A comida tem preço justo, e como dividi com mais amigos ficou barata! Já a bebida é mais cara! O bar tem músicos que passam em todas as mesas! Não dá pra ir em clima romântico, é pra...Mais",2,0.948551595211029,0.02639167010784149,0.025056738406419754,[]
+"Melhor experiência não há! Tudo maravilhos, pratos, bebidas até a decoração. A animação dos músicos também é muito boa!!",2,0.8101284503936768,0.07283210754394531,0.11703938245773315,[]
+"Ótimo atendimento, funcionários atenciosos, comida deliciosa e cantores no entretenimento animados e divertidos!",2,0.8638723492622375,0.03551226109266281,0.10061538219451904,[]
+"Ambiente agradável, atendimento excelente, comida gostosa, músicas agradáveis, garçom André nota 1000!",2,0.9811346530914307,0.011530965566635132,0.007334341295063496,"[('André', 'I-PER')]"
+"Adorei a casa , o atendente André , Lucas são maravilhosas ,  pratos muito bem servidos , ambiente e música super agradável.",2,0.9741119742393494,0.012725166976451874,0.013162951916456223,"[('André', 'I-PER'), ('Lucas', 'I-PER')]"
+"Melhor bar pra curtir com os amigos 😍😍😍 comida boa, bebidas surpreendentes, atendentes ótimos e a musica nem se fala ♥️",2,0.7769583463668823,0.10841184109449387,0.11462979763746262,[]
+"Achei a ambiente muito agradável, tanto pela comida( muito boa) quanto pelas músicas e atendimentoatendimento",2,0.7483254075050354,0.04036529362201691,0.21130938827991486,[]
+Maravilhoso!!! Atendimento de primeira! Garçons educados e solícitos. Música ao vivo e animada! Atendente Lucas eh uma simpatia!,2,0.9892299771308899,0.006070946343243122,0.004699092358350754,"[('Lucas', 'I-PER')]"
+"Gostei muito do atendimento e da comida, recomendo muito!!! Espaço ótimo, música melhor ainda, parabéns aos envolvidos!",2,0.9652835130691528,0.013706588186323643,0.021009979769587517,[]
+"Muito bom e animado!! A comida é muito boa, e tem muitas opções, ate para veganos e vegerianos as opções estão incríveis!!!! As músicas bem animadas tambem!",2,0.9821745157241821,0.00767265260219574,0.01015287172049284,[]
+"Local excelente para se divertir com amigos ou a família. Os cantores com roupas típicas iluminam o local. Realmente, há música e o som fica no máximo, mas os cantores fazem pausas, o que permite a confraternização. A participação dos músicos é excepcional. Os sustos...Mais",2,0.8183956742286682,0.09348372370004654,0.08812064677476883,[]
+"Ambiente agradável, musica boa, ótimo atendimento, serviço excelente. Uma boa opção para sair a noite com os amigos.",2,0.988307535648346,0.008062469772994518,0.003629997605457902,[]
+Nacho maravilhoso e pessoal muito atencioso! Além disso o atendimento é bem bacana e tem uma música regional ótima!,2,0.9266416430473328,0.020770004019141197,0.05258834734559059,[]
+muito top janta incrível musica boa bom atendimento quero minha jarra de mojito moço vestido de chaves tamo junto,2,0.7964905500411987,0.046925656497478485,0.15658383071422577,[]
+"Lugar agradável , comida gostosa, música boa , decoração muito legal condiz com o nome do lugar , atendimento cordial",2,0.888761579990387,0.04033602029085159,0.07090244442224503,[]
+"Lugar agradável, comida gostosa, música boa e muita animação garantida sempre, local super acessível.",2,0.9695630073547363,0.019842464476823807,0.010594439692795277,[]
+Nota 10!!! Com certeza voltarei mais vezes... garçom muito profissional e atencioso.. sem dizer a música ao vivo.. parabéns pelo estabelecimento.,2,0.6750892996788025,0.10575070977210999,0.2191600352525711,[]
+"Bem interessante e agradável. Ambiente descolado. Os músicos que se apresentam junto às mesas são ótimos. Não é aconselhável para quem não gosta de sons altos.
+A comida é típica e portanto apimentada, se não gosta fique atento.
+Os drinks são bem legais.",2,0.48342248797416687,0.15618279576301575,0.3603947162628174,[]
+"Atendimento excelente, comida ótima, música ao vivo muito boa, ambiente lindo e gente muito animada. Amei!",2,0.9927605390548706,0.005136342719197273,0.0021030763164162636,[]
+"Eu e minha amiga viemos para curtir o ótimo ambiente, as ótimas bebidas e a música ao vivo de quinta que agrada tanto. Desejo a todos que vierem uma experiência igual.",2,0.9352937936782837,0.03309714421629906,0.03160901740193367,[]
+"O ambiente é ideal pra comer bem e discontrair, com os amigos e/ou namorada(o). Adorei o lugar! Tudo lá é pensado para você se sentir no mexico, e eles quase conseguem rs. Enquanto comemos, um grupo de cantores vão de mesa em mesa cantando musicas...Mais",2,0.7460076212882996,0.09070324152708054,0.1632891446352005,"[('mexico', 'I-LOC')]"
+"Ótima experiência e atendimento.
+Trio de músicos cantando músicas de mesa em mesa, atendimento agradável e amigável dos garçons, especialmente o Matheus.",2,0.8250128626823425,0.05813318490982056,0.11685387045145035,"[('Matheus', 'I-PER')]"
+"para arrasar com tudo: o restaurante é maravilhoso! música ao vivo, animação, boa comida e a companhia da casa dá o nome!",2,0.992362380027771,0.00428688433021307,0.003350658807903528,[]
+"Ambiente bastante descontraído, com música ao vivo, comida deliciosa, drinks bem executados. Achei o atendimento muito demorado na sala de espera. Gostei bastante, me diverti bastante. Voltaria com certeza.",2,0.6417000889778137,0.05932452529668808,0.2989754378795624,[]
+"Local agradável, divertido, muito bom. Drinques maravilhosos. Petiscos ótimos. Música boa. E tudo com preços bons. Excelente opção para ir com amigos.",2,0.9911746978759766,0.005677402950823307,0.00314778252504766,[]
+"muito divertido, vale a pena, clima aconchegante e divertido, música boa e o el trapo és o mas brabo",2,0.9421337246894836,0.01564962789416313,0.04221660643815994,[]
+"Excelente opção para frequentar com amigos, ótima música, comida de qualidade e diversos tipos de drinks.",2,0.9619321227073669,0.027275828644633293,0.010792038403451443,[]
+"Muito bom local, comida excelente, muito boa a musica, ótimo ambientemo, atendente muito educadaaaaa",2,0.9933817386627197,0.0044760918244719505,0.002142274519428611,[]
+"Achei o ambiente super animado. O couvert é informado antes de sentar à mesa. Adorei o ambiente, cheio de informações, a música da um astral super bom ao lugar. O que eu acho é que eles se aproveitam que vc esta distraído e demoram muito...Mais",2,0.8271007537841797,0.038691017776727676,0.1342082917690277,[]
+"Restaurante muito bom, comida excelente! O atendimento é impecável e a música muito boa, as pessoas são ótimas recomendo muito!",2,0.9911493062973022,0.006159472279250622,0.002691173693165183,[]
+"Comida sensacional, música incrível e vibe muito boa também! Vale muito a pena a visita! Pedimos um combo e estava muito bom, atendimento maravilhoso.",2,0.9657912850379944,0.009531557559967041,0.024677135050296783,[]
+"Adorei o local, ótimo para ir com os amigos, decoração incrível, música animada e um atendimento muito bom.",2,0.9400427937507629,0.022742630913853645,0.03721463307738304,[]
+"Ambiente climatizado, música agradável... artistas divertidos... petiscos e drinks muito bons... vale a pena voltar mais vezes.",2,0.6902480721473694,0.05291270092129707,0.25683918595314026,[]
+"Boa comida, embora tenha algumas porções pequenas. Música com Dj e Mariachis super divertidos que animam a todos!!!",2,0.8903018832206726,0.07007905840873718,0.039619069546461105,[]
+"Alegria é contagiante, devido a música que rola no local; boa comida. Porém não tem um preço popular.",2,0.4309998154640198,0.3348611295223236,0.23413901031017303,[]
+"ambiente legal pra que gosta de musica, e muito divertido mas a musica e bem alta , comida boa atendimento impecavel .",2,0.5774478316307068,0.1007828414440155,0.3217693567276001,[]
+"possui um ambiente muito aconchegante, com uma musica excelente e uma comida maravilhosa. muito bom para noites divertidas",2,0.9885972142219543,0.00749205844476819,0.003910736180841923,[]
+"Restaurante ótimo, comida saborosa, local divertido e bom atendimento. Recomendo muito este local. Música típica agita o lugar. Sugiro pedir "" panelina"" de Chilli com 3 pimentas.",2,0.9146384000778198,0.029373105615377426,0.05598844960331917,"[('Chilli', 'I-PER')]"
+"Muito animado, muita música, diversão, comida ótima. Saiu meio carinho, mas já era o esperado pelo local e a qualidade.",2,0.9545683264732361,0.027054600417613983,0.018377045169472694,[]
+"Comida boa, atendimento bom e ambiente muito agradável e descontraído pelos mariachis tocando e cantando, além dos tequileiros.",2,0.8616878390312195,0.02387881651520729,0.11443336308002472,[]
+"O Lucas foi realmente incrível! A noite então.... NEM SE FALA! O Gabriel , os Mariachis e Tequileiros foram um show a parte! Amei!",2,0.19766956567764282,0.04818675294518471,0.7541437149047852,"[('Lucas', 'I-PER'), ('Gabriel', 'I-PER'), ('Mariachis', 'I-ORG'), ('Tequileiros', 'I-ORG')]"
+"Fui ontem com meu amigo de trabalho e amamoooos a comida !! Somos de sp, entao achamos muito engraçado e animado as pessoas dançando, as musicas..!Hoje voltamos lá!! Por ser sexta estava mais cheio e música super animada, só tiros! Ragatanga, macarena, despacito etc!!! Divertimento...Mais",2,0.8599522709846497,0.024469323456287384,0.11557843536138535,"[('sp', 'I-LOC')]"
+Muito bom. Comida excelente. Excelente atendimento é uma música bem agradável. Todos muito simpáticos e atenciosos.,2,0.9896155595779419,0.007540339138358831,0.0028440484311431646,[]
+"Excelente ambiente, bebidas incrível, ótimo lugar para curtir com os amigos, boa música, atendimento excelente!",2,0.9879316687583923,0.00806550495326519,0.004002735484391451,[]
+Ambiente animado e que também dá pra ir com crianças. Ótimos drinks e petiscos. A decoração da casa é linda e a música convidativa,2,0.9017919898033142,0.0434819720685482,0.05472605675458908,[]
+"O Matheus é o melhor Garçom do mundo, súper atencioso 
+
+O atendimento desse lugar é muito bom, música ao vivo.
+
+A comida é maravilhosa",2,0.9741529226303101,0.012358223088085651,0.013488846831023693,"[('Matheus', 'I-PER')]"
+"Ameiiii a experiência! Comida deliciosa. Atendentes atenciosos e os cantores q cantam de mesa em mesa então, incrível é divertido!",2,0.952511191368103,0.017510876059532166,0.029977982863783836,[]
+"Comida típica e gostosa. Ambiente descontraído e divertido,  ótimo atendimento e boa música.. Recomendo",2,0.8823827505111694,0.05385858565568924,0.06375867873430252,[]
+"Comida muito boa, com opcoes veganas, atendimento excelente. Musica ao vivo q completa a experiência, foi otimo! ……..",2,0.9282229542732239,0.01987798884510994,0.05189900100231171,[]
+"Pensa em um lugar com uma decoração linda, com músicas e comidas típicas deliciosas, todo ambientado com a temática México e ainda com opção de DJ super animado!? Passamos um fim de semana rápido na Barra, mas esse restaurante sem dúvida foi a melhor pedida!...Mais",2,0.45465853810310364,0.07635249942541122,0.46898898482322693,"[('México', 'I-LOC'), ('Barra', 'I-LOC')]"
+"amei o ambiente, comida é uma delicia. cantores super simpaticos, vou indicar para os amigos com certeza",2,0.28544750809669495,0.059377193450927734,0.6551753282546997,[]
+"Boa comida, boa música, onde todos os frequentadores acabam se divertindo muito e um atendimento bom para os tempos atuais.",2,0.9693046808242798,0.015460068359971046,0.015235303901135921,[]
+"Comida maravilhosa, ambiente legal animado e com musica, otimo programa para o fim de semana com os amigos!! Recomendo os tacos!!",2,0.982344388961792,0.008190872147679329,0.009464716538786888,[]
+"O ambiente é agradável e a comida boa, mas o que realmente chama a atenção é a energia do local, todos muito bem humorados. Os músicos e os tequileiros são um diferencial.",2,0.9053810238838196,0.044850949198007584,0.04976794123649597,[]
+"Fui no dia 20/07 com uma amiga
+Clima descontraído e com uma boa receptividade por parte dos funcionários
+Couvert de R$ 12 por pessoa, sendo que eles cantam pelo menos uma música por mesa
+Comida muito boa e um pouco apimentada como deve ser em...Mais",2,0.6754693388938904,0.1068841740489006,0.2176464945077896,"[('Couvert', 'I-ORG')]"
+"Lugar super animado, comida gostosa, excelente para levar os amigos!  Músicas alegres, decoração impecável!",2,0.9892705678939819,0.007566545158624649,0.0031628513243049383,[]
+"Já estive no restaurabte do jardim botânico e da barra. Gostei mais da Barra pelo espaço, que é maior. Um lugar bonito, agradável, de bom atendimento, comida deliciosa. Nos dias dos mariachos é muito animado! Musica boa! Super recomendo!",2,0.9869512319564819,0.008186405524611473,0.004862356930971146,[]
+"Comida boa, atendimento rápido, música animada , ambiente legal, drinks bonitos e gostosos e decoração super adequada ao clima do local",2,0.9785798788070679,0.013065947219729424,0.00835421122610569,[]
+"Minha primeira vez na casa, comida maravilhosa, ótimo atendimento e música muito boa. Voltarei com certeza!",2,0.9843078255653381,0.008054440841078758,0.007637695409357548,[]
+"A comida é uma delícia, o restaurante é todo temático garçons, ambiente em música. 
+Volto sempre q posso.",2,0.4505656957626343,0.11650287359952927,0.43293139338493347,[]
+"Gostei muito, não só pela temática (é tudo lindo, muito bem decorado) e pela comida (uma delícia) mas também pelo clima! Estive lá em uma sexta-feira e teve uma atração com músicos e tequileiros, muito animado! Acho uma ótima opção para ir com amigos e...Mais",2,0.9014301300048828,0.05566946044564247,0.04290032759308815,[]
+"Excelente ambiente com boa comida, garçons solicitos e música animada! Adoramos os chapéus pra tirar fotos!!",2,0.982879102230072,0.011883115395903587,0.005237808916717768,[]
+"Fomos numa segunda de muita chuva e já recepcionados por um show ao vivo incrível, cantor caracterizado que interage a todo momento com os clientes, sendo sorteados rodadas de tequilas servidos por uma tequileira vinda de Cancún. Comida veio muito rápida e digo que foi...Mais",2,0.7085776329040527,0.073668472468853,0.21775385737419128,"[('Cancún', 'I-LOC')]"
+"Restaurante muito bom, divertido..comida gostosa, vários drinks, tem dj... atendimento rápido.
+Adorei e super recomendo",2,0.977626383304596,0.0122666722163558,0.010107027366757393,[]
+"Comida colorida, de tempero apurado e música regional de bom gosto!!!
+
+Outra descolada seria os tabltets em todas as mesas. Você se acomoda, escolhe, solicita e o garçom já traria seu pedido... Tudo muito eficaz...",2,0.8899449110031128,0.026239918544888496,0.08381520956754684,[]
+"Local super agradável e bem localizado. Pessoal super gentil e atencioso. Muito animado, com muita música e Mariachis super empolgados! Comida excelente! Com certeza um local para se divertir com os amigos. Mas chegue cedo, senão a fila é cruel!",2,0.897460401058197,0.02211553230881691,0.08042411506175995,"[('Maria', 'I-MISC')]"
+"Experiência muito interessante, comida boa, decoração incrível e música animada. Voltaremos com certeza outras vezes",2,0.9807345271110535,0.009393198415637016,0.009872225113213062,[]
+"Muito bom atendimento! Comida e bebida excelentes, chegam rápido e certinhas. Música boa e ambiente tranquilo",2,0.9531859159469604,0.01249304786324501,0.034321121871471405,[]
+"Ambiente super agradável, música e comida maravilhosa. 
+Atendimento excelente, super atenciosos e educados.",2,0.9889257550239563,0.007473346311599016,0.003600978059694171,[]
+"Melhor música com banda ao vivo, muito animados! 
+Ambiente aconchegante e ótimo atendimento.
+O pedido não demora e a comida é ótima!",2,0.9268725514411926,0.028637319803237915,0.04449014365673065,[]
+"Ambiente alegre, moderno e com auto atendimento. Os pedidos são comandados na mesa em tablets.
+Os atendentes são atenciosos, quando solicitados.
+Comida típica saborosa.
+Música ambiente excelente.",2,0.9620295166969299,0.02998996526002884,0.00798056460916996,[]
+"Ambiente ok , comida maravilhosa, musicos sao otimos atendimento 100% !!  Decoração espetacular. Venham!",2,0.9641476273536682,0.0195815060287714,0.01627081260085106,[]
+"Tudo maravilhoso.
+Atendimento muito bom 
+Comida maravilhosa  e drinks deliciosas.
+Frida Kahlo , linda!
+Música ótima 
+Ficamos no segundo andar.
+Mas na próxima vez quero ficar embaixo por causa da música.",2,0.9790958166122437,0.011052818968892097,0.009851379320025444,"[('Frida', 'I-PER'), ('Kahlo', 'I-PER')]"
+"Eu e meu esposo viemos para conhecer o espaço pela primeira vez, e ficamos encantados. A comida maravilhosa, sem ter nada pra colocar defeito, música boa e o atendimento além de ser muito bom foi também muito rápido.",2,0.974107563495636,0.018271615728735924,0.007620771415531635,[]
+Maravilhoso!muito animado.adorei. Maravilhoso. Recomendo.musica boa. Show de bola. Comida e drinks bons.,2,0.9933205842971802,0.0038717545103281736,0.0028077256865799427,[]
+"Show! Muito bom, recomendo!
+Lugar muito bom, música agradável, bom atendimento! Preço bom! Show de bola",2,0.992982029914856,0.0038058501668274403,0.003212121780961752,[]
+"Atendimento ótimo, comida deliciosa e espaço bem legal e temático.
+  Tacos e burrico muito bom, banda mt legal.",2,0.594057559967041,0.05765466392040253,0.34828776121139526,[]
+"Amei o ambiente pois é bem aconchegante, temático e um local onde toda a familia pode ir para se divertir muito. O que mais me chamou a atenção foram as musicas, os tequileiros e os hombres a caráter, são ótimos! A comida é MARAVILHOSA, bebidas...Mais",2,0.82225501537323,0.04524972662329674,0.1324952095746994,[]
+"Lugar agradável, espaçoso, bom atendimento, comida gostosa e música com DJ Will Pedra impecável! Diversão garantida!",2,0.8995862007141113,0.03068908303976059,0.06972470879554749,"[('Will', 'I-PER'), ('Pedra', 'I-PER')]"
+"Comida, bebida, atendimento e música espetaculares. Um dos melhores restaurantes que já fui em toda a minha vida.",2,0.9348011016845703,0.028342152014374733,0.03685682266950607,[]
+"Muito bom, excelente recepção e super animado. Adorei a música, o ambiente e os garçons muito receptivos! Além do cardápio excelente!",2,0.9916451573371887,0.005262089427560568,0.0030927234329283237,[]
+"Adorei o restaurante e o atendimento, muita diversão, muita alegria, várias gargalhadas com os cantores e os tequileiros",2,0.9301987886428833,0.022484172135591507,0.047317031770944595,[]
+"Amei a decoração!! A comida muito saborosa e pouco tempo de espera no preparo. Única coisa negativa é a poluição sonora, música do ambiente com o show cover.",2,0.9039387106895447,0.028695005923509598,0.0673663541674614,[]
+"É a segunda vez que fui e foi melhor ainda. Pedimos o combo que serve 2 a 3 pessoas e drinks excelentes, mesmo para nos que não bebemos whisky ou rum. Show é muito divertido e tem apoio de um DJ. Cheguem cedo, até 20:00....Mais",2,0.876282811164856,0.06425955146551132,0.05945765599608421,[]
+"Lugar sensacional, animado, divertido, atendimento nota 1000. Imperdível. Musica animada ao vivo. Uma das maravilhas do Rio.",2,0.9257659912109375,0.0280462633818388,0.04618768021464348,"[('Rio', 'I-LOC')]"
+"4 estrelas? Oportunidades de melhoria: Poderiam aceitar mais cartões refeição, couvert caro. O couvert era legal, mas a música ambiente deu um clima muito melhor, pena que ligaram tão tarde.
+
+Vamos falar das boas atribuições...
+
+Atendimento digital/pessoal: A modernidade do atendimento foi sensacional. Realizado pelo...Mais",2,0.8577442765235901,0.05133300647139549,0.09092267602682114,[]
+"Se você tem até 20 anos, quer sair com sua turma de amigos para um lugar barulhento e não tem muita exigência quanto ao atendimento, ok, vá ao Guacamole. A comida é bem gostosa mas a música ao vivo, o volume de voz nas mesas...Mais",2,0.5879620313644409,0.3615116477012634,0.05052627995610237,"[('Guacamole', 'I-LOC')]"
+"O tequileiro eh gente bonissima!! A comida estava muito boa, a musica mega animada animou demais a noite",2,0.9924588799476624,0.005316130816936493,0.002224961295723915,[]
+"Primeira vez qye vengo e achei o Lugar animado, atendentes educados e a decoraçăo maravilhosa!
+Os musicos sao demais!!!",2,0.9655395746231079,0.015473028644919395,0.01898728311061859,[]
+"Musica ao vivo, pratos diversos, ambiente grande. Pedidos são feitos diretamente pelo tablete na mesa, os pedidos chegam rapido",2,0.6652765870094299,0.06386558711528778,0.27085787057876587,[]
+"Ótima comida, boa música, ótimo atendimento e bebida excelente!!! Muito animado e perfeito para sair com amigos",2,0.9898039102554321,0.006332983262836933,0.00386312254704535,[]
+"Atendimento excelente da Maria 
+Amei o ambiente , músicas ótimas 
+Super indico vou voltar com certeza!",2,0.9719182848930359,0.014558503404259682,0.013523293659090996,"[('Maria', 'I-PER')]"
+"Super recomendo, ambiente aconchegante, musica legal e atendimento excelente! Super recomendo para toda família e Amigos.",2,0.9862697720527649,0.009007303044199944,0.004722924437373877,[]
+"Maravilhoso o lugar, o clima é super animador. Garçons simpáticos e banda muito animada. Super temático recomendo muito",2,0.968913733959198,0.015592909418046474,0.015493446961045265,[]
+"Amei a experiência! Super recomendo. Comida e bebidas variadas. A música faz com que o ambiente fique ainda melhor. Com certeza, voltarei.",2,0.981554388999939,0.0115478141233325,0.006897836457937956,[]
+"Comida gostosa, atendimento excelente com direito a canções clássicas ao vivo pelos mariachi. Recomendo demais.",2,0.9738134145736694,0.013707519508898258,0.012479042634367943,[]
+"Decoração super caprichada, boa bebida, boa comida apesar de não ser maravilhosa, boa música. Lugar divertidíssimo para ir com amigos ou mesmo em casal. Por isso tudo muita fila na porta até as 22:30. Ponto negativo é que havia muita criança até depois das 21h...Mais",2,0.8693251609802246,0.05631086602807045,0.07436400651931763,[]
+"Ótima musica, dj bem bonito, comida muito boa e temperada, funcionários muito animados e ambiente agradável!!",2,0.9917665123939514,0.0055380575358867645,0.0026954314671456814,[]
+"Comida muito boa, ambiente bacana e bem animado. Atendimento no tablet bem atrativo e música boa. 2022",2,0.9246366620063782,0.03595242276787758,0.039410896599292755,[]
+"Ambiente bonito, agradável, comida gostosa, música boa!
+Boa localização, cover artístico divertido!!",2,0.9928913116455078,0.005323103629052639,0.0017856428166851401,[]
+"Boa comida, atendimento rápido e cordial e música divertida! Já fomos muitas vezes e amamos! 👏🏼😊🌮",2,0.9555665254592896,0.02288772724568844,0.021545687690377235,[]
+"Atendentes super atenciosas. 
+Cardápio para @s froux@s com pimenta, como eu,rs
+Ambiente animado. 
+Ótimos músicos.",2,0.8883986473083496,0.03169804438948631,0.07990337908267975,[]
+Muito bom ambiente comida música  alegre e aconchegante o dj do dia que não era tão bom ... mesmo assim valeu curtimos muito,2,0.7370582818984985,0.11089478433132172,0.15204690396785736,[]
+"Local ótimo para curtir a noite, muita música a noite! me diverti muito, com certeza virei muito mais vezes!",2,0.9191096425056458,0.02819138951599598,0.052698906511068344,[]
+"Ambiente maravilhoso, atendentes super atenciosos, musica ótima e o preço super dentro do orçamento.",2,0.9597654342651367,0.014095056802034378,0.02613944746553898,[]
+"Porções bem servidas e
+Saborosas. Preço justo. Local bem decorado e agradável. Tocam música em todas as mesas, bem divertido. Cardápio digital, facilita bastante. Vale a pena conhecer.",2,0.9528281092643738,0.031621407717466354,0.015550523065030575,[]
+"Casa muito bacana, musica excelente, atendimento show de bola e o tequileiro el trapo que é muito animadoo",2,0.9552488923072815,0.016942335292696953,0.02780877985060215,"[('el', 'I-PER'), ('trapo', 'I-PER')]"
+"Ambiente super divertido, música Boa. Ótimo lugar para uma festa, Boa bebida e muita diversão. Excelente para festas",2,0.9801499843597412,0.013985677622258663,0.005864319391548634,[]
+"Local animado. Bom para ir em grupo. Bom chegar cedo. Comida boa. Música divertida. 
+Sempre uma boa opção.",2,0.9638224244117737,0.02438380941748619,0.01179375872015953,[]
+"Melhor atendimento impossível
+Ambiente muito animado e atendimento especial!
+Cerveja gelada e ótimo preço
+Música boa 👍🏼",2,0.9637417793273926,0.02298038639128208,0.013277838006615639,[]
+"Ambiente bacana, música legal, comidas boas, preço legal, um ambiente muito bom para ficar e relacar com os amigos.",2,0.9153563976287842,0.027738286182284355,0.05690532550215721,[]
+"Muito bom, divertido e otimo atendimento e com musicos maravilhosos. Para ir com familia e amigos! Vale a pena conferir.",2,0.972711443901062,0.010861240327358246,0.016427259892225266,[]
+"Bom restaurante, ambiente com decoração e canções típicas, e bom atendimento. Preço justo e tudo a la carte. A rua onde fica é quase impossível achar vaga para estacionar.",2,0.8817209005355835,0.042482975870370865,0.07579609006643295,[]
+"Lugar de muita diversao,deveras engraçado, com comidas de dar água na boca, ao chegar aqui neste esplêndido local,meu humor muda instantaneamente,me sinto mais vivo doque nunca,começo a dançar e não paro mais, musica agradável, tenho uma amiga, que está aqui ao meu lado, além do...Mais",2,0.5682498812675476,0.17677907645702362,0.2549709677696228,[]
+Um restaurante maravilhoso.Belíssima decoração. Música e diversão sem igual no estado do RJ. Boa localização.,2,0.9504489302635193,0.030967172235250473,0.018583940342068672,"[('<s>', 'I-LOC'), ('RJ</s>', 'I-LOC')]"
+"Ótima música, ótimo cardápio e atendimento perfeito. Local bem localizado, funcionários gentis e simpáticos",2,0.31905731558799744,0.09412015229463577,0.5868225693702698,[]
+"Me divertir como nunca, fomos para jantar e nos surpreendemos positivamente, porque a animaçao dos mariachis e dj é espetacular, sem falar na equipe de garçons que dao um show.",2,0.790285050868988,0.08028798550367355,0.12942689657211304,[]
+"Pensa num lugar bom, é aqui! Eu to embasbacado com a ambientação desse lugar.... surpreendente! To me sentindo no México!!!! Ariba, abarro, adentro a centro não sei como se fala pq estou bebadooooooo... tequilaaaa, tequilaaaaa, tequilaaaa!!!",2,0.7654657959938049,0.04874790832400322,0.18578626215457916,"[('México', 'I-LOC')]"
+"Atendentes simpáticos, prestativos e ótimo atendimento. Pratos variados e muito gostosos. 
+Ambiente com músicas variadas e ambiente bastante familiar. 
+Super recomendo!!!!",2,0.9582806825637817,0.02387794852256775,0.01784132979810238,[]
+Excelente comida!! Ótimo atendimento...música Boa. Atendente Alisson super simpático e atencioso.valeu cada real gasto,2,0.9830369353294373,0.011861409060657024,0.005101669579744339,"[('Alisson', 'I-PER')]"
+"Ambiente temático, comida gostosa, música boa, preços justos e muitas promoções.
+
+Entretanto, atendimento a desejar, principalmente pela garçonete Aline. Muito antipática, pouco solícita e rude nas respostas.",2,0.5770910382270813,0.11485400050878525,0.30805495381355286,"[('Aline', 'I-PER')]"
+"Ambiente descontraído e aconchegante. Música boa, equipe com ótimo atendimento e preços justos. 
+
+Vale muito a pena ir com os amigos e curtir o happy hour, ou melhor: La hora feliz!",2,0.9470892548561096,0.02644728682935238,0.026463568210601807,[]
+"Excelente lugar , lugar encantador muita animação música e comida saborosa deliciosas sobremesas 😍😍😍",2,0.9786173105239868,0.01317413616925478,0.008208578452467918,[]
+"Ambiente muito agradável, música boa, excelente atendimento. Comida boa, chega bem rápido. Gabriel muito atencioso!",2,0.9899985194206238,0.006618170533329248,0.0033833058550953865,"[('Gabriel', 'I-PER')]"
+"Ambiente excelente com otima musica, boa bebida e comida. Otimo local para celebrar com amigos e famila.",2,0.9864736795425415,0.009375316090881824,0.004151029046624899,[]
+"Eu e minhas amigas fomos mt bem atendidas, comida muito boa, drinks muito bons, muita música, alegria!",2,0.9826980233192444,0.009667386300861835,0.007634545676410198,[]
+"Um dos melhores da lugares que já fui.. atendimento diferenciado, bar temático com músicos, comida boa, ótimo k pra quem procura um lugar diferente para diversão",2,0.8596887588500977,0.04606473445892334,0.0942465290427208,[]
+"Cobrança da apresentação dos músicos não me agradou, pensei que iriam tocar a noite toda, acho que os músicos foi só um adereço.Mais",2,0.17190386354923248,0.22508002817630768,0.6030160784721375,[]
+"Muito bom, um lugar com um ótimo atendimento e a comida é muito boa, cerveja muito gelada e a música impecável . Ameeeeeeeei!",2,0.9338533878326416,0.024604367092251778,0.041542232036590576,[]
+"Comida ótima, boa música, staff competente (principalmente Kaylene e Victor, muito simpáticos). Recomendo o burrito.",2,0.8586000800132751,0.03893016651272774,0.10246971249580383,"[('Kaylene', 'I-PER'), ('Victor', 'I-PER')]"
+"Lugar agradável, com atendimento maravilhoso!! 
+O garçom John é incrível! 
+A hora feliz faz o valor dos drinks valer a pena.
+O clima fica muito animado com a música!",2,0.9375537037849426,0.015547097660601139,0.04689918830990791,"[('John', 'I-PER')]"
+Comida  e música boa. atendimento melhor ainda! Sempre que posso vou. Melhor restaurante da barra da Tijuca! 😍😍,2,0.9645906686782837,0.022033559158444405,0.013375738635659218,"[('Tijuca', 'I-LOC')]"
+"Ótimo lugar
+Garçom chará
+Lugar simpático
+Boa musica
+Ar condicionado 
+Cerveja gelada
+Comida quente 
+Voltaremos",2,0.7930811643600464,0.07992453128099442,0.1269942969083786,[]
+"O rodízio é interessante, mas nada fora do normal, faltou um pouco de pimenta. O ambiente é legal, mas a música junina não foi muito agradável, apesar de entender que é a temática do mês nos restaurantes.",2,0.2905089855194092,0.3393094837665558,0.3701815605163574,[]
+"Muito bom, barzinho de qualidade incomparável, musica muito boa e comida excelente. Eu super indico para todos.",2,0.9899898767471313,0.005888901650905609,0.004121279343962669,[]
+"Sem palavras tudo perfeito!!!!
+
+Foi eu e minha namorada desfrutar de todas as magnéticas comidas e bebidas q esse restaurante sensacional proporciona.............!
+
+Obrigado a todos !!!
+Espero volta mais vezes!!",2,0.4282240867614746,0.04690375179052353,0.5248721241950989,[]
+"Muito bom, música ao vivo, comida bem servida e temperada. Ambiente com musica agradável e caracterizado.",2,0.9443171620368958,0.0229863952845335,0.03269648551940918,[]
+"Lugar bom, animado, divertido, alegre. Atendimento bom. Música boa, condiz com o ambiente. Lugar muito bom",2,0.9843329191207886,0.00923905335366726,0.006428062915802002,[]
+"Otimo atendimento, otimo lugar para estar com a familia. Boa musica, comida saborosa e ambiente muito agradavel.",2,0.9611373543739319,0.025643572211265564,0.013219029642641544,[]
+"Excelente ambiente, com garçons super atenciosos, música numa altura agradável para conversar e se divertir com os amigos!",2,0.9853771328926086,0.008717232383787632,0.005905553698539734,[]
+"Lugar super agradável, funcionários atenciosos, pratos e bebidas com valores justos.
+Muita diversão e descontração.
+Os Mariates são ótimos e o DJ tb, que no final da noite junto com outros funcionários com fantasias animam com dança.",2,0.7580153942108154,0.051909346133470535,0.19007517397403717,[]
+"Lugar top!! Bom atendimento e agilidade, boa comida!!!
+
+Bons drinks!! 
+Musica boa!!! Tem boate depois de 23 horas!!",2,0.9889145493507385,0.007530245929956436,0.0035552335903048515,[]
+Adorei!!! Visitei a filial do Jardim Botânico. O atendimento foi muito bom: atendentes simpáticos e prestativos. Os tequileiros fazem a festa dos clientes com direito a Mariachi's e música ao vivo. Recomendo!,2,0.9652031660079956,0.011062520556151867,0.02373429760336876,"[('Jardim', 'I-LOC'), ('Botânico', 'I-LOC'), ('Maria', 'I-MISC')]"
+Música boa. Comida sensacional. Drinks variados e saborosos. Ótimo para curtir com os amigos e família!,2,0.9799267649650574,0.011598057113587856,0.0084751658141613,[]
+Gostei muito da casa o atendimento e ótimo a comida 'musica tudo 100 pontos !!voltaremos com certeza,2,0.8626344203948975,0.03814820572733879,0.09921732544898987,[]
+"Espaço maravilhoso , com músicas temáticas e apresentações individuais de mesa em mesa,   ótimo atendimento e colaboradores extremamente atenciosos e prestativos.  Vale a pena a visita.",2,0.9598354697227478,0.015605124644935131,0.02455933392047882,[]
+Excelente bebida e comida. Restaurante muito animado com atracoes de musica e bebida. Localizacao otima.,2,0.9828989505767822,0.01168459840118885,0.005416468717157841,[]
+"Adorei o ambiente, a música, o atendimento e a comida. Todos muito profissionais e educados. Com certeza voltarei!",2,0.8718109726905823,0.056364864110946655,0.07182405143976212,[]
+"ótimo para reunir os amigos, musicos contagiantes , ambiente bem decorado  ,comida  muito boa, publico jovem",2,0.9783974885940552,0.012397359125316143,0.00920515414327383,[]
+"Restaurante com um clima agradável, música animada, fincionários solícitos, ambiente limpo e comida muito boa!",2,0.9504157304763794,0.02151043899357319,0.028073718771338463,[]
+"Muito incrível o restaurante. Comida maravilhosa e bebida impecável. Atendimento muito bom, os músicos talentosos e ambiento lindo.",2,0.9371321201324463,0.02274688519537449,0.040120989084243774,[]
+Ambiente climatizado e bem decorado na temática do México. Atendentes prestativos e simpáticos. Tecnologia para realizar os pedidos que são atendidos rapidamente. Música temática de qualidade. Limpeza e organização ótima.,2,0.9241161346435547,0.03411432355642319,0.04176952689886093,"[('México', 'I-LOC')]"
+"Ótimo lugar com músicas boas atendentes super atenciosos, ambiente super aconchegante realmente me senti no mexico voltarei concerteza.super indico resenha com amigos,ou encontro em família, excelente para todas as datas.",2,0.9749144911766052,0.013073732145130634,0.012011772952973843,"[('mexico', 'I-LOC')]"
+Serviço de alta qualidade e muito boa a comida! Tudo ótimo no estabelecimento! A música também é muito agradável!,2,0.9745582938194275,0.011715701781213284,0.013726012781262398,[]
+"Local ótimo , com comida excelente,música boa na verdade o lugar é tudo de bom. Parada obrigatória em Porto Alegres",2,0.9638659358024597,0.018626796081662178,0.017507217824459076,"[('Porto', 'I-LOC'), ('Alegre', 'I-LOC')]"
+"Ambiente agradável, divertido, amistoso, ótima trilha sonora, excelente atendimento, comida deliciosa e sem contar na decoração sem igual. 
+Ps: os mariates são divertidíssimos.",2,0.9685614705085754,0.019834527745842934,0.011603941209614277,[]
+"Local animado, comida atende a expectativa. Bem servido e atendimento rápido. Tem música alta, restaurante para quem quer animação sem ser noitada de boate.",2,0.9004161357879639,0.05791663005948067,0.041667159646749496,[]
+Gostei muito do ambiente e do atendimento. Equipe bem treinada e super rápida. Decoração e música muito boas!!!,2,0.954933226108551,0.019196558743715286,0.025870196521282196,[]
+"Lugar alto astral, música boa, atendimento bom, comida boa, bela decoração, fomos no fim de semana, apesar de bem cheio o serviço estava rápido.",2,0.9724262952804565,0.013204465620219707,0.014369301497936249,[]
+"Esse lugar é para todos os momentos. Tudo é maravilhoso, da comida ao atendimento. E is músicos day maravilhosos!",2,0.9726406335830688,0.015418973751366138,0.011940395459532738,[]
+"Comida boa, meio cara, mas é Barra... Bem animado. Mas é MUITO barulhento!!  Os atendentes são educados, comida boa, banheiro limpo, mas a música...se vc quer um lugar pra comer e conversar, não É o local. Mas é bem animado. Dá pra vc dançar e...Mais",2,0.5460871458053589,0.21919651329517365,0.23471634089946747,"[('Barra', 'I-LOC')]"
+"Ambiente agradável, música ambiente bem selecionadas, otimos garçons, e comida maravilhosa  
+Sempre voltarei",2,0.9503311514854431,0.024858031421899796,0.02481086552143097,[]
+"É a primeira vez que venho ao estabelecimento e fui super bem recebido. Comida da melhor qualidade, lugar alegre, energia positiva e música contagiante... Resumindo estou me sentindo muito confortável e feliz nesse lugar. Voltarei mais vezes com certeza!",2,0.9872484803199768,0.007669555488973856,0.005081963259726763,[]
+"Restaurante muito animado, comida ótima, amei tudo principalmente a banda ótima e muito boa!
+Vale a pena conhecer!",2,0.9807333946228027,0.009360418654978275,0.009906231425702572,[]
+Adoro a comida do Guaca...Muito descontraído com tequileiros andando pelo salão. Tem musica ao vivo que os cantores e instrumentistas vão ate as mesas cantar.,2,0.5848824977874756,0.11603039503097534,0.29908713698387146,"[('Guaca', 'I-PER')]"
+"Otimo atendimento de toda equipe da casa, execlente musica ao vivo com os mariates! Comida estava excelente!  Suuuuuuuper recendo",2,0.9762844443321228,0.012913514859974384,0.010802052915096283,[]
+"Expectativa alcançada!
+Decoração, menu e música típicos do país. Atendimento impecável desde a recepção até a hora de voltar pra casa.
+Excelente.",2,0.9727861285209656,0.014804745092988014,0.012409250251948833,[]
+"Garson nota 10, comida de excelente qualidade, som muito bom e isso tudo em excelente companhia, curtindo o aniversário do meu genro",2,0.9926630258560181,0.004103826358914375,0.003233095398172736,[]
+"Melhor lugar que ja fui na vida, cada Boy top... Atendimento de primeira. Recomendo. Música top, me diverti bastante",2,0.9510409235954285,0.02602536603808403,0.022933728992938995,[]
+"Melhor lugar para encontrar os amigos, lugar divertido , pessoas maravilhosas, cantores super simpáticos",2,0.9779451489448547,0.012541570700705051,0.009513244032859802,[]
+"Ótimo lugar para sair com amigos no fim de semana, com ótima música e boas bebidas com um bom preço!",2,0.9497745037078857,0.023056086152791977,0.027169473469257355,[]
+"Comida maravilhosa, chega rápido! Ambiente legal, música animada! Vale muito a pena! Recomento e voltaria mil vezes!",2,0.9812691807746887,0.00663665821775794,0.012094195932149887,[]
+"Comida sensacional, ambiente harmonioso e música boa. Visitei com minhas amigas e amei a experiencia, recomendo ♥️",2,0.9797884821891785,0.012412576004862785,0.007798937615007162,[]
+"Lugar maravilhoso! Comida perfeita! Atendimento sensacional! 
+Muito bem atendida desde o momento da entrada até a saída 
+Banda maravilhosa e divertida",2,0.9842038750648499,0.007913501001894474,0.007882597856223583,[]
+"Atendimento excelente, boa comida, ambiente divertido,  Músicas  agradáveis....vale a pena conhecer!!!!!",2,0.9912084341049194,0.005504140164703131,0.0032873151358217,[]
+"Adorei o restaurante! Música boa, comida maravilhosa, decoração excelente e atendimento rápido e eficiente. Amei muito!",2,0.9924856424331665,0.005400339141488075,0.0021140379831194878,[]
+"Maravilhoso o lugar, muito bom atendimento, uma delicia a comida, super indico, preço justo, música boa",2,0.9668965935707092,0.00959913432598114,0.02350427582859993,[]
+"Ótimo ambiente. Música, atendimento, preço e local maravilhosos. Nota mil para os garçons e para as comidas",2,0.9322787523269653,0.031101424247026443,0.03661981225013733,[]
+"Tudo excelente no atendimento, muito educados e dispostos a ajudar. Comida boa e músicas modernas e bacanas",2,0.9688997268676758,0.017717506736516953,0.013382679782807827,[]
+"Comida ótima! E lugar com uma vibe sensacional! Muito animado, garçons e garçonetes caracterizados com personagens, músicas legais e ótima energia!",2,0.9725990891456604,0.010706010274589062,0.016694840043783188,[]
+Lugar Maravilhoso. Comida muito gostosa. Super rápido. Ótima música. Ambiente mto legal. Muito bem montado.,2,0.9081209301948547,0.04926065355539322,0.04261843487620354,[]
+"Muito bom, parabéns, 10/10, é isso ai pessoal, comida e bebida ótimas. Vale a pena. Música maravilhosa.",2,0.8753253817558289,0.026870425790548325,0.09780430793762207,[]
+El marichi loco quiere cantar! Infraedtructura do local muito boa! Coor do local muito bom Y muita boa atençao por EVELINE,2,0.9701390266418457,0.01323690451681614,0.01662405952811241,"[('<s>', 'I-ORG'), ('EVELINE</s>', 'I-ORG')]"
+"Lugar muito agradável, comida Boa! Oa drinks são lindos e deliciosos, muito animado! Os músicos são ótimos!! O atendimento é muito bom! Gostei e super recomendo!",2,0.9879093766212463,0.005758960265666246,0.0063317278400063515,[]
+"Um ótimo local, com um ambiente incrível, músicos bem divertidos e comida excepcional. Vale muito a pena",2,0.6412532329559326,0.07351316511631012,0.28523358702659607,[]
+Super legal. Banda fantástica e comida incrível. Brunito nos atendeu super bem. Recomendo para vir em grupos,2,0.8203554749488831,0.05388544872403145,0.1257590651512146,"[('Brunito', 'I-PER')]"
+"Ótimo ambiente e decoração, funcionários prestativos, comida boa. 
+Música agradável. 
+Divertidos mariachis.",2,0.9403172731399536,0.025685595348477364,0.03399717062711716,[]
+"Melhor restaurante do Rio de Janeiro,melhor lugar para você se divertir, lugar muito animado e música boa",2,0.9768277406692505,0.015074414201080799,0.008097846060991287,"[('Rio', 'I-LOC'), ('de', 'I-LOC'), ('Janeiro', 'I-LOC')]"
+Atendimento ótimo e atencioso. Ótima comida e músicos!! Sempre visito quando posso. Obrigada Gabriel sempre pelo incrível serviço,2,0.8770902752876282,0.03925241157412529,0.08365732431411743,"[('Gabriel', 'I-PER')]"
+"lugar super animado, sempre com músicas e a comida é muito boaaaa! sério, vale apena (tem couvert de 12 reais mas a comida compensa) além do atendimento ser ótimo",2,0.981907069683075,0.009280161000788212,0.008812714368104935,[]
+"Equipe extremamente solícita e animada. Os Mariachis, banda do local, consegue criar um clima muito divertido, com suas músicas e carisma. Além disso, cardápio bastante variado, com comida de excelente qualidade e drinks maravilhosos. Super recomendo!",2,0.9827195405960083,0.011008407920598984,0.006272097118198872,"[('Mariachis', 'I-ORG')]"
+"Realmente parece um pedaço do México, comidas e bebidas típicas excelentes, músicas ótimas, tequileiras que animam e os Mariates sem palavras. 
+Recomento. Nota 1000",2,0.22379665076732635,0.06575226038694382,0.7104511260986328,"[('México', 'I-LOC'), ('Mariates', 'I-MISC')]"
+"Esse local é muito divertido. Muitas músicas engraçadas, e alegres interessante, vou voltar para melhorar minha experiência.",2,0.9771947264671326,0.011761206202208996,0.01104395929723978,[]
+"Ótimo restaurante para reunir os amigos! Música boa, comida maravilhosa e atendimento sensacional.Vale a experiência!!",2,0.9880802035331726,0.0074936626479029655,0.00442618178203702,[]
+"Restaurante maravilhoso, amei a decoração e os mariates. Música ambiente de acordo com a localidade!",2,0.9758217930793762,0.012889840640127659,0.011288327164947987,[]
+"Ótimo ambiente, comida e atendimento! 
+
+Tudo muito animado, músicas e artistas temáticos com bastante energia!",2,0.9502102136611938,0.018030256032943726,0.03175947070121765,[]
+"Melhor ambiente que já vi, ideia maravilhosa, comida formidável e música agradável. Meu primeiro dia no Rio de Janeiro e já sei que virei aqui em todas as minhas visitas, obrigada!",2,0.9813376665115356,0.0106635307893157,0.007998845539987087,"[('Rio', 'I-LOC'), ('de', 'I-LOC'), ('Janeiro', 'I-LOC')]"
+"Restaurante em boa localização, muito animado, com ótimos pratos, boas músicas e excelente atendimento.",2,0.9872658252716064,0.00655219005420804,0.006181949749588966,[]
+"Reggaeton tocando, taco rolando, mojito cantando, bom demais!!!!
+Atendimento excelente! Fui muito feliz na minha visita!",2,0.9923837780952454,0.005282025318592787,0.002334148623049259,[]
+Excelente atendimento e principalmente do garçom Jay Jav. E querido garçom e ótima música!!!!! E ambiente,2,0.9209458827972412,0.03575393557548523,0.043300189077854156,"[('Jay', 'I-PER'), ('Jav', 'I-PER')]"
+"Adorei o ambiente, a música, a tequileira Consuelo, a variedade de drinks e a comida. Lugar muito bacana pra curtir com os amigos ou família. Apresentação dos Mariaches é ótimo. Recomendo!",2,0.8644677996635437,0.04333941265940666,0.09219285100698471,"[('Consuelo', 'I-PER'), ('Maria', 'I-MISC')]"
+"Comida e bebida muito boa. ótimos drinques e preços justos. Ambiente agradável, romântico, musica típica, tudo muito interessante.",2,0.9819435477256775,0.009958618320524693,0.008097824640572071,[]
+Atendimento bom. Preço adequado. Bom para sair com amigos e aproveitar a música e o ambiente. Indico.,2,0.7958692312240601,0.06997860223054886,0.13415221869945526,[]
+"Vir com meus amigos e eles adoraram, super indico, ambiente agradável, música boa. 
+Voltaremos mais vezes",2,0.9758449196815491,0.010875973850488663,0.013278990983963013,[]
+"Comida muito boa, drinques mais ou menos e ambiente extremamente barulhento, com música ap vivo e DJ, além do povo gritando. Não dá pra conversar mesmo. Atendimento um pouco confuso. Talvez seja melhor aproveitar a comida pelo delivery.",2,0.3978635370731354,0.23726116120815277,0.36487528681755066,[]
+"O local é bem aconchegante, com ótima decoração, estrutura e ambientação. O cardápio é excelente também e o que mais me chamou atenção, além dos músicos ao vivo super divertidos e sem serem invasivos, foi a informatização no modo de fazer os pedidos: basta selecionar...Mais",2,0.9526533484458923,0.024778805673122406,0.0225678700953722,[]
+"Foi muito bom, bacana, recomendo mil vezes. Comida, atendimento, músicos muito bom, recomendo. Super bacana.",2,0.947675883769989,0.016476832330226898,0.03584728389978409,[]
+"Ambiente agradável. Comida boa, nada excepcional. Vale pela música e diversão. Nada a reclamar do atendimento.",2,0.40876251459121704,0.26338475942611694,0.32785266637802124,[]
+"Local com linda decoração, músicos muito animados com ótima comida. Tem a união de um local para comer bem e se divertir!",2,0.9554134011268616,0.018098052591085434,0.026488637551665306,[]
+"Comida muito boa, apesar de cheio. Eles conseguem servir tudo no tempo certo. Com tequileira e tequileiro e ""tocadores"" de musica tipica. Passam de mesa em mesa tocando as musicas. Divertido. Se forem em fim de semana, cheguem até as 19:00 e garantam sua mesa....Mais",2,0.5007680058479309,0.11089830845594406,0.38833364844322205,[]
+O lugar é animadíssimo e com música típica ! Os atendentes são simpáticos e prestativos! A comida é maravilhosa e os drinks valem a pena! Super recomendo!,2,0.9829658269882202,0.010926691815257072,0.006107460241764784,[]
+"Muito bem atendido, a comida estava muito gostosa e com bom tempero
+As músicas foram bem legais e alegrantes",2,0.893079936504364,0.03403120115399361,0.07288883626461029,[]
+"Atendimento top! Comida e drinks maravilhosos!
+Tequileiros alto alterar e música show!
+Pode chegar que é sucesso!",2,0.9916372895240784,0.004417952615767717,0.003944705240428448,[]
+"Ótimo atendimento, ambiente agradável  música divertida, preço justo e boa comida. Vale a pena conhecer.",2,0.9255555272102356,0.034318022429943085,0.040126457810401917,[]
+"Muito bom, comida, bebida, música. Garçons super atenciosos. Ambiente agradável, divertido. Ótima experiência.",2,0.9666659235954285,0.014045857824385166,0.019288204610347748,[]
+"Bom restaurante, música agradável e bom atendimento. Um pouco caro, mas é diferente dos restantes padrão",2,0.6603310108184814,0.10825841128826141,0.23141059279441833,[]
+"Já estive algumas vezes nesse bar. Gosto muito da comida, da música, da animação e dos drinks.
+A diversão fica garantida pelos tequileiros e pelos cantores que vão de mesa em mesa empolgando a galera. Se vc querubim lugar calmo para jantar não é aqui,...Mais",2,0.6711896657943726,0.12234488874673843,0.2064654380083084,[]
+"Muito bom , desde o atendimento , passando pela qualidade preço justo música muito característica.... Tudo top",2,0.8905351758003235,0.03777196630835533,0.07169292122125626,[]
+Ótimo atendimento com música típica agradável e grupos regionais típicos. Comida muito bem preparada e temperos regionais fidedignos. Recomendo!!,2,0.8699219822883606,0.04541682451963425,0.08466116338968277,[]
+"Comida excelente, espaço temático muito bonito e entretenimento musical. Atendimento excelente, facilidade com o sistema de pedidos",2,0.9940423369407654,0.0045137484557926655,0.0014438759535551071,[]
+"A comida é muito boa, e a diversão é garantida, gostei muito do lugar, músicas fáceis de cantar junto com os mariachis!!!!! Sensacional!!!!!! Trouxe meias amigos  baianos que ficaram impressionados com o lugar e sempre que vem para o Rio querem voltar!!!!",2,0.9857974648475647,0.007871362380683422,0.0063312421552836895,"[('Rio', 'I-LOC')]"
+"Atendimento ótimo, ótimo ambiente, ótima comida, os requisitos sao excelentes, música agradável , recomendado",2,0.9835258722305298,0.010733291506767273,0.005740825552493334,[]
+"Boa flauta vegetariana, boa batata frita, bons tacos, boa música, quadros de Frida, estátua do Chaves",2,0.9749617576599121,0.01543242484331131,0.0096058938652277,"[('Frida', 'I-PER'), ('Chaves', 'I-PER')]"
+"Comida gostosa e bebidas super geladas, tudo isso ao som de um dj que enriquece o restaurante!! Super recomendo! Me diverti bastante com a família! Linda decoração!",2,0.9835333228111267,0.009200399741530418,0.0072661940939724445,[]
+um local muito aconchegante comida de alta qualidade com grande variação e uma música de alta qualidade.,2,0.9291515946388245,0.034212298691272736,0.03663608804345131,[]
+"Ambiente MUITO TOP!!! Atendimento sensacional da Cris e Aline ! Somos fãs !!! Esse lugar é MÁGICOOO !!! Obrigada equipe Guaca !!! Músicos tops !!! Edson, gerência, top !!! Vces TODOS são demais !!!",2,0.9654622673988342,0.014857811853289604,0.01967988722026348,"[('Cri', 'I-PER'), ('Aline', 'I-PER'), ('Guaca', 'I-ORG'), ('Edson', 'I-PER')]"
+Atendimento impecável e comida deliciosa. Variedade no cardápio e música. Ótimo ambiente. Qualidade preço,2,0.8660678267478943,0.07192893326282501,0.06200328841805458,[]
+Ótimo ambiente para passar uma noite com os amigos e se divertir ao som de uma ótima música ao vivo e tequileiro animado,2,0.8632822036743164,0.059485774487257004,0.0772320032119751,[]
+"Excelente comida, ambiente,  música  decoração e atendimento, principalmente do garçom personagem Chaves que foi muito educado e atencioso. Ficamos admirados com este bom atendimento",2,0.9853400588035583,0.009577659890055656,0.005082166753709316,"[('Chaves', 'I-PER')]"
+"Comida excelente, boa música, bom ambiente, funcionários muito prestativos e até cantaram parabéns pra mim, rsrs...
+Lugar perfeito pra quem quer se destrair e sair da rotina.",2,0.9816263914108276,0.010113821364939213,0.008259759284555912,[]
+"Eu acredito que o couvert artístico de R$12,00 é justo. De fato, a equipe de músicos anima ao local. E o cardápio é bom, sim! Já tinha ido no restaurante do Jardim Botânico algumas vezes, mas achei o clima aqui da Barra mais animado. Muita...Mais",2,0.7791690230369568,0.07678614556789398,0.14404478669166565,"[('Jardim', 'I-LOC'), ('Botânico', 'I-LOC'), ('Barra', 'I-LOC')]"
+"Excelente atendimento, comida muita boa! Ambiente muito agradável e aconchegante! Música de qualidade e animada !",2,0.9908822774887085,0.005788987968116999,0.0033287997357547283,[]
+Excelente ambiente  com comida delirosa é bem servida. Funcionários atenciosos e animados. Música agradável,2,0.9742783904075623,0.0182087030261755,0.007512927986681461,[]
+"Um lugar ótimo para curtir com amigos e com a família! Ambiente agradável, comida muito boa e os coquetéis então são maravilhosos!! Música agradável e os coveres são muitos bons, fazem a festa com a galera!!! Parabéns",2,0.9735533595085144,0.013174467720091343,0.01327215600758791,[]
+"Local show, música boa, comida M A R A VI L H O S A, ambiente fantástico. Gostei muito de comemorar com meus amigos. Além de ser bem localizado.",2,0.9502456784248352,0.031141988933086395,0.018612375482916832,[]
+"Preço justo,atendentes excelentes(especialmente o Lucas),boa música e local muito agradavel pra passar com os amigos",2,0.9820502996444702,0.01291881874203682,0.005030778236687183,"[('Lucas', 'I-PER')]"
+"Ambiente animado, excelente atendimento, musicas otimas, lugar muito bonito! Super caracterizado, perfeito pra boa comida, bebida, diversão e boas fotos",2,0.9928820133209229,0.0044317469000816345,0.0026862232480198145,[]
+"Comida gostosa , marguerita deliciosa , garçom André super atencioso , música animada !!
+Noite muito agradável com pessoas especiais !! Amamos !!",2,0.9908589720726013,0.00527383154258132,0.0038672867231070995,"[('André', 'I-PER')]"
+"Ótima atendente, cearense arretada! Comida gostosa e quente. Os garçons são atenciosos e a música é muito boa. Local com decoração de muito bom gosto.",2,0.9023705124855042,0.035032860934734344,0.06259655952453613,[]
+"Excelente ambiente com luz reduzida (adoro!), música animadíssima, comidas deliciosas e drinks gostosas e na medida certa!",2,0.9580090641975403,0.02303909882903099,0.018951907753944397,[]
+"Excelente atendimento dos funcionários, em especial o Matheus, gostamos muito das músicas, tudo muito bom.",2,0.9850290417671204,0.00849091075360775,0.006480127573013306,"[('Matheus', 'I-PER')]"
+"Ótimo acomodação, atendimento rápido, adorei a variedade de estilo musical!
+Varias brincadeira iradas😁🤘🏾",2,0.9413145184516907,0.023340221494436264,0.035345301032066345,[]
+"Comida muito saborosa, recepção excelente e ambiente gostoso! Música e programação muito divertida!!",2,0.9932903051376343,0.004709771368652582,0.0019998783245682716,[]
+"É maravilhoso, o pessoal do atendimento é divertido e dança kkkkkk, música boa, o local tem um clima agradável sem contar q a comida é muito boa!!",2,0.9806920289993286,0.010835659690201283,0.008472273126244545,[]
+"Atendimento maravilhoso, comidas otimas, musicas e show divertidos, lugar super caracteristico. Atendentes atenciosos",2,0.9778850674629211,0.010225614532828331,0.011889293789863586,[]
+Atendentes super atenciosos e simpáticos. A comida é uma delícia e a música bastante divertida. Voltarei mais vezes.,2,0.8974382281303406,0.03386333957314491,0.06869848817586899,[]
+"Ambiente animado, aconchegante com bons garçons.A música é contagiante e divertida! Um ambiente animado e muito bem decorado!",2,0.9866889119148254,0.008777163922786713,0.004533955827355385,[]
+"Todos se divertiram muito, com ótima comida, ótima música e muita animação, destacando-se a presença dos Mariachis e tequileiros.",2,0.9406998157501221,0.023386171087622643,0.03591398522257805,"[('Maria', 'I-MISC')]"
+"O atendimento é ótimo
+Fomos atendidos rapidamente e o isso inclui a entrega da comida. 
+A música também é perfeita.",2,0.31957530975341797,0.12876829504966736,0.5516564249992371,[]
+"Ambiente muito agradável, com muita música boa e muita comida gostosa! Super recomendo para todos os tipos de gente!!",2,0.9747765064239502,0.012688808143138885,0.012534636072814465,[]
+"Parabéns, a casa faz tudo com muito bom gosto! O cardápio é vasto! O atendimento sempre bom! Os músicos são sempre NOTA 1000, todos se encantam com seu trabalho!",2,0.9605187773704529,0.009991434402763844,0.02948986552655697,[]
+"Bom ambiente musica ao vivo
+Vasta variedade de petiscos 
+Drinques deliciosos e bem elaborados
+Local bem organizado",2,0.862618625164032,0.052820514887571335,0.08456084132194519,[]
+"Ótimo local, banda super animada, garçons super solícitos, comida boa, vale conhecer e apreciar o ambiente",2,0.9798261523246765,0.010572009719908237,0.009601933881640434,[]
+"Ótimo atendimento, excelentes bebidas e comidas, ambiente climatizado! Músicas ótimas, um lugar onde você pode se sentir a vontade!",2,0.958443820476532,0.014993048273026943,0.02656317874789238,[]
+"Comida é excelente. O tequileiro anima bastante o povo, é bem divertido. A música é boa, a galera tem liberdade de cantar e dançar. O clima é bem descontraído no lugar. Os preços são salgados. Mas, pra uma ocasião ou outra, vale muito a pena.",2,0.9506397843360901,0.017824063077569008,0.03153613954782486,[]
+Ambiente alto astral. Música e staff de primeira linha! Venha e se divirta. Sem contar com a comida que é de primeira.,2,0.7301985025405884,0.11729171872138977,0.15250980854034424,[]
+"Lugar maravilhoso, comida ótima!!! Drinks deliciosos, música ambiente agradável, decoração perfeita.",2,0.9792617559432983,0.010286395438015461,0.010451840236783028,[]
+Achei o ambiente super agradavel e animado. Bebida maravilhosa e comida espetacular. Os músicos complementam.,2,0.9771227836608887,0.013558794744312763,0.00931842252612114,[]
+"Ótimo atendimento.
+Ambiente lindo e aconchegante.
+As músicas são muito boas.
+A comida é muito saborosa.",2,0.927355945110321,0.036772727966308594,0.03587130829691887,[]
+"Comida excelente, atendimento nota 10, musica Boa, bebidas maravilhosas (inclusive El Fuego). Tudo perfeito. Recomendo",2,0.9747859239578247,0.01304581668227911,0.012168304063379765,"[('El', 'I-ORG'), ('Fuego', 'I-ORG')]"
+"Ambiente incrível, garçons muito atenciosos, músicas divertidas, comida boa.... enfim tudo muito bom",2,0.9096260666847229,0.027048297226428986,0.06332572549581528,[]
+"Ambiente agradável, comida saborosa e servida com rapidez.
+Repertório musica muito bom!
+Recomendo a visita ao local.",2,0.9796139001846313,0.0102920550853014,0.010094043798744678,[]
+"Adorei! Musicas excelentes, pratos super originais e um atendimento incrível. Quero voltar outras vezes",2,0.9743146896362305,0.011682018637657166,0.014003288932144642,[]
+"Excelente serviço! Staff incrível 😉 muito divertido! Recomendo real . Drinks, música, comida, ambiente!!!!!!!",2,0.9896573424339294,0.006273713428527117,0.004068857524544001,[]
+"Muito bom, ambiente familiar, música boa, super indicado
+Comida e bebida conforme o pedido, resumindo muito bom!!!",2,0.9726941585540771,0.01021970808506012,0.01708604395389557,[]
+"muito bom, incrível, um atendimento excepcional, música muito animada, sabem como fazer o cliente sentir vontade de voltar ao local! Além dos drinks deliciosos e preços acessíveis",2,0.9060916900634766,0.01326156035065651,0.08064666390419006,[]
+"Lugar muito agradável, super simpáticos os atendentes...adorei estar com minha familia ....os cantores animadíssimo....",2,0.8475064635276794,0.03787601739168167,0.11461751163005829,[]
+"O ponte forte com certeza é a decoração, a música, a animação do lugar. A comida é gostosa, bem farta, pedimos fajitas para uma pessoa, veio muita quantidade! Vale a pena, sem duvida!",2,0.9300925731658936,0.0272538922727108,0.04265357926487923,[]
+"Arquitetura bem interessante do bar. Quesadilas maravilhosas. Só achei um pouco caro o valor do couvert a 10 reais por pessoa, sendo que os cantores ficam circulando no bar e só foram uma vez na mesa onde estava.",2,0.9264237880706787,0.03058987483382225,0.04298638924956322,[]
+Maravilhoso!Venho sempre!!! Ambiente excelente!!!! Da comida à música!!!! Recomendo a TODOS que venham conhecer!!!,2,0.9939813017845154,0.004136230330914259,0.001882504322566092,[]
+"Um grupo de amigos sugeriu almoçar aqui neste restaurante.O atendimento é muito bom,a comida bem preparada e o ambiente agradável.A música faz toda a diferença, você almoça e se diverte muito!",2,0.971659779548645,0.012456419877707958,0.015883730724453926,[]
+"Comida boa, não tão quanto ao real ou Tex Mex, porém uma das melhores que já provei no Brasil. 
+O ambiente é legal, com música ao vivo e mariachis que interagem com o público, porém no dia que fui a demora foi muito grande, desde...Mais",2,0.5431763529777527,0.2830655872821808,0.17375802993774414,"[('Tex', 'I-MISC'), ('Mex', 'I-MISC'), ('Brasil', 'I-LOC')]"
+"Estive ontem com umas amigas para um amigo oculto. O atendimento é muito bom e a comida, que é muito boa, chega rápido. O local é muito barulhento , com música ambiente e performance de mariaches cantando de mesa em mesa (com cobrança de couvert...Mais",2,0.8309991359710693,0.03501393646001816,0.1339869499206543,[]
+"Ótimo atendimento da Shay
+      Diversão tequila e música boa.                      Adoramos e vamos retornar mais vezes.                    Música divertida.",2,0.9154492020606995,0.044321589171886444,0.04022914916276932,"[('Shay', 'I-PER')]"
+"Se quiser diversão não tenha dúvida de onde ir. Tequileira durante toda a noite. No final da noite o restaurante torna-se quase uma boate, com música animada, personagens... impossível ficar parado.
+Apenas a comida deixou a desejar.",2,0.29192474484443665,0.36150485277175903,0.34657034277915955,[]
+EXCELENTE ambiente...comidas e drinks maravilhosos.. música boa ....recomendo e  voltaremos. #parabéns #atodos,2,0.9295991659164429,0.03629221394658089,0.03410864993929863,[]
+"Excelente lugar para se divertir, ambiente alegre, funcionários bastante prestativos, bebidas e comidas nota 10. Música, alegria e felicidade",2,0.9860367178916931,0.009574400261044502,0.004388849250972271,[]
+"Comida boa, música boa, funcionários animados, cardápio é sistema de atendimento moderno, recepção e garçons bem organizados.",2,0.9726516604423523,0.014174479991197586,0.013173900544643402,[]
+"Lugar incrível com energia total, música animada, comida que surpreende! O atendimento especial e caloroso! O visual do bar demais! Inesquecível...",2,0.7627625465393066,0.03772382065653801,0.19951362907886505,[]
+"Espaço muito bacana,bem localizado e com comidas imperdíveis,bom atendimento,com boas musicas e promoções",2,0.5272678136825562,0.052956853061914444,0.4197753965854645,[]
+"Ambiente agradável, limpo, música de qualidade e comida impecável. O pedido poder ser feito pelo tablet em cada mesa evita erros na comanda e agiliza o preparo. Amei!",2,0.8636385202407837,0.06302368640899658,0.07333782315254211,[]
+"Local super agradável, com comida boa, várias opções para vegetarianos e veganos. A música ambiente é excelente e o local é super animado.",2,0.9829807281494141,0.011634751223027706,0.00538451224565506,[]
