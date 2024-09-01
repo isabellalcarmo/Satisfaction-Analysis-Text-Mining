@@ -1,0 +1,10 @@
+topic,most_frequent_entities,frequencies
+-1,"mexicana, mexicano, Guacamole, Rio, Maria, de, Barra, Brunito, Burrito, Gabriel","11, 8, 7, 4, 3, 3, 3, 3, 2, 2"
+0,"mexicana, Rio, Gabriel, Mexico, mexicano, Guacamole, Maria, Barra, Andre, <s>","20, 12, 12, 11, 10, 9, 8, 7, 7, 6"
+1,"mexicana, mexicano, Maria, Matheus, Rio, Mexico, de, Guacamole, Barra, Gabriel","77, 11, 9, 8, 8, 7, 7, 7, 7, 5"
+2,"mexicana, mexicano, Mexico, Maria, Guacamole, Rio, Jardim, Botanico, <s>, Barra","87, 28, 14, 10, 9, 8, 6, 6, 5, 5"
+3,"mexicana, mexicano, Rio, Barra, de, da, Tijuca, Guacamole, Janeiro, Mexico","54, 42, 26, 15, 10, 10, 9, 8, 8, 7"
+4,"mexicana, mexicano, Guacamole, Mexico, Rio, Olegario, Eveline, Barra, Maria, Andre","15, 7, 5, 4, 4, 4, 4, 3, 3, 3"
+5,"mexicana, mexicano, Mexico, Rio, Guacamole, <s>, Barra, Mexican, de, Janeiro","36, 22, 20, 13, 8, 7, 6, 6, 6, 5"
+6,"Guacamole, mexicana, Barra, Rio, da, Jardim, de, mexicano, Maria, Botanico","83, 22, 16, 11, 9, 6, 6, 6, 5, 4"
+7,"mexicana, Guacamole, Barra, mexicano, Matheus, da, Mariachi, Rio, de, Janeiro","13, 5, 3, 3, 2, 2, 2, 2, 2, 2"

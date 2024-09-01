@@ -1,0 +1,16 @@
+Reviews with sentiment 'Positive' in topic '2':
+1. Ótimo ambiente e decoração, funcionários prestativos, comida boa.  Música agradável.  Divertidos mariachis.
+2. Ambiente agradável, atendimento nota 10, cozinha maravilhosa, chopp gelado, drinks maravilhosos, música ótima, tudo com tempero mexicano
+3. Ótimo ambiente, comida e atendimento!   Tudo muito animado, músicas e artistas temáticos com bastante energia!
+4. Lugar aconchegante e mágico. Os músicos são maravilhosos, ambiente mexicano e a comida deliciosa e super recomendo.
+5. Excelente atendimento dos funcionários, em especial o Matheus, gostamos muito das músicas, tudo muito bom.
+
+Reviews with sentiment 'Neutral' in topic '2':
+
+Reviews with sentiment 'Negative' in topic '2':
+1. Ótima música, ótimo cardápio e atendimento perfeito. Local bem localizado, funcionários gentis e simpáticos
+2. O rodízio é interessante, mas nada fora do normal, faltou um pouco de pimenta. O ambiente é legal, mas a música junina não foi muito agradável, apesar de entender que é a temática do mês nos restaurantes.
+3. Não sei porque está entre os melhores na categoria. Localização boa. Couvert de mariachis a 12 reais. Música meio cansativa. Bom atendimento. Comida estava ok, não notei nada excelente. E eu realmente gosto muito da culinária mexicana. Parece mais um bar de petiscos que um...Mais
+4. amei o ambiente, comida é uma delicia. cantores super simpaticos, vou indicar para os amigos com certeza
+5. Música alta, cerveja gelada e amizades. Tudo perfeito! Gostei muito de tudo o que foi oferecido, principalmente o balde de cerveja!
+

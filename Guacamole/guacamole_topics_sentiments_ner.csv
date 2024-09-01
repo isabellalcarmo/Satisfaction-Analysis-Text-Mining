@@ -1,0 +1,10 @@
+Topics,Token Predictions Corrected
+-1,"[(('mexicana', 'I-MISC'), 11), (('mexicano', 'I-MISC'), 8), (('Guacamole', 'I-ORG'), 5), (('Rio', 'I-LOC'), 4), (('de', 'I-LOC'), 3)]"
+0,"[(('mexicana', 'I-MISC'), 20), (('Rio', 'I-LOC'), 12), (('Gabriel', 'I-PER'), 12), (('Mexico', 'I-LOC'), 11), (('mexicano', 'I-MISC'), 10)]"
+1,"[(('mexicana', 'I-MISC'), 77), (('mexicano', 'I-MISC'), 11), (('Matheus', 'I-PER'), 8), (('Rio', 'I-LOC'), 8), (('Mexico', 'I-LOC'), 7)]"
+2,"[(('mexicana', 'I-MISC'), 87), (('mexicano', 'I-MISC'), 28), (('Mexico', 'I-LOC'), 14), (('Rio', 'I-LOC'), 8), (('Maria', 'I-MISC'), 8)]"
+3,"[(('mexicana', 'I-MISC'), 54), (('mexicano', 'I-MISC'), 42), (('Rio', 'I-LOC'), 26), (('Barra', 'I-LOC'), 14), (('da', 'I-LOC'), 10)]"
+4,"[(('mexicana', 'I-MISC'), 15), (('mexicano', 'I-MISC'), 7), (('Mexico', 'I-LOC'), 4), (('Rio', 'I-LOC'), 4), (('Eveline', 'I-PER'), 4)]"
+5,"[(('mexicana', 'I-MISC'), 36), (('mexicano', 'I-MISC'), 22), (('Mexico', 'I-LOC'), 20), (('Rio', 'I-LOC'), 13), (('<s>', 'I-LOC'), 7)]"
+6,"[(('Guacamole', 'I-LOC'), 36), (('Guacamole', 'I-ORG'), 33), (('mexicana', 'I-MISC'), 22), (('Guacamole', 'I-MISC'), 14), (('Barra', 'I-LOC'), 12)]"
+7,"[(('mexicana', 'I-MISC'), 13), (('Guacamole', 'I-ORG'), 3), (('mexicano', 'I-MISC'), 3), (('Matheus', 'I-PER'), 2), (('da', 'I-ORG'), 2)]"
